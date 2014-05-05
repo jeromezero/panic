@@ -6,20 +6,20 @@
   <config:config-item-set config:name="ooo:view-settings">
    <config:config-item config:name="VisibleAreaTop" config:type="int">0</config:config-item>
    <config:config-item config:name="VisibleAreaLeft" config:type="int">0</config:config-item>
-   <config:config-item config:name="VisibleAreaWidth" config:type="int">40640</config:config-item>
-   <config:config-item config:name="VisibleAreaHeight" config:type="int">24269</config:config-item>
+   <config:config-item config:name="VisibleAreaWidth" config:type="int">38144</config:config-item>
+   <config:config-item config:name="VisibleAreaHeight" config:type="int">16139</config:config-item>
    <config:config-item-map-indexed config:name="Views">
     <config:config-item-map-entry>
      <config:config-item config:name="ViewId" config:type="string">view1</config:config-item>
      <config:config-item-map-named config:name="Tables">
       <config:config-item-map-entry config:name="01_structure">
-       <config:config-item config:name="CursorPositionX" config:type="int">5</config:config-item>
-       <config:config-item config:name="CursorPositionY" config:type="int">6</config:config-item>
+       <config:config-item config:name="CursorPositionX" config:type="int">1</config:config-item>
+       <config:config-item config:name="CursorPositionY" config:type="int">0</config:config-item>
        <config:config-item config:name="HorizontalSplitMode" config:type="short">2</config:config-item>
        <config:config-item config:name="VerticalSplitMode" config:type="short">2</config:config-item>
        <config:config-item config:name="HorizontalSplitPosition" config:type="int">2</config:config-item>
        <config:config-item config:name="VerticalSplitPosition" config:type="int">2</config:config-item>
-       <config:config-item config:name="ActiveSplitRange" config:type="short">3</config:config-item>
+       <config:config-item config:name="ActiveSplitRange" config:type="short">0</config:config-item>
        <config:config-item config:name="PositionLeft" config:type="int">0</config:config-item>
        <config:config-item config:name="PositionRight" config:type="int">2</config:config-item>
        <config:config-item config:name="PositionTop" config:type="int">0</config:config-item>
@@ -30,7 +30,7 @@
        <config:config-item config:name="ShowGrid" config:type="boolean">true</config:config-item>
       </config:config-item-map-entry>
       <config:config-item-map-entry config:name="characters">
-       <config:config-item config:name="CursorPositionX" config:type="int">4</config:config-item>
+       <config:config-item config:name="CursorPositionX" config:type="int">1</config:config-item>
        <config:config-item config:name="CursorPositionY" config:type="int">2</config:config-item>
        <config:config-item config:name="HorizontalSplitMode" config:type="short">2</config:config-item>
        <config:config-item config:name="VerticalSplitMode" config:type="short">2</config:config-item>
@@ -81,15 +81,15 @@
        <config:config-item config:name="ShowGrid" config:type="boolean">true</config:config-item>
       </config:config-item-map-entry>
       <config:config-item-map-entry config:name="stuff">
-       <config:config-item config:name="CursorPositionX" config:type="int">0</config:config-item>
+       <config:config-item config:name="CursorPositionX" config:type="int">1</config:config-item>
        <config:config-item config:name="CursorPositionY" config:type="int">2</config:config-item>
-       <config:config-item config:name="HorizontalSplitMode" config:type="short">0</config:config-item>
+       <config:config-item config:name="HorizontalSplitMode" config:type="short">2</config:config-item>
        <config:config-item config:name="VerticalSplitMode" config:type="short">2</config:config-item>
-       <config:config-item config:name="HorizontalSplitPosition" config:type="int">0</config:config-item>
+       <config:config-item config:name="HorizontalSplitPosition" config:type="int">1</config:config-item>
        <config:config-item config:name="VerticalSplitPosition" config:type="int">2</config:config-item>
-       <config:config-item config:name="ActiveSplitRange" config:type="short">2</config:config-item>
+       <config:config-item config:name="ActiveSplitRange" config:type="short">3</config:config-item>
        <config:config-item config:name="PositionLeft" config:type="int">0</config:config-item>
-       <config:config-item config:name="PositionRight" config:type="int">0</config:config-item>
+       <config:config-item config:name="PositionRight" config:type="int">1</config:config-item>
        <config:config-item config:name="PositionTop" config:type="int">0</config:config-item>
        <config:config-item config:name="PositionBottom" config:type="int">2</config:config-item>
        <config:config-item config:name="ZoomType" config:type="short">0</config:config-item>
@@ -98,7 +98,7 @@
        <config:config-item config:name="ShowGrid" config:type="boolean">true</config:config-item>
       </config:config-item-map-entry>
      </config:config-item-map-named>
-     <config:config-item config:name="ActiveTable" config:type="string">characters</config:config-item>
+     <config:config-item config:name="ActiveTable" config:type="string">01_structure</config:config-item>
      <config:config-item config:name="HorizontalScrollbarWidth" config:type="int">526</config:config-item>
      <config:config-item config:name="ZoomType" config:type="short">0</config:config-item>
      <config:config-item config:name="ZoomValue" config:type="int">100</config:config-item>
@@ -146,7 +146,7 @@
    </config:config-item-map-indexed>
    <config:config-item config:name="AutoCalculate" config:type="boolean">true</config:config-item>
    <config:config-item config:name="PrinterName" config:type="string">Canon_MX870_series</config:config-item>
-   <config:config-item config:name="PrinterSetup" config:type="base64Binary">AQL+/0Nhbm9uX01YODcwX3NlcmllcwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAQ1VQUzpDYW5vbl9NWDg3MF9zZXJpZXMAAAAAAAAAAAAWAAMAFQEAAAEAAAAIAFZUAAAkbQAASm9iRGF0YSAxCnByaW50ZXI9Q2Fub25fTVg4NzBfc2VyaWVzCm9yaWVudGF0aW9uPUxhbmRzY2FwZQpjb3BpZXM9MQptYXJnaW5kYWp1c3RtZW50PTAsMCwwLDAKY29sb3JkZXB0aD0yNApwc2xldmVsPTAKcGRmZGV2aWNlPTEKY29sb3JkZXZpY2U9LTEKUFBEQ29udGV4RGF0YQpTdHBJbmtMaW1pdDpOb25lAFN0cElua1R5cGU6R3JheQBTdHBRdWFsaXR5OlN0YW5kYXJkAER1cGxleDpOb25lAFN0cERlbnNpdHk6Tm9uZQBQYWdlU2l6ZTpMZXR0ZXIASW5wdXRTbG90OkF1dG9Td2l0Y2gAAAoASXNRdWlja0pvYgQAdHJ1ZRIAQ09NUEFUX0RVUExFWF9NT0RFCgBEVVBMRVhfT0ZG</config:config-item>
+   <config:config-item config:name="PrinterSetup" config:type="base64Binary">AQL+/0Nhbm9uX01YODcwX3NlcmllcwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAQ1VQUzpDYW5vbl9NWDg3MF9zZXJpZXMAAAAAAAAAAAAWAAMAFQEAAAEAAAAIAFZUAAAkbQAASm9iRGF0YSAxCnByaW50ZXI9Q2Fub25fTVg4NzBfc2VyaWVzCm9yaWVudGF0aW9uPUxhbmRzY2FwZQpjb3BpZXM9MQptYXJnaW5kYWp1c3RtZW50PTAsMCwwLDAKY29sb3JkZXB0aD0yNApwc2xldmVsPTAKcGRmZGV2aWNlPTEKY29sb3JkZXZpY2U9LTEKUFBEQ29udGV4RGF0YQpTdHBJbmtMaW1pdDpOb25lAFN0cElua1R5cGU6R3JheQBTdHBRdWFsaXR5OlN0YW5kYXJkAER1cGxleDpOb25lAFBhZ2VTaXplOkxldHRlcgBTdHBEZW5zaXR5Ok5vbmUASW5wdXRTbG90OkF1dG9Td2l0Y2gAAAoASXNRdWlja0pvYgQAdHJ1ZRIAQ09NUEFUX0RVUExFWF9NT0RFCgBEVVBMRVhfT0ZG</config:config-item>
    <config:config-item config:name="IsRasterAxisSynchronized" config:type="boolean">true</config:config-item>
    <config:config-item config:name="IsSnapToRaster" config:type="boolean">false</config:config-item>
    <config:config-item config:name="RasterSubdivisionX" config:type="int">1</config:config-item>
@@ -315,56 +315,56 @@
   </style:style>
  </office:styles>
  <office:automatic-styles>
-  <style:style style:name="co1" style:family="table-column">
-   <style:table-column-properties fo:break-before="auto" style:column-width="1.0417in"/>
-  </style:style>
-  <style:style style:name="co2" style:family="table-column">
-   <style:table-column-properties fo:break-before="auto" style:column-width="3.0035in"/>
-  </style:style>
-  <style:style style:name="co3" style:family="table-column">
-   <style:table-column-properties fo:break-before="auto" style:column-width="1.2083in"/>
-  </style:style>
-  <style:style style:name="co4" style:family="table-column">
-   <style:table-column-properties fo:break-before="auto" style:column-width="0.889in"/>
-  </style:style>
-  <style:style style:name="co10" style:family="table-column">
-   <style:table-column-properties fo:break-before="auto" style:column-width="2.0134in"/>
-  </style:style>
-  <style:style style:name="co11" style:family="table-column">
-   <style:table-column-properties fo:break-before="auto" style:column-width="5.1457in"/>
-  </style:style>
-  <style:style style:name="co12" style:family="table-column">
-   <style:table-column-properties fo:break-before="auto" style:column-width="4.1457in"/>
-  </style:style>
-  <style:style style:name="co13" style:family="table-column">
-   <style:table-column-properties fo:break-before="auto" style:column-width="0.8957in"/>
-  </style:style>
-  <style:style style:name="co14" style:family="table-column">
-   <style:table-column-properties fo:break-before="auto" style:column-width="1.25in"/>
-  </style:style>
-  <style:style style:name="co15" style:family="table-column">
-   <style:table-column-properties fo:break-before="auto" style:column-width="2.0102in"/>
-  </style:style>
-  <style:style style:name="co16" style:family="table-column">
-   <style:table-column-properties fo:break-before="auto" style:column-width="4.3646in"/>
-  </style:style>
   <style:style style:name="co17" style:family="table-column">
    <style:table-column-properties fo:break-before="auto" style:column-width="4in"/>
   </style:style>
-  <style:style style:name="co18" style:family="table-column">
+  <style:style style:name="co2" style:family="table-column">
+   <style:table-column-properties fo:break-before="auto" style:column-width="1.0417in"/>
+  </style:style>
+  <style:style style:name="co3" style:family="table-column">
+   <style:table-column-properties fo:break-before="auto" style:column-width="3.0035in"/>
+  </style:style>
+  <style:style style:name="co4" style:family="table-column">
+   <style:table-column-properties fo:break-before="auto" style:column-width="1.2083in"/>
+  </style:style>
+  <style:style style:name="co5" style:family="table-column">
+   <style:table-column-properties fo:break-before="auto" style:column-width="0.889in"/>
+  </style:style>
+  <style:style style:name="co6" style:family="table-column">
    <style:table-column-properties fo:break-before="auto" style:column-width="1.7189in"/>
   </style:style>
-  <style:style style:name="co19" style:family="table-column">
+  <style:style style:name="co7" style:family="table-column">
    <style:table-column-properties fo:break-before="auto" style:column-width="4.5in"/>
   </style:style>
-  <style:style style:name="co20" style:family="table-column">
+  <style:style style:name="co8" style:family="table-column">
    <style:table-column-properties fo:break-before="auto" style:column-width="1.2709in"/>
   </style:style>
-  <style:style style:name="co21" style:family="table-column">
+  <style:style style:name="co9" style:family="table-column">
    <style:table-column-properties fo:break-before="auto" style:column-width="1.6043in"/>
   </style:style>
-  <style:style style:name="co22" style:family="table-column">
+  <style:style style:name="co10" style:family="table-column">
    <style:table-column-properties fo:break-before="auto" style:column-width="5.4689in"/>
+  </style:style>
+  <style:style style:name="co11" style:family="table-column">
+   <style:table-column-properties fo:break-before="auto" style:column-width="2.0134in"/>
+  </style:style>
+  <style:style style:name="co12" style:family="table-column">
+   <style:table-column-properties fo:break-before="auto" style:column-width="5.1457in"/>
+  </style:style>
+  <style:style style:name="co13" style:family="table-column">
+   <style:table-column-properties fo:break-before="auto" style:column-width="4.1457in"/>
+  </style:style>
+  <style:style style:name="co14" style:family="table-column">
+   <style:table-column-properties fo:break-before="auto" style:column-width="0.8957in"/>
+  </style:style>
+  <style:style style:name="co15" style:family="table-column">
+   <style:table-column-properties fo:break-before="auto" style:column-width="1.25in"/>
+  </style:style>
+  <style:style style:name="co16" style:family="table-column">
+   <style:table-column-properties fo:break-before="auto" style:column-width="2.0102in"/>
+  </style:style>
+  <style:style style:name="co18" style:family="table-column">
+   <style:table-column-properties fo:break-before="auto" style:column-width="4.3646in"/>
   </style:style>
   <style:style style:name="ro1" style:family="table-row">
    <style:table-row-properties style:row-height="0.4661in" fo:break-before="auto" style:use-optimal-row-height="true"/>
@@ -372,23 +372,8 @@
   <style:style style:name="ro2" style:family="table-row">
    <style:table-row-properties style:row-height="0.3728in" fo:break-before="auto" style:use-optimal-row-height="true"/>
   </style:style>
-  <style:style style:name="ro3" style:family="table-row">
-   <style:table-row-properties style:row-height="1.9689in" fo:break-before="auto" style:use-optimal-row-height="true"/>
-  </style:style>
-  <style:style style:name="ro4" style:family="table-row">
-   <style:table-row-properties style:row-height="1.4091in" fo:break-before="auto" style:use-optimal-row-height="true"/>
-  </style:style>
   <style:style style:name="ro5" style:family="table-row">
    <style:table-row-properties style:row-height="1.2228in" fo:break-before="auto" style:use-optimal-row-height="true"/>
-  </style:style>
-  <style:style style:name="ro6" style:family="table-row">
-   <style:table-row-properties style:row-height="0.2516in" fo:break-before="auto" style:use-optimal-row-height="true"/>
-  </style:style>
-  <style:style style:name="ro7" style:family="table-row">
-   <style:table-row-properties style:row-height="0.6634in" fo:break-before="auto" style:use-optimal-row-height="true"/>
-  </style:style>
-  <style:style style:name="ro9" style:family="table-row">
-   <style:table-row-properties style:row-height="0.2898in" fo:break-before="auto" style:use-optimal-row-height="true"/>
   </style:style>
   <style:style style:name="ro12" style:family="table-row">
    <style:table-row-properties style:row-height="3.2752in" fo:break-before="auto" style:use-optimal-row-height="true"/>
@@ -396,8 +381,23 @@
   <style:style style:name="ro13" style:family="table-row">
    <style:table-row-properties style:row-height="4.2181in" fo:break-before="auto" style:use-optimal-row-height="true"/>
   </style:style>
-  <style:style style:name="ro14" style:family="table-row">
+  <style:style style:name="ro6" style:family="table-row">
+   <style:table-row-properties style:row-height="0.2516in" fo:break-before="auto" style:use-optimal-row-height="true"/>
+  </style:style>
+  <style:style style:name="ro8" style:family="table-row">
+   <style:table-row-properties style:row-height="1.9689in" fo:break-before="auto" style:use-optimal-row-height="true"/>
+  </style:style>
+  <style:style style:name="ro9" style:family="table-row">
+   <style:table-row-properties style:row-height="1.4091in" fo:break-before="auto" style:use-optimal-row-height="true"/>
+  </style:style>
+  <style:style style:name="ro10" style:family="table-row">
+   <style:table-row-properties style:row-height="0.6634in" fo:break-before="auto" style:use-optimal-row-height="true"/>
+  </style:style>
+  <style:style style:name="ro11" style:family="table-row">
    <style:table-row-properties style:row-height="1.0362in" fo:break-before="auto" style:use-optimal-row-height="true"/>
+  </style:style>
+  <style:style style:name="ro14" style:family="table-row">
+   <style:table-row-properties style:row-height="0.2898in" fo:break-before="auto" style:use-optimal-row-height="true"/>
   </style:style>
   <style:style style:name="ro15" style:family="table-row">
    <style:table-row-properties style:row-height="0.4764in" fo:break-before="auto" style:use-optimal-row-height="true"/>
@@ -405,27 +405,15 @@
   <style:style style:name="ro16" style:family="table-row">
    <style:table-row-properties style:row-height="0.1874in" fo:break-before="auto" style:use-optimal-row-height="false"/>
   </style:style>
-  <style:style style:name="ta1" style:family="table" style:master-page-name="PageStyle_5f_01_5f_structure">
+  <style:style style:name="ta1" style:family="table" style:master-page-name="Main">
    <style:table-properties table:display="true" style:writing-mode="lr-tb"/>
   </style:style>
-  <style:style style:name="ta3" style:family="table" style:master-page-name="PageStyle_5f_locations">
-   <style:table-properties table:display="true" style:writing-mode="lr-tb"/>
-  </style:style>
-  <style:style style:name="ta4" style:family="table" style:master-page-name="PageStyle_5f_stuff">
-   <style:table-properties table:display="true" style:writing-mode="lr-tb"/>
-  </style:style>
-  <style:style style:name="ta5" style:family="table" style:master-page-name="Default">
-   <style:table-properties table:display="true" style:writing-mode="lr-tb"/>
-  </style:style>
-  <style:style style:name="ta6" style:family="table" style:master-page-name="PageStyle_5f_characters">
-   <style:table-properties table:display="true" style:writing-mode="lr-tb"/>
-  </style:style>
-  <style:style style:name="ce2" style:family="table-cell" style:parent-style-name="Heading">
+  <style:style style:name="ce1" style:family="table-cell" style:parent-style-name="Heading">
    <style:table-cell-properties style:text-align-source="fix" style:repeat-content="false" style:vertical-align="middle"/>
    <style:paragraph-properties fo:text-align="center"/>
    <style:text-properties style:text-position=""/>
   </style:style>
-  <style:style style:name="ce3" style:family="table-cell" style:parent-style-name="Heading">
+  <style:style style:name="ce2" style:family="table-cell" style:parent-style-name="Heading">
    <style:table-cell-properties style:text-align-source="fix" style:repeat-content="false" style:vertical-align="middle"/>
    <style:paragraph-properties fo:text-align="center"/>
   </style:style>
@@ -498,7 +486,7 @@
    </style:footer>
    <style:footer-left style:display="false"/>
   </style:master-page>
-  <style:master-page style:name="PageStyle_5f_01_5f_structure" style:display-name="PageStyle_01_structure" style:page-layout-name="pm3">
+  <style:master-page style:name="Main" style:page-layout-name="pm3">
    <style:header style:display="false">
     <style:region-left>
      <text:p>episode one</text:p>
@@ -550,13 +538,13 @@
  </office:master-styles>
  <office:body>
   <office:spreadsheet>
-   <table:table table:name="01_structure" table:style-name="ta1" table:print="false">
+   <table:table table:name="01_structure" table:style-name="ta1">
     <office:forms form:automatic-focus="false" form:apply-design-mode="false"/>
-    <table:table-column table:style-name="co1" table:visibility="collapse" table:default-cell-style-name="Default"/>
     <table:table-column table:style-name="co2" table:visibility="collapse" table:default-cell-style-name="Default"/>
-    <table:table-column table:style-name="co2" table:number-columns-repeated="5" table:default-cell-style-name="Default"/>
-    <table:table-column table:style-name="co3" table:number-columns-repeated="249" table:default-cell-style-name="Default"/>
-    <table:table-column table:style-name="co4" table:number-columns-repeated="768" table:default-cell-style-name="Default"/>
+    <table:table-column table:style-name="co3" table:visibility="collapse" table:default-cell-style-name="Default"/>
+    <table:table-column table:style-name="co3" table:number-columns-repeated="5" table:default-cell-style-name="Default"/>
+    <table:table-column table:style-name="co4" table:number-columns-repeated="249" table:default-cell-style-name="Default"/>
+    <table:table-column table:style-name="co5" table:number-columns-repeated="768" table:default-cell-style-name="Default"/>
     <table:table-row table:style-name="ro1">
      <table:table-cell table:number-columns-repeated="3"/>
      <table:table-cell table:style-name="Heading" office:value-type="string" table:number-columns-spanned="3" table:number-rows-spanned="1">
@@ -589,7 +577,7 @@
      </table:table-cell>
      <table:table-cell table:style-name="header-sub" table:number-columns-repeated="1017"/>
     </table:table-row>
-    <table:table-row table:style-name="ro3">
+    <table:table-row table:style-name="ro8">
      <table:table-cell table:number-columns-repeated="2"/>
      <table:table-cell office:value-type="string">
       <text:p>Daisy, Tank &amp; Louis enter into a medical trailer, seeking a calm space. Louis is suffering from the onset of a panic attack. (he&apos;s seen something that set him off)</text:p>
@@ -608,7 +596,7 @@
      </table:table-cell>
      <table:table-cell table:number-columns-repeated="1017"/>
     </table:table-row>
-    <table:table-row table:style-name="ro4">
+    <table:table-row table:style-name="ro9">
      <table:table-cell table:number-columns-repeated="2"/>
      <table:table-cell office:value-type="string">
       <text:p>Daisy rummages through drawers and cabinets while Tank calls for a ride – they need to be picked up now. The person on the other end of the phone: You took him where? Are you crazy? Louis is dangerous.</text:p>
@@ -640,7 +628,7 @@
     <table:table-row table:style-name="ro6">
      <table:table-cell table:number-columns-repeated="1024"/>
     </table:table-row>
-    <table:table-row table:style-name="ro7">
+    <table:table-row table:style-name="ro10">
      <table:table-cell table:number-columns-repeated="5"/>
      <table:table-cell office:value-type="string">
       <text:p>&lt;!--TODO: research – sedatives available in mobile medical trailers? Sedatives in use for mental patients?--&gt;</text:p>
@@ -654,15 +642,15 @@
      <table:table-cell table:number-columns-repeated="1024"/>
     </table:table-row>
    </table:table>
-   <table:table table:name="characters" table:style-name="ta6" table:print="false">
+   <table:table table:name="characters" table:style-name="ta1">
     <office:forms form:automatic-focus="false" form:apply-design-mode="false"/>
-    <table:table-column table:style-name="co18" table:default-cell-style-name="Default"/>
-    <table:table-column table:style-name="co19" table:default-cell-style-name="Default"/>
-    <table:table-column table:style-name="co20" table:default-cell-style-name="Default"/>
-    <table:table-column table:style-name="co21" table:default-cell-style-name="Default"/>
-    <table:table-column table:style-name="co22" table:default-cell-style-name="Default"/>
-    <table:table-column table:style-name="co3" table:number-columns-repeated="251" table:default-cell-style-name="Default"/>
-    <table:table-column table:style-name="co4" table:number-columns-repeated="768" table:default-cell-style-name="Default"/>
+    <table:table-column table:style-name="co6" table:default-cell-style-name="Default"/>
+    <table:table-column table:style-name="co7" table:default-cell-style-name="Default"/>
+    <table:table-column table:style-name="co8" table:default-cell-style-name="Default"/>
+    <table:table-column table:style-name="co9" table:default-cell-style-name="Default"/>
+    <table:table-column table:style-name="co10" table:default-cell-style-name="Default"/>
+    <table:table-column table:style-name="co4" table:number-columns-repeated="251" table:default-cell-style-name="Default"/>
+    <table:table-column table:style-name="co5" table:number-columns-repeated="768" table:default-cell-style-name="Default"/>
     <table:table-row table:style-name="ro1">
      <table:table-cell table:style-name="Heading"/>
      <table:table-cell table:style-name="Heading" office:value-type="string" table:number-columns-spanned="3" table:number-rows-spanned="1">
@@ -689,7 +677,7 @@
      </table:table-cell>
      <table:table-cell table:style-name="header-sub" table:number-columns-repeated="1019"/>
     </table:table-row>
-    <table:table-row table:style-name="ro14">
+    <table:table-row table:style-name="ro11">
      <table:table-cell office:value-type="string">
       <text:p>Louis Blake (bartok?)</text:p>
      </table:table-cell>
@@ -698,7 +686,7 @@
      </table:table-cell>
      <table:table-cell table:number-columns-repeated="1022"/>
     </table:table-row>
-    <table:table-row table:style-name="ro9">
+    <table:table-row table:style-name="ro14">
      <table:table-cell office:value-type="string">
       <text:p>Tank</text:p>
      </table:table-cell>
@@ -731,7 +719,7 @@
     <table:table-row table:style-name="ro6" table:number-rows-repeated="2">
      <table:table-cell table:number-columns-repeated="1024"/>
     </table:table-row>
-    <table:table-row table:style-name="ro9">
+    <table:table-row table:style-name="ro14">
      <table:table-cell office:value-type="string">
       <text:p>The Doctor</text:p>
      </table:table-cell>
@@ -750,12 +738,13 @@
      <table:table-cell table:number-columns-repeated="1024"/>
     </table:table-row>
    </table:table>
-   <table:table table:name="locations" table:style-name="ta3" table:print="false">
-    <table:table-column table:style-name="co10" table:default-cell-style-name="Default"/>
+   <table:table table:name="locations" table:style-name="ta1">
+    <office:forms form:automatic-focus="false" form:apply-design-mode="false"/>
     <table:table-column table:style-name="co11" table:default-cell-style-name="Default"/>
     <table:table-column table:style-name="co12" table:default-cell-style-name="Default"/>
-    <table:table-column table:style-name="co13" table:number-columns-repeated="253" table:default-cell-style-name="Default"/>
-    <table:table-column table:style-name="co4" table:number-columns-repeated="768" table:default-cell-style-name="Default"/>
+    <table:table-column table:style-name="co13" table:default-cell-style-name="Default"/>
+    <table:table-column table:style-name="co14" table:number-columns-repeated="253" table:default-cell-style-name="Default"/>
+    <table:table-column table:style-name="co5" table:number-columns-repeated="768" table:default-cell-style-name="Default"/>
     <table:table-row table:style-name="ro1">
      <table:table-cell table:style-name="Heading"/>
      <table:table-cell table:style-name="Heading" office:value-type="string" table:number-columns-spanned="2" table:number-rows-spanned="1">
@@ -776,7 +765,7 @@
      </table:table-cell>
      <table:table-cell table:style-name="header-sub" table:number-columns-repeated="1021"/>
     </table:table-row>
-    <table:table-row table:style-name="ro9">
+    <table:table-row table:style-name="ro14">
      <table:table-cell office:value-type="string">
       <text:p>the medical trailer at the fair</text:p>
      </table:table-cell>
@@ -789,15 +778,16 @@
      <table:table-cell table:number-columns-repeated="1024"/>
     </table:table-row>
    </table:table>
-   <table:table table:name="stuff" table:style-name="ta4" table:print="false">
-    <table:table-column table:style-name="co14" table:default-cell-style-name="Default"/>
+   <table:table table:name="stuff" table:style-name="ta1">
+    <office:forms form:automatic-focus="false" form:apply-design-mode="false"/>
     <table:table-column table:style-name="co15" table:default-cell-style-name="Default"/>
     <table:table-column table:style-name="co16" table:default-cell-style-name="Default"/>
-    <table:table-column table:style-name="co14" table:number-columns-repeated="253" table:default-cell-style-name="Default"/>
-    <table:table-column table:style-name="co4" table:number-columns-repeated="768" table:default-cell-style-name="Default"/>
+    <table:table-column table:style-name="co18" table:default-cell-style-name="Default"/>
+    <table:table-column table:style-name="co15" table:number-columns-repeated="253" table:default-cell-style-name="Default"/>
+    <table:table-column table:style-name="co5" table:number-columns-repeated="768" table:default-cell-style-name="Default"/>
     <table:table-row table:style-name="ro1">
      <table:table-cell table:style-name="Heading"/>
-     <table:table-cell table:style-name="ce3" office:value-type="string" table:number-columns-spanned="2" table:number-rows-spanned="1">
+     <table:table-cell table:style-name="ce2" office:value-type="string" table:number-columns-spanned="2" table:number-rows-spanned="1">
       <text:p>Stuff</text:p>
      </table:table-cell>
      <table:covered-table-cell table:style-name="Heading"/>
@@ -822,12 +812,12 @@
      <table:table-cell table:number-columns-repeated="1024"/>
     </table:table-row>
    </table:table>
-   <table:table table:name="episode ideas" table:style-name="ta5">
+   <table:table table:name="episode ideas" table:style-name="ta1">
     <office:forms form:automatic-focus="false" form:apply-design-mode="false"/>
     <table:table-column table:style-name="co17" table:number-columns-repeated="1024" table:default-cell-style-name="Default"/>
     <table:table-row table:style-name="ro1">
      <table:table-cell/>
-     <table:table-cell table:style-name="ce3" office:value-type="string">
+     <table:table-cell table:style-name="ce2" office:value-type="string">
       <text:p>Episode Ideas</text:p>
      </table:table-cell>
      <table:table-cell/>
