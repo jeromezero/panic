@@ -198,6 +198,8 @@ He answered it. "This is Tank Halloran. Yes. I did call--Yes, I still need a car
 
 <!-- NOTE: I thought it might be nice to add something about how Tank isn't supposed to have Daisy off the grounds ... she either isn't cleared for this kind of thing, or has a reputation of being a manipulator of a perhaps sexual nature - perhaps neither of these patients should be cleared for day trips. Perhaps Tank is only a janitor -->
 
+<!-- NOTE: does the ending need something different? I kind of want the transformation to be vague at this point, but ideally it should be conclusive somehow. or cliffhangy? -->
+
 Louis seemed to fill the medical trailer. Though he didn't appear to physically change, to grow from one moment to the next, his presence expanded. 
 
 His breath had deepened and evened out. It was loud. The loudest thing in the trailer. The only other sound was the voice coming through Tank's cellular phone.
@@ -216,5 +218,4 @@ The trailer rocked back and forth on its blocks and fell over.
 
 The sound of tearing flesh and breaking bones soon overtook and replaced the screams.
 
-<!-- TODO: still needs some love on the ending. -->
 
