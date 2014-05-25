@@ -13,7 +13,7 @@
 
 Louis was pudgy, pale and hyperventilating, seated in a padded leatherette examination chair with a chrome footrest.
 
-Daisy wiped his face with a wad of wet paper towels, leaving little pills of paper stuck to him.
+Daisy wiped his face with a wad of wet paper towels, leaving little pills of paper clinging to his damp skin.
 
 Tank pushed her roughly aside, sending her caroming off the cabinetry. "I told you to give him some space," Tank said. "He needs to breathe."
 
@@ -113,59 +113,61 @@ The strawberry light of sunset shot into the trailer as two EMTs burst through t
 
 Louis wheezed. His eyes were wide--yellowed whites gleamed all around them. "It's gonna be fine," he said. "Just everybody calm down, okay?"
 
-"Mind your business, yeah?" Tank said. "You 
+"Don't just stand there like a couple of dipshits," Tank said. "You guys can give me a hand or you can wait outside."
 
-<!-- TODO: pickup edit here -->
+"You fucking serious?" Jared said. "Oh *hell* no. We don't play those kind of games. Not in *my* trailer." He lurched forward and grabbed Tank at the back of his collar and jerked him away from the girl. "Grab his arm, Bradley. Ow! Fuck. Fucking hold him."
 
-The EMTs lunged at Tank. "Grab his arm, Bradley. Ow! Fuck. Fucking hold him."
+"What the fuck is wrong with you guys? I'm a nurse, not a rapist. She's my patient, goddamn it. She's unstable. She needs to be restrained right now, not me. She stabbed me with a fucking Epi-Pen."
 
-"What the fuck is wrong with you guys? She's my patient. Goddamn it. She's unstable. She needs to be restrained right now, not me. She stabbed me with a fucking Epi-Pen."
+The three of them became quickly entangled, smashing back and forth between the narrow walls. Cabinets opened and closed at their impact, raining gauze, tongue-depressors, paper cups and office supplies down onto Daisy. 
 
----
+Daisy kicked off from the cabinets and slid across the linoleum floor to the base of Louis' examination chair. She reached for Louis' hand, but he jerked it away as soon as she touched it. His eyes were pressed tight together and he moved his lips silently.
 
-The EMTs Bradley and Jared struggled with Tank. They Pulled him off of Daisy and stumbled around, knocking into things. 
-What things? This might be a good moment to get a better visual sense of the trailer.
-"Get off of me, you fucking *technicians,*" Tank said. He spit the word 'technicians' with such venom there was no mistaking his disgust. "What, did you order your certifications online? I am a fucking *NURSE.* Respect your betters."
+Bradley got one of Tank's arms twisted up behind his back and held him pinned, his face pressed down onto the countertop below the microwave, inches from the coffee maker.
 
-"Where did you say you work?" EMT Jared said as Tank smashed him into the countertop.
+"Get off of me, you fucking *technicians,*" Tank said, saliva frothing at his lips. 
 
-"Seven Oaks," Tank said, struggling to speak as EMT Bradley's fingers gouged into his eyes and face.
+"We need security at the medical trailer," Jared shouted into his radio.
 
-"Up at the assylum, huh?" EMT Bradley said.
+"Look, I'm just trying to get them back to Seven Oaks," Tank said. "There's a car on the way."
 
-"Just bringing these two out for a day trip."
+"You're not going anywhere 'til the cops show up," Jared said. "Seven Oaks, huh? They'll wanna know they got a rapist on staff, I bet."
 
-"Day's about done, son. You better relax."
-I like this diolouge, but to be honest, I have a hard time believing that it can happen as the EMT is getting the wind knocked out of him.
+Daisy pressed her breasts to Louis's legs, sliding them up his body as she lifted herself into a kneeling position in front of him.
+
+Jared's radio chirped to life. A confused voice shrouded in static called out "Medical trailer? What's the situation? You at the uh ... south entrance or the ... uh ... northwest--by the overpass?"
+
 <!-- ACT FOUR: While Tank is talking with the EMTs, Daisy messes with Louis, pressing her tits in his face, teasing him, alternating between encouraging him and berating him—trying to convince him to freak out, or to take her to the fun house -->
 
-Daisy kicked off from the cabinets and slid across the linoleum floor to the base of Louis' examination chair. She reached for Louis' hand, but Louis jerked it away as soon as she touched it. 
-Can you make it a little clearer that this is happening in the middle of a fight that's taking place in a tiny room?
-He sat with his eyes pressed tightly together, counting under his breath, which was still ragged and gasping.
-
-Daisy pulled herself up via the armrest instead. She pressed her breasts to Louis's legs, sliding them up his body as she lifted herself into a kneeling position in front of him.
-
-"I've always liked you, Louis," she said.
+"I've always liked you, Louis," Daisy said.
 
 Louis didn't open his eyes. His mouth kept working, pushing numbers out his trembling lips as he shook his head back and forth.
 
-"Are you serious?" Tank shouted from across the room. Bradley and Jared, EMTs struggled to hold him down. "Get the fuck off of him, Daisy. I told you. He needs space." 
+"Are you serious?" Tank shouted from across the room as Bradley struggled to hold him down. "Get the fuck off of him, Daisy. I told you. He needs space." 
 
-"What's the matter, Tank? You jealous?" Daisy pushed her way closer to Louis, so she stood with her legs to either side of his knee. "You know ... we could slip out of here," she said. "We don't need them. We can go to the funhouse ourselves. Just you and me, Louis ... alone together. It could be *real* fun. Come on."
+"Hey, are we at the south entrance?" Jared said. 
+
+"What's the matter, Tank? You jealous?" Daisy climbed into Louis' lap, straddling him, with her arms around his neck. "You know ... we could slip out of here," she said. "We don't need them. We can go to the funhouse ourselves. Just you and me, Louis ... alone together. It could be *real* fun. Come on."
 
 Louis gagged. He choked and sputtered and fell from the chair.
 
+The radio voice punched through the static. "South entrance? by Davis Street?"
+
+Tank twisted and jerked and tried to pull free of Bradleys hold. He managed to smash the back of his head into the bottom of the microwave and fall forward into the coffee maker, sending it crashing to the floor.
+
+"I don't know," Jared said, standing in the doorway, looking around outside. "We're ... by the bumper cars? By the bumper cars. We are by the bumper cars. It's a ... a violent situation. We need assistance. Medical trailer. By the bumper cars."
+
 "Oh fuck," Daisy said. "You threw up on my shoe. He threw up on my shoe!"
 
-"What's happening to me?" Louis spasmed and heaved and coughed up fluid that splashed on the linoleum floor.
-I'm a little confused here. Has this happened to Louis before? There's times in this scene where he seems to be scared of something that he knows will happen, then here he is unsure. Which one is it?
+"I told you to relax," Louis said. "I just needed a minute to ... catch my breath." He spasmed and heaved and coughed up fluid that splashed on the linoleum floor. 
+
 "Oh gross," Daisy said.
 
-"Is that blood?" EMT Bradley said, loosening his grip on Tank's arm.
+"Is that blood?" Bradley said, loosening his grip on Tank's arm.
 
-"Jesus," EMT Jared said. "He really doesn't look so good."
+"Blood?" Jared said, walking back inside for a better look. "He really doesn't look so good."
 
-Taking advantage of their distraction, Tank pulled his right arm free and smashed it into EMT Jared's face. "No shit?" Tank said. "Is that your professional opinion?" 
+Tank pulled his right arm free and smashed it into Jared's face. "No shit?" Tank said. "Is that your professional opinion?" 
 
 Jared crashed limp to the floor. 
 
@@ -189,29 +191,27 @@ Tank mashed at the butons on his phone. The screen was cracked and distorted, bu
 
 He answered it. "This is Tank Halloran. Yes. I did call--Yes, I still need a car! What the fuck? Where is the fucking car? My patient is freaking out and--a panic attack. A fucking panic attack, and these assholes here have made things so much worse--Yes. I've just been attacked by these--Who is it? The patient is Louis Blake, and--yes, I'll hold."
 
-"I can smell it," Louis said, his voice gutteral and raspy. Where it had been soft and unsteady, it was now scraping and booming, like a wheelbarrow full of stones being dumped into a mine shaft.
-While this is a fun and discriptive metaphore, I would love to hear you use one that relates to Louis' state of mind, the funhouse, or the bloody scene in the room.
+"I can smell it," Louis said, his voice gutteral and raspy. Where it had been soft and unsteady, it was now scraping and booming, like the grinding gears of the Ferris wheel.
+
 "What? What are you talking about?" Daisy backed away from Louis without getting up. She fell back onto her ass and shuffled away, pushing with her hands and feet until she backed into the cabinets.
 
 <!-- NOTE: I thought it might be nice to add something about how Tank isn't supposed to have Daisy off the grounds ... she either isn't cleared for this kind of thing, or has a reputation of being a manipulator of a perhaps sexual nature - perhaps neither of these patients should be cleared for day trips. Perhaps Tank is only a janitor -->
 
 <!-- NOTE: does the ending need something different? I kind of want the transformation to be vague at this point, but ideally it should be conclusive somehow. or cliffhangy? -->
 
-Louis seemed to fill the medical trailer. Though he didn't appear to physically change (to grow from one moment to the next) his presence expanded. 
+Louis expanded. He didn't appear to physically change, but his presence grew until he filled the medical trailer.
 
-His breath had deepened and evened out. It was loud. The loudest thing in the trailer. The only other sound was the voice coming through Tank's cellular phone.
+His breath deepened and evened out. It was loud. The loudest thing in the trailer. The only other sound was the voice coming through Tank's cellular phone.
 
 "Who gave you authorization to take him off the property? Jesus Christ, Halloran. The car is on the way, but do you have any idea how much trouble you are causing? They've been looking everywhere for this kid. Hello? Halloran? Tank? Are you there?"
 
-Louis didn't look pudgy or asthmatic. His eyes glowed deep yellow. Tusks of blood and bile hung from his mouth. His body seemed to pulse and bristle with energy. He filled half the trailer with his physical presence. He was all darkness, sinew and muscle. 
-Love the "tusks of blood."
+Louis' eyes glowed deep yellow. Tusks of blood and bile hung from his mouth. His body seemed to pulse and bristle with energy. He was a mass of darkness, sinew and muscle. 
+
 Louis leapt.
 
-There was a sound like the roar of an animal or an explosion. A wave of hot air blasted through the confined space, smelling of burning match-heads. All the lightbulbs exploded, sending the trailer into darkness.
-I'm not sure that something can sound like the "roar of an animal or and explosion." Could sould halfway between the two, could sould like "the roar of an animal or the shredding of lumber" not sure. Just didn't sit quite right for me.
-Daisy screamed. 
+There came a sound like the of tearing fabric and the splintering of wood. A wave of hot air blasted through the confined space, smelling of burning match-heads. All the lightbulbs exploded, sending the trailer into darkness.
 
-The trailer rocked back and forth on its blocks and fell over.
+The trailer rocked back and forth on its blocks and fell onto its side.
 
 The sound of tearing flesh and breaking bones soon overtook and replaced the screams.
 
