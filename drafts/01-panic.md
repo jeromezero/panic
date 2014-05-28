@@ -50,7 +50,7 @@ His breath came ragged and hard, wracking his whole body. His knuckles popped an
 
 "I'll be okay. I just. I ... I can't catch my breath."
 
-"What happened, Louis?" Tank pushed Daisy away and stepped toward Louis. "You were doing so well. Just relax. Breathe, Louis. That's it. Nice and easy."
+"What happened, Louis?" Tank pushed Daisy away and stepped toward him. "You were doing so well. Just relax. Breathe, Louis. That's it. Nice and easy."
 
 "Why did we have to bring stupid Louis along?" Daisy said. 
 
@@ -75,13 +75,13 @@ Louis' breath was loud, ragged and desperate. It competed with the sounds of the
 
 Daisy was the first to look away. She broke eye contact and crossed her arms under her breasts and she walked into the corner of the trailer, where she could look out the window. "You promised you'd take me to the fun house," she said, barely loud enough to be heard.
 
-Tank ignored crossed to the opposite corner and picked his phone off the floor.
+Tank ignored her. He picked his phone off the floor.
 
 Daisy rummaged through the cabinets while Tank shouted into his phone, "Hello! Can you hear me? Hello? The damn thing is broken. Great, Daisy. If you broke my phone, you fucking stupid bitch, I'll--"
 
 Daisy ripped the plastic away from a single-use syringe and lifted it over her head. She screamed and charged at Tank, taking him by surprise as she sank the needle into the flesh where the top of his shoulder met his neck.
 
-"Holy fuck," Tank dropped his phone and wrapped his arms around Daisy, pinning her arms to her sides. He lifted her up into the air and slammed her into the cabinets. They fell together into a tangled heap on the floor.
+"Holy fuck," Tank dropped his phone and lifted Daisy, pinning her arms to her sides. He slammed her into the cabinets. They fell together into a tangled heap on the floor.
 
 <!-- ACT THREE: Tank: You know how fucking dangerous that is? What the fuck did you hit me with? He's sweating and a little nauseous and really pumped up. Epinephrine. Adrenaline. Are you stupid? -->
 
@@ -105,7 +105,7 @@ The strawberry light of sunset shot into the trailer as two EMTs burst through t
 
 "Hey, Bradley," the other EMT said. "This guy's your friend? You'd better get him offa her. Jesus Christ, man."
  
-""I know him ... but he ain't my friend. I didn't know he was *this* kinda freaky. Get up offa her, Tank. Just like Jared said. Nice and slow."
+"I know him ... but he ain't my friend. I didn't know he was *this* kinda freaky. Get up offa her, Tank. Just like Jared said. Nice and slow."
 
 "I am going to need another minute here, boys," Tank said.
 
@@ -195,7 +195,7 @@ He answered it. "This is Tank Halloran. Yes. I did call--Yes, I still need a car
 
 "I can smell it," Louis said, his voice guttural and raspy. Where it had been soft and unsteady, it was now scraping and booming, like the grinding gears of the Ferris wheel.
 
-"What? What are you talking about?" Daisy backed away from Louis without getting up. She fell back onto her ass and shuffled away, pushing with her hands and feet until she backed into the cabinets.
+"What? What are you talking about?" Daisy backed away from Louis without getting up. She fell back onto her ass and shuffled away, pushing with her hands and feet until she hit the cabinets.
 
 <!-- NOTE: I thought it might be nice to add something about how Tank isn't supposed to have Daisy off the grounds ... she either isn't cleared for this kind of thing, or has a reputation of being a manipulator of a perhaps sexual nature - perhaps neither of these patients should be cleared for day trips. Perhaps Tank is only a janitor -->
 
@@ -203,7 +203,7 @@ He answered it. "This is Tank Halloran. Yes. I did call--Yes, I still need a car
 
 Louis expanded. He didn't appear to physically change, but his presence grew until he filled the room.
 
-His breath deepened and evened out. It was loud. The loudest thing in the trailer. The only other sound was the voice coming through Tank's cellular phone.
+His breath deepened and evened out. It was loud. The loudest thing in the trailer. The only other sound was the small voice coming through Tank's cellular phone.
 
 "Who gave you authorization to take him off the property? Jesus Christ, Halloran. The car is on the way, but do you have any idea how much trouble you are causing? They've been looking everywhere for this kid. Halloran? Can you hear me? Tank? Are you there?"
 
