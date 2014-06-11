@@ -19,7 +19,7 @@ Tank pushed her aside, sending her caroming off the cabinetry. "I told you to gi
 
 "Fuck you, Tank," Daisy said, wiping blood from the corner of her mouth. "It was helping. And you fucking ... I bit my fucking tongue. Asshole."
 
-Tank wedged his cellphone between his shoulder and his ear and pressed his fingers to Louis' wrist. He counted along with the second hand on the wall-mounted clock
+Tank wedged his phone between his shoulder and his ear and pressed his fingers to Louis' wrist. He counted along with the second hand on the wall-mounted clock
 
 "This is Tank Halloran," he said. "I'm going to need a--What? Yes, I'll hold. ... Fucking bitch! I lost count. What? No. Not you. You put me on hold. I didn't know you were still on the line. I need a--yes, I'll hold. Dammit, Daisy. Daisy, get away from there! Get out of the cupboard. Yes, thank you. I have a patient with--my name is Tank Halloran, Attendant Ward. Yes. No. No, I have two patients ... on a field trip, right, but I need a car to pick us up right away. Louis Blake is having an episode ... a panic attack."
 
@@ -28,7 +28,7 @@ Tank wedged his cellphone between his shoulder and his ear and pressed his finge
 <!-- ACT TWO: Daisy gets upset – they can't go back yet. Tank promised he'd take her to the fun house. They made a 
 deal. Quid pro Quo. -->
 
-"No!" Daisy said. "We can't leave!" She pulled Tank's' cell phone away from him and threw it across the room. "Not until we see the fun house. You promised, Tank. You promised."
+"No!" Daisy said. "We can't leave!" She pulled Tank's' phone away from him and threw it across the room. "Not until we see the fun house. You promised, Tank. You promised."
 
 Daisy's mascara ran. She stood facing Tank with her shoulders hunched, her hands balled up into little fists at her sides.
 
@@ -203,7 +203,7 @@ He answered it. "This is Tank Halloran. Yes. I did call--Yes, I still need a car
 
 Louis expanded. He didn't appear to physically change, but his presence grew until he filled the room.
 
-His breath deepened and evened out. It was loud. The loudest thing in the trailer. The only other sound was the small voice coming through Tank's cellular phone.
+His breath deepened and evened out. It was loud. The loudest thing in the trailer. The only other sound was the small voice coming through Tank's phone.
 
 "Who gave you authorization to take him off the property? Jesus Christ, Halloran. The car is on the way, but do you have any idea how much trouble you are causing? They've been looking everywhere for this kid. Halloran? Can you hear me? Tank? Are you there?"
 
