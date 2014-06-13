@@ -273,28 +273,5 @@
 </html>
 </richcontent>
 </node>
-<node TEXT="scene" POSITION="left" ID="ID_521694806" CREATED="1402017760092" MODIFIED="1402017765594">
-<edge COLOR="#7c007c"/>
-</node>
-<node TEXT="Weslaco Tx" POSITION="left" ID="ID_689217456" CREATED="1402017765829" MODIFIED="1402017810889">
-<edge COLOR="#007c7c"/>
-<richcontent TYPE="NOTE">
-
-<html>
-  <head>
-    
-  </head>
-  <body>
-    <p http-equiv="content-type" style="background-color: rgb(255, 255, 255); margin-bottom: 0; white-space: normal; font-style: normal; font-family: sans-serif; line-height: 22.399999618530273px; word-spacing: 0px; font-variant: normal; letter-spacing: normal; margin-top: 0; margin-right: 0px; text-align: start; color: rgb(37, 37, 37); font-size: 14px; text-transform: none; margin-left: 0px; font-weight: normal; text-indent: 0px" content="text/html; charset=utf-8">
-      <b>Weslaco</b><span class="Apple-converted-space">&#160;</span>is a city in<span class="Apple-converted-space">&#160;</span><a style="text-decoration: none; background-image: null; background-position: null; background-repeat: repeat; color: rgb(11, 0, 128); background-attachment: scroll" href="http://en.wikipedia.org/wiki/Hidalgo_County,_Texas" title="Hidalgo County, Texas"><font color="rgb(11, 0, 128)">Hidalgo County</font></a>,<span class="Apple-converted-space">&#160;</span><a style="text-decoration: none; background-image: null; background-position: null; background-repeat: repeat; color: rgb(11, 0, 128); background-attachment: scroll" href="http://en.wikipedia.org/wiki/Texas" title="Texas"><font color="rgb(11, 0, 128)">Texas</font></a>. The population was 35,670 at the<span class="Apple-converted-space">&#160;</span><a style="text-decoration: none; background-image: null; background-position: null; background-repeat: repeat; color: rgb(11, 0, 128); background-attachment: scroll" href="http://en.wikipedia.org/wiki/2010_United_States_Census" title="2010 United States Census"><font color="rgb(11, 0, 128)">2010 United States Census</font></a>. Weslaco derives its name from the<span class="Apple-converted-space">&#160;</span><b>W</b>.<b>E</b>.<span class="Apple-converted-space">&#160;</span><b>S</b>tewart<span class="Apple-converted-space">&#160;</span><b>La</b>nd<span class="Apple-converted-space">&#160;</span><b>Co</b>mpany.<a style="text-decoration: none; white-space: nowrap; background-image: null; background-position: null; background-repeat: repeat; color: rgb(11, 0, 128); background-attachment: scroll" href="http://en.wikipedia.org/wiki/Weslaco,_Texas#cite_note-3"><sup class="reference" id="cite_ref-3" style="font-style: normal; line-height: 1; font-weight: normal"><font color="rgb(11, 0, 128)"><span>[</span>3<span>]</span></font></sup></a><span class="Apple-converted-space">&#160;</span>It was the hometown of<span class="Apple-converted-space">&#160;</span><a style="text-decoration: none; background-image: null; background-position: null; background-repeat: repeat; color: rgb(11, 0, 128); background-attachment: scroll" href="http://en.wikipedia.org/wiki/Harlon_Block" title="Harlon Block"><font color="rgb(11, 0, 128)">Harlon Block</font></a>, one of the Marines photographed raising the flag at<span class="Apple-converted-space">&#160;</span><a style="text-decoration: none; background-image: null; background-position: null; background-repeat: repeat; color: rgb(11, 0, 128); background-attachment: scroll" href="http://en.wikipedia.org/wiki/Raising_the_Flag_on_Iwo_Jima" title="Raising the Flag on Iwo Jima"><font color="rgb(11, 0, 128)">Iwo Jima</font></a>.
-    </p>
-    <p style="background-color: rgb(255, 255, 255); margin-bottom: 0; white-space: normal; font-style: normal; font-family: sans-serif; line-height: 22.399999618530273px; word-spacing: 0px; font-variant: normal; letter-spacing: normal; margin-top: 0; margin-right: 0px; text-align: start; color: rgb(37, 37, 37); font-size: 14px; text-transform: none; margin-left: 0px; font-weight: normal; text-indent: 0px">
-      Streets north of the railroad tracks have Spanish names, and streets south of the railroad tracks have English ones as a consequence of a 1921 municipal ordinance which declared that land north of the tracks be reserved for Hispanic residences and businesses, and land south of the tracks be reserved for Anglo residences and businesses. During<span class="Apple-converted-space">&#160;</span><a style="text-decoration: none; background-image: null; background-position: null; background-repeat: repeat; color: rgb(11, 0, 128); background-attachment: scroll" href="http://en.wikipedia.org/wiki/World_War_II" title="World War II"><font color="rgb(11, 0, 128)">World War II</font></a>, sandbag production reached a peak in Weslaco, and the town declared itself the &quot;sandbagging capital of the world.&quot;
-    </p>
-     
-  </body>
-</html>
-</richcontent>
-</node>
 </node>
 </map>

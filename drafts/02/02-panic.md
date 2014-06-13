@@ -5,16 +5,15 @@
 
 ### Lous stumbles out of the bush
 
-Louis Blake came wandering out of the humid, semi-tropical brush 
-stumbling through razor-sharp cordgrass and thickets of mesquite at about nine in the morning on June 24th. He was a hysterical mess, naked and bleeding from dozens of scrapes, cuts and whipmarks. 
+Louis Blake came wandering out of the humid, semi-tropical brush, stumbling through razor-sharp cordgrass and thickets of mesquite at about nine in the morning on June 24th. He was a hysterical mess, naked and bleeding from dozens of scrapes, cuts and whipmarks. 
 
-"He was in bad shape," said Martin Shipley, who'd brought his fiancee to Masey's Gun Shop and Range for a little celebratory shooting--They'd just announced their engagement and were embarking on a planned weekend getaway. A weekend filled with romance
+"He was in bad shape," said Martin Shipley, who'd brought his fiancee to Masey's Gun Shop and Range for a little celebratory shooting--They'd just announced their engagement and were embarking on a planned weekend getaway. A weekend filled with romance.
 
 "Thank God he came up behind us," Shipley said. "Scared the Hell out of us, but at least we didn't shoot him. 
 
-Masey's Gun Shop and Shooting Range is a moated fortress on the Rio Bravo. Guests on the shooting range literally fire across the river into Mexico. It's about five miles West of the Gulf and about 20 miles East of Brownsville--where the closest E.R. is.
+Masey's Gun Shop and Shooting Range is a moated fortress on the Rio Bravo. Guests literally fire across the river into Mexico. It's about five miles West of the Gulf and about 20 miles East of Brownsville--where the closest E.R. is.
 
-"We get 'em coming over the wall every now and again," Shipley said.
+"First, I thought he was one of them Mexicans," Shipley said. "We get 'em coming over the wall every now and again." 
 
 There was a bit of a commotion. "Nobody knew what to do," Shipley said. "We could see he needed help, reall bad. So I wrapped a foil blanket around him and put him in the back of the truck. Well ... He had a good deal of blood on him. I didn't know if he was still bleeding or not. So we put him in the back. It wasn't that bad. Lisa jumped in back too. To help keep him calm. Try to clean up his blood and what not. We got on the road. I was gearing up to make a left. Take the kid to Valley Baptist. I could hear him screaming in the back. I thought something terrible--I was scared for Lisa. Thought for a minute I'd made a big mistake putting her in the back with him ... But she was alright. Just wanted me to open the window."
 
@@ -55,9 +54,51 @@ I compare Vangellis and Shipley's stories with the news-clippings, with the offi
 
 But it is beginning to come clear, the crime scene was interfered with several times before the investigating officers claimed the crimescene.
 
+* Vangellis and Shipley's truck obliterated whatever tracks may have been left on the drive.
+* Vangellis and Shipley had run of the place for an undisclosed amount of time. "It could have been an hour," Shipley said. "It felt like *forever*," Vangellis said.
+* Alonso believes that investigating officers themselves may have had the space cleansed before they entered. It is common practice for a police department south of the border have a Curandero on payroll.
+
+I tried speaking with the investigating officers, to no avail. They, of course, admitted to no such thing. After much struggle and runaround, I cornered one of the initial responders. "I'm a man of the law, and I have never ... knowingly ... acted in a way that would interfere with the upholding of said law." investigating officer Robert Cole said. It was just about the only thing I could get him to say on the record. And he had a hard time saying it. He patted his pockets down as if he misplaced a prepared statement. Maybe he was struggling to recall what his commanding officer had instructed him to say if he were ever cornered by a nosy reporter.
+
+Off the record, I got just one other thing out of him. "Call me Bobby," Cole said. 
+
+### occultist
+
+Law enforcement has been very tight-lipped concerning the whole affair. 
+
+"At this point, we don't want to release any information that could compromise our investigation in any way," was all I could get out of Chief Doug Douglas.
+
+<!-- TODO: does chief need to be capitalized here? in such as Chief Doug Douglas. ? -->
+
+I wanted to know just how compromised the crime scene was before the investigation had a chance to get underway.
+
+The Brownsville cops weren't giving me anything, and a little snooping around revealed they had no shaman or witchdoctor on payroll, but they came off like a superstitious bunch.
+
+I made some calls. I scoured the classifieds. I found a number that looked promising.
+
+"Monsieur Faustrodamus is out of the office," a perky-sounding receptionist said through the phone.
+
+She didn't know when he'd be back, but assured me he'd call at his earliest convenience to set up a consultation.
+
+"I'm desperate," I told her. "I don't know where else to turn. I just bought a house. It's next to an old graveyard. I didn't think anything of it at the time ... but ..." I made up a yarn about strange noises in the yard. A midnight terrier terrorized us. Impregnated my sweet precious Donuts. Donuts was my dog. My precious little Bichon Frisé. And now she had a litter of Demon Puppies growing inside her. I needed help. I'd tried everything. I told her I'd spent a fortune on doggy psichiatrists already. I went on, making it clear that money was no concern. I could hear the dollar signs falling into place behind her eyes. I could hear it through the phone line.
+
+She told me to drop by the office.
+
+Turns out, she didn't know where Monsieur Faustrodamus was. She hadn't heard from him in days.
+
+No, she didn't think anything had happened to him, "He does this sometimes," Charlotte Baroque said. In person, the receptionist was every bit as perky as her phone demeanor had promised. "Especially when he's completed a difficult cleansing. That really took takes it out of the Monsieur."
+
+Sure, I thought. Every time he gets a big payday, it's off to the races. I also thought "Bingo." I hated myself a bit for thinking it.
+
+"He's recently completed a difficult cleansing?" I asked. I fished around, dropping hints that I wanted to know about Faustrodamus' track record. "I don't need names, of course," I said. "I just ... would like to know that he can handle a situation with ... discretion."
+
+"Oh, the Monsieur is discrete as discrete can be," Charlotte assured me. "In fact ... he often works with the police."
+
+Maybe it was a long shot. But I wanted to talk to FaustroDingus.
+
 ### the victims
 
-Piece by piece, the story (and the corpses) came out. There were remains of at least seven individuals that looked to have been killed on at the site, on the night in question. There were also bits and pieces of several other people that had been killed some time before. These were the organs, the fingerbones, the chunks of brain that, according to Shipley and Vangellis, had been putrifying in the buckets of blood. These had been brought to the scene.
+Piece by piece, the story (and the corpses) came out. There were remains of at least seven individuals that looked to have been killed at the site, on the night in question. There were also bits and pieces of several other people that had been killed some time before. These were the organs, the fingerbones, the chunks of brain that, according to Shipley and Vangellis, had been putrifying in the buckets of blood. These had been brought to the scene.
 
 Of the other corpses, five were identified as patients--terminally ill or otherwise incurable. Due to the condition of the bodies, and of the scene, an exact number of corpses could not be determined. The estimate now stands at 11 to 13 deceased.
 
@@ -69,26 +110,30 @@ This checks out.
 
 "There were two classes of victim," said Suzanne Ochoa, Brownsville Coroner who did the autopsies. "These young, ill victims that have been carefully worked over--they have the marks of ritual sacrifice and torture on them. They were carefully, deliberately, ritualistically treated. And these others ... The others were torn apart. Literally ripped limb from limb. Some of them look as if they had been caught in an explosion, others as if they had been mauled by a wild animal. At least three of these 'others' have a similar pattern of scar tissue--geometric scarring on the back of their shoulders and on their necks."
 
-### Louis' homelife
+### Louis' Family life.
 
 Louis Blake has Lupus. He's never been the active kind. He didn't get out much. He couldn't stand bright lights. Sunlight gave him headaches and rashes.
 
-His mother, Anita Blake, Homeschooled him.  
+Blake thinks he's sixteen years old, but he isn't too sure. 
 
-Mother worked as a nurse
-Mother distrusted western medicine
+He doesn't have any friends. I can't find any school records. His mother, Helen Blake--quite deceased now--had been living under the name Anita Blakely, and working as a nurse in Arkansas. She homeschooled Louis. 
 
-she was constantly on the lookout for alternative medicines and treatments.
-over the years she tried
+Lupus, or Systemic lupus erythematosus (SLE) is an autoimmune dissease that causes the body's immune system to attack healthy tissue. The underlying causes are not fully known. The list of common symptoms is long, and Louis suffered from many of them.
 
-<!-- TODO: three examples of alternative treatments Louis' mother tried. Or perhaps two. Third time is the charm, after all-->
+* chronic chest pain
+* fatigue
+* spontaneous fevers
+* joint pain
+* sensetivity to sunlight
+* mouth sores
+* an itchy "butterfly" rash that gets worse in sunlight
+* abnormal heart rhythms
+* chronic nausea and vomiting
 
-* example - LSD therapy
-* example
-* example
+According to Blakeley's journals (more on them later), Lois couldn't bear to be outside. The sunlight made him worse. Kids made fun of him if they ever saw him.
 
-Met the DOCTOR - a man who was too good to be true
-DOCTOR gathered a group of people in need of healing
+So she kept him at home. She homeschooled him and dedicated her life to finding a cure for him. To treating him at least.
 
-Who was this DOCTOR? why did he lure these ill people out into the desert?
-promising some ritual healing
+It was difficult to find anyone who knew the Blakes. Family friends were nonexistent. I eventually tracked down Murphy Charles, an Arkansas nurse who worked beside Blakely. 
+
+"I can't really tell you much about Anita, Charles said. "She was always looking to pick up extra shifts. Didn't socialize too much with the other nurses. I tried to ask her out one time, but she turned me down. I didn't feel to bad about it. She turned everybody down. Like I said, she didn't socialize much.
