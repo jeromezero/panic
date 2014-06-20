@@ -382,7 +382,7 @@
 
 			// Link to an XML file containing EPUB metadata in Dublin Core Elements format.
 			// See http://dublincore.org/documents/dces/
-			"epub-metadata": "../resources/metadata.xml",
+			"epub-metadata": "../../resources/metadata.xml",
 
 			// Use the stylesheet specified to embed fonts. Should contain a series of
 			// @font-face elements and CSS describing where they're to be used.

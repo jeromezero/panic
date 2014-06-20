@@ -1,29 +1,60 @@
 % Panic
 % Jerome Steegmans
 
-## episode two: in the news
+## episode two: Here is the News
 
-### Louis stumbles out of the bush
+Louis Blake plunged naked through razor-sharp cordgrass and thickets of mesquite, following the sound of gunfire, praying it might save his life. His pale, sixteen-year-old body was torn, bleeding and swolen, covered in angry welts and lacerations.
 
-Louis Blake came wandering out of the humid, semi-tropical brush, stumbling through razor-sharp cordgrass and thickets of mesquite at about nine in the morning on June 24th. He was a hysterical mess, naked and bleeding from dozens of scrapes, cuts and whipmarks. 
+When he stumbled out of the humid, South Texas brush onto the delivering end of a recreational shooting range, he collapsed out of relief and exhaustion. It was eleven o'clock in the morning, Friday, June 13. 
 
-"He was in bad shape," said Martin Shipley, who'd brought his fiancee to Masey's Gun Shop and Range for a little celebratory shooting--They'd just announced their engagement and were embarking on a planned weekend getaway. A weekend filled with romance.
+<!-- lone survivor of a mass killing - more to the mass killing than previously known! -->
 
-"Thank God he came up behind us," Shipley said. "Scared the Hell out of us, but at least we didn't shoot him. 
+Masey's Gun Shop and Shooting Range is a moated fortress on the banks of the Rio Grande. Guests literally fire across the river into Mexico. It's about five miles West of the Gulf and about 20 miles East of Brownsville--where the closest E.R. is located.
 
-Masey's Gun Shop and Shooting Range is a moated fortress on the Rio Bravo. Guests literally fire across the river into Mexico. It's about five miles West of the Gulf and about 20 miles East of Brownsville--where the closest E.R. is.
+<!-- NOTE: setting - brownsville -->
 
-"First, I thought he was one of them Mexicans," Shipley said. "We get 'em coming over the wall every now and again." 
+<!-- out in the brush, by the Mexican border -->
+<!-- Gulf of Mexico -->
+<!-- Rio Grande / Rio Bravo -->
+<!-- Southern tip of Texas. Brownsville.  -->
+<!-- Fast-growing, Pro-business, Poverty-stricken.  -->
+<!-- One of the Cheapest places to live in the United States. -->
+<!-- escalating violence along the border.  -->
 
-There was a bit of a commotion. "Nobody knew what to do," Shipley said. "We could see he needed help, real bad. So I wrapped a foil blanket around him and put him in the back of the truck. Well ... He had a good deal of blood on him. I didn't know if he was still bleeding or not. So we put him in the back. It wasn't that bad. Lisa jumped in back too. To help keep him calm. Try to clean up his blood and what not. We got on the road. I was gearing up to make a left. Take the kid to Valley Baptist. I could hear him screaming in the back. I thought something terrible--I was scared for Lisa. Thought for a minute I'd made a big mistake putting her in the back with him ... But she was alright. Just wanted me to open the window."
+"He was in bad shape," said Martin Shipley, who'd brought his fiancee, Lisa Vangellis, to Masey's to break in her new pink shotgun. 
 
-"He started screaming for his Mamma," said Lisa Vangellis, Shipley's fiancee. "He kept saying she was still out there. Pointing back to the right, back to the Gulf."
+"That kid had been through Hell," Shipley said. "No doubt about it."
 
-"He said she was in some kind of trouble. We knew he needed help. But he wasn't bleeding. And he put up such a fight ... And if his Mamma was out there ... I mean ... we called the 911, but we were 40 minutes away from anywhere. We couldn't leave her out there. And if there was some kind of trouble ... we were ready. Marty just bought me this pink shotgun, and I ain't never been scared of trouble."
+<!-- 2014-06-18 | 11:26:29 -->
+<!-- hyperbolic -->
+
+'Hell' didn't even begin to describe it.
+The extent of Blake's suffering would unfold over the days to come. No one could imagine the terrors he had endured, the terrible nightmares he had been exposed to.
+
+---
+
+"Thank God he came up behind us," Vangellis said. "Scared the Hell out of us, but at least we didn't shoot him." 
+
+"We could see he needed help, real bad," Vangellis said. "He came up out of nowhere and just fell over. There was blood all down his legs, and he was swollen and blotchy, with scabs all over. It was real ugly."
+
+"Valley Baptist ain't but 20 miles away, but on these roads, even an ambulance would take 40 minutes to get out to the range," Shipley said. "I knew I could make it in 30."
+
+Shipley and Vangellis aren't the kind of folks to wait around for someone to come along and save them. "I've always preferred to 'take matters into my own hands,'" Shipley said. So they wrapped Blake in a foil blanket and hoisted him into the back of their blue 2000 Dodge Ram. 
+<!-- Patriot Blue Pearl is the paint color -->
+
+"Lisa was riding in the back with the kid," Shipley said. "And up till now, the kid had been *out.* I mean, he just collapsed at our feet and hadn't been moving much or anything, but when we got to the turn--Brownsville and the E.R. to the Left, and the Gulf to the right--he woke up for real."
+
+"He started screaming and hollering," Vangellis said. "I couldn't hardly understand him, but he was pointing out to the right and shouting for his Mamma. Said she was still out there."
+
+<!-- TODO: pickup edit -->
+
+"... And if his Mamma was out there ... I mean ... we called the 911, but we were 40 minutes away from anywhere. We couldn't leave her out there. And if there was some kind of trouble ... we were ready. Marty just bought me this pink shotgun, and I ain't never been scared of trouble."
 
 ### discovery of the scene
 
-A couple of miles to the east, a little less than half way to the mouth of the Rio Bravo, Louis led the couple off the main road. There is an abandoned structure off Quicksilver avenue.  The overgrown dirt track is called Quicksilver Avenue. As they rode toward the abandoned ruins of a patrol station, Shipley's wine-colored 2000 Dodge Ram tore up any tracks that may have remained -- obliterated any forensic evidence that might have been used to ID a vehicle that had been up or down that road in the last 24 hours.
+A couple of miles to the east, a little less than half way to the mouth of the Rio Bravo, Louis led the couple off the main road and on to an overgrown dirt track called Quicksilver Avenue. As they rode toward the abandoned ruins of an old patrol station, Shipley's truck
+<!-- Patriot Blue Pearl 2000 Dodge Ram  -->
+tore up any tracks that may have remained -- obliterated any forensic evidence that might have been used to ID a vehicle that had been up or down that road in the last 24 hours.
 
 There were no other survivors. Shipley and Vangellis plunged headlong into a scene of death and gore. Just what they saw has been the subject of much debate, as Law Enforcement officials initially denied--or at the very least, attempted to downplay--the gravity of the situation / the extent of the carnage.
 
@@ -38,6 +69,7 @@ The police report, released days later, when it finally acknowledged the presenc
 ### a foreign perspective
 
 Officers on the other side of the river aren't surprised by Shipley and Vangellis' statements, however. Antonio Alonso, a crime scene investigator for the Matamoros Police Department, says this kind of thing happens all the time on his side of the Rio Bravo.
+<!-- NOTE: in Mexico, it's called the Rio Bravo, in US, the Grande -->
 
 "There is very little we discover on such scenes," Alonso said. "It is not safe to search them before they have been cleansed."
 
@@ -45,7 +77,9 @@ Alonso pulls his dusty white cowboy hat lower over his eyes.
 
 The Matamoros Police Department has barely any detectives left, he told me. They have been murdered, most of them. Those that are left are to frightened to do their work. 
 
-When they come across a crime scene with signs of Witchcraft, they wait for the Curandero to dispel the Evil before they enter. Unfortunately, this often means the destruction of evidence ... "But hey, it it better to be alive ... and in this life, there are worse things than being dead, even."
+When they come across a crime scene with signs of witchcraft, they wait for the curandero to dispel the evil before they enter. Unfortunately, this often means the destruction of evidence ... 
+<!-- TODO: work this quote -->
+"But it it better to be alive ... and in this life, there are worse things than being dead, even."
 
 Alonso asks me if I am sure our Texas investigators have not done something similar.
 
@@ -65,9 +99,7 @@ Off the record, I got just one other thing out of him. "Call me Bobby," Cole sai
 
 Law enforcement has been very tight-lipped concerning the whole affair. 
 
-"At this point, we don't want to release any information that could compromise our investigation in any way," was all I could get out of Chief Doug Douglas.
-
-<!-- TODO: does chief need to be capitalized here? in such as Chief Doug Douglas. ? -->
+"At this point, we don't want to release any information that could compromise our investigation in any way," said Brownsville Police Chief Doug Douglas.
 
 I wanted to know just how compromised the crime scene was before the investigation had a chance to get underway.
 
@@ -91,9 +123,9 @@ Sure, I thought. Every time he gets a big payday, it's off to the races. I also 
 
 "He's recently completed a difficult cleansing?" I asked. I fished around, dropping hints that I wanted to know about Faustrodamus' track record. "I don't need names, of course," I said. "I just ... would like to know that he can handle a situation with ... discretion."
 
-"Oh, the Monsieur is discrete as discrete can be," Charlotte assured me. "In fact ... he often works with the police."
+"Oh, the Monsieur is discrete as discrete can be," Charlotte assured me. "In fact ... he often works with the police department."
 
-Maybe it was a long shot. But I wanted to talk to FaustroDingus.
+Maybe it was a long shot. But I wanted to talk to Faustrodamus.
 
 ### the victims
 
@@ -111,7 +143,7 @@ This checks out.
 
 ### Louis' Family life.
 
-Louis Blake has Lupus. He's never been the active kind. He didn't get out much. He couldn't stand bright lights. Sunlight gave him headaches and rashes.
+Blake suffers from Lupus. His skin is thin and blotchy. Sunlight gives him headaches and makes him break out in an itchy red rash. He is weak and exhausted all the time.
 
 Blake thinks he's sixteen years old, but he isn't too sure. 
 
@@ -141,9 +173,7 @@ Bingo.
 
 Charles said she was reading up on "all kinds of reference books. Stuff we had studied back in school--stuff *I* had studied back in school. Anita read a lot of textbooks. That was one thing that got me to thinking I had a chance with her, actually. She asked me if I had any of my old textbooks laying around, and could she come over to borrow some ... so she could, you know ... review them. I thought for sure she was into me. I mean, come on. That was a transparent excuse for a come-on if I ever saw one. I was thinking *conjugal visit* all the way. But I was wrong. She came over, driving a beat up old hatch-back. What kind of car was it? I'm not sure exactly. It was off-white, had a few rusty patches ... It looked like one of them old VW rabbits."
 
-Blakeley drove a 1975 Ford Fiesta. I found that car a few days later, parked outside a rundown Brownsville hotel.
-
-<!-- TODO: Hotel Name -->
+Blakeley drove a 1975 Ford Fiesta. I found that car a few days later, parked outside the Apache Motor Lodge, a rundown Brownsville hotel.
 
 ---
 
@@ -203,13 +233,16 @@ The last series of entries are what really took me, though.
 
 > He is quite a charmer. And a handsome devil too, though you‘d never catch me saying such a thing in public.
 
+
 There are probably better parts of her journal to quote, but the progression of entries illustrates an evolution of faith and belief in what appears to be a spiritual lea-leader or, dare I say it, a Cult Leader.
 
 There are very few concrete details in her journal, so far as the identity of the mystic DOCTOR is concerned. But the journal clearly illustrates and describes the coming of a great opportunity. A healing workshop on the Rio Bravo. On the night of the full moon.
 
-<!-- TODO: date of the incident -->
+<!-- NOTE: incident takes place on June 12, 2014? -->
 
-*There would be six(‘?) other patients. We are really very lucky 110 be admitted to to this ceremony,* Helen Blake wrote, *The others will pay $60,000 each for the service, but the DOCTOR has chosen to work with us for only $10,000. Truly the stars are smiling upon us.*
+June 12, 2014 
+
+*There would be six(?) other patients. We are really very lucky 110 be admitted to to this ceremony,* Helen Blake wrote, *The others will pay $60,000 each for the service, but the DOCTOR has chosen to work with us for only $10,000. Truly the stars are smiling upon us.*
 
 Just as I was going over this portion of Blake's notebooks, I sot a call from Faustrodamus' assistant, Charlotte Blank.
 
@@ -229,5 +262,5 @@ This is the gentleman with the dog," Charlotte said, sounding rather unsure of h
 
 "Really?" Faustrodamus said. "You expect me to believe that?"
 
-Faustrodamus looked me in the eye. "You don't look like a rich faggot with a ponce poodle to me," he said.`
+Faustrodamus looked me in the eye. "You don't look like a rich faggot with a ponce poodle to me," he said.
 

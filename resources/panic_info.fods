@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
-<office:document xmlns:office="urn:oasis:names:tc:opendocument:xmlns:office:1.0" xmlns:style="urn:oasis:names:tc:opendocument:xmlns:style:1.0" xmlns:text="urn:oasis:names:tc:opendocument:xmlns:text:1.0" xmlns:table="urn:oasis:names:tc:opendocument:xmlns:table:1.0" xmlns:draw="urn:oasis:names:tc:opendocument:xmlns:drawing:1.0" xmlns:fo="urn:oasis:names:tc:opendocument:xmlns:xsl-fo-compatible:1.0" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:meta="urn:oasis:names:tc:opendocument:xmlns:meta:1.0" xmlns:number="urn:oasis:names:tc:opendocument:xmlns:datastyle:1.0" xmlns:presentation="urn:oasis:names:tc:opendocument:xmlns:presentation:1.0" xmlns:svg="urn:oasis:names:tc:opendocument:xmlns:svg-compatible:1.0" xmlns:chart="urn:oasis:names:tc:opendocument:xmlns:chart:1.0" xmlns:dr3d="urn:oasis:names:tc:opendocument:xmlns:dr3d:1.0" xmlns:math="http://www.w3.org/1998/Math/MathML" xmlns:form="urn:oasis:names:tc:opendocument:xmlns:form:1.0" xmlns:script="urn:oasis:names:tc:opendocument:xmlns:script:1.0" xmlns:config="urn:oasis:names:tc:opendocument:xmlns:config:1.0" xmlns:ooo="http://openoffice.org/2004/office" xmlns:ooow="http://openoffice.org/2004/writer" xmlns:oooc="http://openoffice.org/2004/calc" xmlns:dom="http://www.w3.org/2001/xml-events" xmlns:xforms="http://www.w3.org/2002/xforms" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:rpt="http://openoffice.org/2005/report" xmlns:of="urn:oasis:names:tc:opendocument:xmlns:of:1.2" xmlns:xhtml="http://www.w3.org/1999/xhtml" xmlns:grddl="http://www.w3.org/2003/g/data-view#" xmlns:tableooo="http://openoffice.org/2009/table" xmlns:drawooo="http://openoffice.org/2010/draw" xmlns:calcext="urn:org:documentfoundation:names:experimental:calc:xmlns:calcext:1.0" xmlns:loext="urn:org:documentfoundation:names:experimental:office:xmlns:loext:1.0" xmlns:field="urn:openoffice:names:experimental:ooo-ms-interop:xmlns:field:1.0" xmlns:formx="urn:openoffice:names:experimental:ooxml-odf-interop:xmlns:form:1.0" xmlns:css3t="http://www.w3.org/TR/css3-text/" office:version="1.2" office:mimetype="application/vnd.oasis.opendocument.spreadsheet">
- <office:meta><meta:generator>LibreOffice/4.2.4.2$Linux_X86_64 LibreOffice_project/420m0$Build-2</meta:generator><meta:printed-by>jerome steegmans</meta:printed-by><meta:print-date>2014-02-25T18:37:03</meta:print-date><dc:date>2014-06-11T22:26:24.924172335</dc:date><dc:creator>jerome steegmans</dc:creator><meta:document-statistic meta:table-count="6" meta:cell-count="93" meta:object-count="0"/></office:meta>
+<office:document xmlns:office="urn:oasis:names:tc:opendocument:xmlns:office:1.0" xmlns:style="urn:oasis:names:tc:opendocument:xmlns:style:1.0" xmlns:text="urn:oasis:names:tc:opendocument:xmlns:text:1.0" xmlns:table="urn:oasis:names:tc:opendocument:xmlns:table:1.0" xmlns:draw="urn:oasis:names:tc:opendocument:xmlns:drawing:1.0" xmlns:fo="urn:oasis:names:tc:opendocument:xmlns:xsl-fo-compatible:1.0" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:meta="urn:oasis:names:tc:opendocument:xmlns:meta:1.0" xmlns:number="urn:oasis:names:tc:opendocument:xmlns:datastyle:1.0" xmlns:presentation="urn:oasis:names:tc:opendocument:xmlns:presentation:1.0" xmlns:svg="urn:oasis:names:tc:opendocument:xmlns:svg-compatible:1.0" xmlns:chart="urn:oasis:names:tc:opendocument:xmlns:chart:1.0" xmlns:dr3d="urn:oasis:names:tc:opendocument:xmlns:dr3d:1.0" xmlns:math="http://www.w3.org/1998/Math/MathML" xmlns:form="urn:oasis:names:tc:opendocument:xmlns:form:1.0" xmlns:script="urn:oasis:names:tc:opendocument:xmlns:script:1.0" xmlns:config="urn:oasis:names:tc:opendocument:xmlns:config:1.0" xmlns:ooo="http://openoffice.org/2004/office" xmlns:ooow="http://openoffice.org/2004/writer" xmlns:oooc="http://openoffice.org/2004/calc" xmlns:dom="http://www.w3.org/2001/xml-events" xmlns:xforms="http://www.w3.org/2002/xforms" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:rpt="http://openoffice.org/2005/report" xmlns:of="urn:oasis:names:tc:opendocument:xmlns:of:1.2" xmlns:xhtml="http://www.w3.org/1999/xhtml" xmlns:grddl="http://www.w3.org/2003/g/data-view#" xmlns:tableooo="http://openoffice.org/2009/table" xmlns:field="urn:openoffice:names:experimental:ooo-ms-interop:xmlns:field:1.0" xmlns:formx="urn:openoffice:names:experimental:ooxml-odf-interop:xmlns:form:1.0" xmlns:css3t="http://www.w3.org/TR/css3-text/" office:version="1.2" office:mimetype="application/vnd.oasis.opendocument.spreadsheet">
+ <office:meta><meta:generator>LibreOffice/3.5$Linux_X86_64 LibreOffice_project/350m1$Build-2</meta:generator><meta:printed-by>jerome steegmans</meta:printed-by><meta:print-date>2014-02-25T18:37:03</meta:print-date><dc:date>2014-06-18T12:41:51</dc:date><dc:creator>jerome steegmans</dc:creator><meta:document-statistic meta:table-count="6" meta:cell-count="96" meta:object-count="0"/></office:meta>
  <office:settings>
   <config:config-item-set config:name="ooo:view-settings">
    <config:config-item config:name="VisibleAreaTop" config:type="int">0</config:config-item>
    <config:config-item config:name="VisibleAreaLeft" config:type="int">0</config:config-item>
-   <config:config-item config:name="VisibleAreaWidth" config:type="int">40678</config:config-item>
-   <config:config-item config:name="VisibleAreaHeight" config:type="int">14594</config:config-item>
+   <config:config-item config:name="VisibleAreaWidth" config:type="int">40749</config:config-item>
+   <config:config-item config:name="VisibleAreaHeight" config:type="int">12043</config:config-item>
    <config:config-item-map-indexed config:name="Views">
     <config:config-item-map-entry>
      <config:config-item config:name="ViewId" config:type="string">view1</config:config-item>
@@ -30,8 +30,8 @@
        <config:config-item config:name="ShowGrid" config:type="boolean">true</config:config-item>
       </config:config-item-map-entry>
       <config:config-item-map-entry config:name="02_notes">
-       <config:config-item config:name="CursorPositionX" config:type="int">3</config:config-item>
-       <config:config-item config:name="CursorPositionY" config:type="int">11</config:config-item>
+       <config:config-item config:name="CursorPositionX" config:type="int">4</config:config-item>
+       <config:config-item config:name="CursorPositionY" config:type="int">4</config:config-item>
        <config:config-item config:name="HorizontalSplitMode" config:type="short">2</config:config-item>
        <config:config-item config:name="VerticalSplitMode" config:type="short">2</config:config-item>
        <config:config-item config:name="HorizontalSplitPosition" config:type="int">2</config:config-item>
@@ -48,7 +48,7 @@
       </config:config-item-map-entry>
       <config:config-item-map-entry config:name="characters">
        <config:config-item config:name="CursorPositionX" config:type="int">1</config:config-item>
-       <config:config-item config:name="CursorPositionY" config:type="int">10</config:config-item>
+       <config:config-item config:name="CursorPositionY" config:type="int">11</config:config-item>
        <config:config-item config:name="HorizontalSplitMode" config:type="short">2</config:config-item>
        <config:config-item config:name="VerticalSplitMode" config:type="short">2</config:config-item>
        <config:config-item config:name="HorizontalSplitPosition" config:type="int">1</config:config-item>
@@ -115,7 +115,7 @@
        <config:config-item config:name="ShowGrid" config:type="boolean">true</config:config-item>
       </config:config-item-map-entry>
      </config:config-item-map-named>
-     <config:config-item config:name="ActiveTable" config:type="string">02_notes</config:config-item>
+     <config:config-item config:name="ActiveTable" config:type="string">characters</config:config-item>
      <config:config-item config:name="HorizontalScrollbarWidth" config:type="int">526</config:config-item>
      <config:config-item config:name="ZoomType" config:type="short">0</config:config-item>
      <config:config-item config:name="ZoomValue" config:type="int">100</config:config-item>
@@ -140,27 +140,18 @@
    </config:config-item-map-indexed>
   </config:config-item-set>
   <config:config-item-set config:name="ooo:configuration-settings">
-   <config:config-item config:name="LoadReadonly" config:type="boolean">false</config:config-item>
-   <config:config-item config:name="SaveVersionOnClose" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="ShowNotes" config:type="boolean">true</config:config-item>
    <config:config-item config:name="IsDocumentShared" config:type="boolean">false</config:config-item>
-   <config:config-item config:name="IsKernAsianPunctuation" config:type="boolean">false</config:config-item>
-   <config:config-item config:name="ApplyUserData" config:type="boolean">true</config:config-item>
-   <config:config-item config:name="CharacterCompressionType" config:type="short">0</config:config-item>
-   <config:config-item config:name="PrinterSetup" config:type="base64Binary">1wH+/0Nhbm9uX01YODcwX3Nlcmllc185NDc1MTgwMDAwMDAubG9jYWwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAQ1VQUzpDYW5vbl9NWDg3MF9zZXJpZXNfOTQ3NTE4MAAWAAMA9wAAAAAAAAAIAFZUAAAkbQAASm9iRGF0YSAxCnByaW50ZXI9Q2Fub25fTVg4NzBfc2VyaWVzXzk0NzUxODAwMDAwMC5sb2NhbApvcmllbnRhdGlvbj1Qb3J0cmFpdApjb3BpZXM9MQpjb2xsYXRlPWZhbHNlCm1hcmdpbmRhanVzdG1lbnQ9MCwwLDAsMApjb2xvcmRlcHRoPTI0CnBzbGV2ZWw9MApwZGZkZXZpY2U9MQpjb2xvcmRldmljZT0wClBQRENvbnRleERhdGEKUGFnZVNpemU6TGV0dGVyAER1cGxleDpEdXBsZXhUdW1ibGUASW5wdXRTbG90OkF1dG9Td2l0Y2gAABIAQ09NUEFUX0RVUExFWF9NT0RFEABEVVBMRVhfU0hPUlRFREdF</config:config-item>
-   <config:config-item config:name="PrinterName" config:type="string">Canon_MX870_series_947518000000.local</config:config-item>
-   <config:config-item config:name="UpdateFromTemplate" config:type="boolean">true</config:config-item>
-   <config:config-item config:name="AutoCalculate" config:type="boolean">true</config:config-item>
-   <config:config-item config:name="EmbedFonts" config:type="boolean">false</config:config-item>
-   <config:config-item config:name="RasterIsVisible" config:type="boolean">false</config:config-item>
-   <config:config-item config:name="IsSnapToRaster" config:type="boolean">false</config:config-item>
-   <config:config-item config:name="RasterSubdivisionX" config:type="int">1</config:config-item>
-   <config:config-item config:name="IsOutlineSymbolsSet" config:type="boolean">true</config:config-item>
    <config:config-item config:name="AllowPrintJobCancel" config:type="boolean">true</config:config-item>
-   <config:config-item config:name="RasterResolutionX" config:type="int">1270</config:config-item>
-   <config:config-item config:name="HasSheetTabs" config:type="boolean">true</config:config-item>
-   <config:config-item config:name="LinkUpdateMode" config:type="short">3</config:config-item>
-   <config:config-item config:name="IsRasterAxisSynchronized" config:type="boolean">true</config:config-item>
+   <config:config-item config:name="ShowZeroValues" config:type="boolean">true</config:config-item>
+   <config:config-item config:name="GridColor" config:type="long">12632256</config:config-item>
+   <config:config-item config:name="LoadReadonly" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="UpdateFromTemplate" config:type="boolean">true</config:config-item>
    <config:config-item config:name="ShowPageBreaks" config:type="boolean">true</config:config-item>
+   <config:config-item config:name="ShowGrid" config:type="boolean">true</config:config-item>
+   <config:config-item config:name="SaveVersionOnClose" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="IsKernAsianPunctuation" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="CharacterCompressionType" config:type="short">0</config:config-item>
    <config:config-item-map-indexed config:name="ForbiddenCharacters">
     <config:config-item-map-entry>
      <config:config-item config:name="Language" config:type="string">en</config:config-item>
@@ -170,13 +161,21 @@
      <config:config-item config:name="EndLine" config:type="string"/>
     </config:config-item-map-entry>
    </config:config-item-map-indexed>
-   <config:config-item config:name="HasColumnRowHeaders" config:type="boolean">true</config:config-item>
-   <config:config-item config:name="GridColor" config:type="long">12632256</config:config-item>
-   <config:config-item config:name="ShowGrid" config:type="boolean">true</config:config-item>
-   <config:config-item config:name="RasterSubdivisionY" config:type="int">1</config:config-item>
+   <config:config-item config:name="AutoCalculate" config:type="boolean">true</config:config-item>
+   <config:config-item config:name="PrinterName" config:type="string">Generic Printer</config:config-item>
+   <config:config-item config:name="PrinterSetup" config:type="base64Binary">kAH+/0dlbmVyaWMgUHJpbnRlcgAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAU0dFTlBSVAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAWAAMAtgAAAAAAAAAIAFZUAAAkbQAASm9iRGF0YSAxCnByaW50ZXI9R2VuZXJpYyBQcmludGVyCm9yaWVudGF0aW9uPVBvcnRyYWl0CmNvcGllcz0xCm1hcmdpbmRhanVzdG1lbnQ9MCwwLDAsMApjb2xvcmRlcHRoPTI0CnBzbGV2ZWw9MApwZGZkZXZpY2U9MApjb2xvcmRldmljZT0wClBQRENvbnRleERhdGEKUGFnZVNpemU6TGV0dGVyAER1cGxleDpOb25lAAASAENPTVBBVF9EVVBMRVhfTU9ERQoARFVQTEVYX09GRg==</config:config-item>
+   <config:config-item config:name="IsRasterAxisSynchronized" config:type="boolean">true</config:config-item>
+   <config:config-item config:name="IsSnapToRaster" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="RasterSubdivisionX" config:type="int">1</config:config-item>
    <config:config-item config:name="RasterResolutionY" config:type="int">1270</config:config-item>
-   <config:config-item config:name="ShowNotes" config:type="boolean">true</config:config-item>
-   <config:config-item config:name="ShowZeroValues" config:type="boolean">true</config:config-item>
+   <config:config-item config:name="RasterResolutionX" config:type="int">1270</config:config-item>
+   <config:config-item config:name="RasterIsVisible" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="LinkUpdateMode" config:type="short">3</config:config-item>
+   <config:config-item config:name="RasterSubdivisionY" config:type="int">1</config:config-item>
+   <config:config-item config:name="ApplyUserData" config:type="boolean">true</config:config-item>
+   <config:config-item config:name="HasColumnRowHeaders" config:type="boolean">true</config:config-item>
+   <config:config-item config:name="HasSheetTabs" config:type="boolean">true</config:config-item>
+   <config:config-item config:name="IsOutlineSymbolsSet" config:type="boolean">true</config:config-item>
   </config:config-item-set>
  </office:settings>
  <office:scripts>
@@ -307,7 +306,7 @@
   <style:style style:name="Default" style:family="table-cell" style:data-style-name="N0">
    <style:table-cell-properties style:cell-protect="protected" style:print-content="true" style:text-align-source="fix" style:repeat-content="false" fo:background-color="transparent" fo:wrap-option="wrap" fo:padding="0.0555in" style:vertical-align="top" style:vertical-justify="auto"/>
    <style:paragraph-properties fo:text-align="justify" css3t:text-justify="auto"/>
-   <style:text-properties style:use-window-font-color="true" style:text-line-through-style="none" style:text-line-through-type="none" style:font-name="OFL Sorts Mill Goudy TT" fo:font-family="&apos;OFL Sorts Mill Goudy TT&apos;" style:font-style-name="Regular" style:font-pitch="variable" fo:font-size="10pt" fo:font-style="normal" style:text-underline-style="none" fo:font-weight="normal" style:font-name-asian="Arial" style:font-family-asian="Arial" style:font-size-asian="10pt" style:font-style-asian="normal" style:font-weight-asian="normal" style:font-size-complex="10pt" style:font-style-complex="normal" style:font-weight-complex="normal"/>
+   <style:text-properties style:use-window-font-color="true" style:text-line-through-style="none" style:font-name="OFL Sorts Mill Goudy TT" fo:font-size="10pt" fo:font-style="normal" style:text-underline-style="none" fo:font-weight="normal" style:font-name-asian="Arial" style:font-size-asian="10pt" style:font-style-asian="normal" style:font-weight-asian="normal" style:font-size-complex="10pt" style:font-style-complex="normal" style:font-weight-complex="normal"/>
   </style:style>
   <style:style style:name="Result" style:family="table-cell" style:parent-style-name="Default">
    <style:text-properties fo:font-style="italic" style:text-underline-style="solid" style:text-underline-width="auto" style:text-underline-color="font-color" fo:font-weight="bold"/>
@@ -316,7 +315,7 @@
   <style:style style:name="Heading" style:family="table-cell" style:parent-style-name="Default">
    <style:table-cell-properties style:text-align-source="fix" style:repeat-content="false"/>
    <style:paragraph-properties fo:text-align="center"/>
-   <style:text-properties style:font-name="EB Garamond 12 SC" fo:font-family="&apos;EB Garamond 12 SC&apos;" style:font-style-name="Bold Italic" style:font-pitch="variable" fo:font-size="16pt" fo:font-style="italic" fo:font-weight="bold"/>
+   <style:text-properties style:font-name="EB Garamond 12 SC" fo:font-size="16pt" fo:font-style="italic" fo:font-weight="bold"/>
   </style:style>
   <style:style style:name="Heading1" style:family="table-cell" style:parent-style-name="Heading">
    <style:table-cell-properties style:rotation-angle="90"/>
@@ -329,7 +328,7 @@
   <style:style style:name="header-sub" style:family="table-cell" style:parent-style-name="Default">
    <style:table-cell-properties style:text-align-source="fix" style:repeat-content="false" style:vertical-justify="auto"/>
    <style:paragraph-properties fo:text-align="center" css3t:text-justify="auto"/>
-   <style:text-properties style:font-name="EB Garamond 12 SC1" fo:font-family="&apos;EB Garamond 12 SC&apos;" style:font-style-name="Bold" style:font-pitch="variable" fo:font-size="12pt" fo:font-weight="bold"/>
+   <style:text-properties style:font-name="EB Garamond 12 SC1" fo:font-size="12pt" fo:font-weight="bold"/>
   </style:style>
  </office:styles>
  <office:automatic-styles>
@@ -412,30 +411,33 @@
    <style:table-row-properties style:row-height="0.2591in" fo:break-before="auto" style:use-optimal-row-height="true"/>
   </style:style>
   <style:style style:name="ro8" style:family="table-row">
-   <style:table-row-properties style:row-height="0.352in" fo:break-before="auto" style:use-optimal-row-height="true"/>
+   <style:table-row-properties style:row-height="0.4146in" fo:break-before="auto" style:use-optimal-row-height="true"/>
   </style:style>
   <style:style style:name="ro9" style:family="table-row">
-   <style:table-row-properties style:row-height="0.4764in" fo:break-before="auto" style:use-optimal-row-height="true"/>
+   <style:table-row-properties style:row-height="0.3417in" fo:break-before="auto" style:use-optimal-row-height="true"/>
   </style:style>
   <style:style style:name="ro10" style:family="table-row">
-   <style:table-row-properties style:row-height="0.2898in" fo:break-before="auto" style:use-optimal-row-height="true"/>
+   <style:table-row-properties style:row-height="0.4764in" fo:break-before="auto" style:use-optimal-row-height="true"/>
   </style:style>
   <style:style style:name="ro11" style:family="table-row">
-   <style:table-row-properties style:row-height="0.6634in" fo:break-before="auto" style:use-optimal-row-height="true"/>
+   <style:table-row-properties style:row-height="0.2898in" fo:break-before="auto" style:use-optimal-row-height="true"/>
   </style:style>
   <style:style style:name="ro12" style:family="table-row">
-   <style:table-row-properties style:row-height="0.8492in" fo:break-before="auto" style:use-optimal-row-height="true"/>
+   <style:table-row-properties style:row-height="0.6634in" fo:break-before="auto" style:use-optimal-row-height="true"/>
   </style:style>
   <style:style style:name="ro13" style:family="table-row">
-   <style:table-row-properties style:row-height="0.1874in" fo:break-before="auto" style:use-optimal-row-height="false"/>
+   <style:table-row-properties style:row-height="1.0362in" fo:break-before="auto" style:use-optimal-row-height="true"/>
   </style:style>
   <style:style style:name="ro14" style:family="table-row">
-   <style:table-row-properties style:row-height="0.4661in" fo:break-before="auto" style:use-optimal-row-height="true"/>
+   <style:table-row-properties style:row-height="0.1874in" fo:break-before="auto" style:use-optimal-row-height="false"/>
   </style:style>
   <style:style style:name="ro15" style:family="table-row">
-   <style:table-row-properties style:row-height="3.2752in" fo:break-before="auto" style:use-optimal-row-height="true"/>
+   <style:table-row-properties style:row-height="0.4661in" fo:break-before="auto" style:use-optimal-row-height="true"/>
   </style:style>
   <style:style style:name="ro16" style:family="table-row">
+   <style:table-row-properties style:row-height="3.2752in" fo:break-before="auto" style:use-optimal-row-height="true"/>
+  </style:style>
+  <style:style style:name="ro17" style:family="table-row">
    <style:table-row-properties style:row-height="4.2181in" fo:break-before="auto" style:use-optimal-row-height="true"/>
   </style:style>
   <style:style style:name="ta1" style:family="table" style:master-page-name="Main">
@@ -468,7 +470,7 @@
    </style:footer-style>
   </style:page-layout>
   <style:page-layout style:name="pm3">
-   <style:page-layout-properties fo:page-width="11in" fo:page-height="8.5in" style:num-format="1" style:print-orientation="landscape" fo:margin-top="0.5in" fo:margin-bottom="0.5in" fo:margin-left="0.5in" fo:margin-right="0.5in" style:shadow="none" fo:background-color="transparent" style:print-page-order="ttb" style:first-page-number="continue" style:scale-to-X="1" style:scale-to-Y="1" style:print="grid zero-values">
+   <style:page-layout-properties fo:page-width="11in" fo:page-height="8.5in" style:num-format="1" style:print-orientation="landscape" fo:margin="0.5in" fo:margin-top="0.5in" fo:margin-bottom="0.5in" fo:margin-left="0.5in" fo:margin-right="0.5in" style:shadow="none" fo:background-color="transparent" style:print-page-order="ttb" style:first-page-number="continue" style:scale-to-X="1" style:scale-to-Y="1" style:print="grid zero-values">
     <style:background-image/>
    </style:page-layout-properties>
    <style:header-style>
@@ -505,7 +507,7 @@
      <text:p><text:sheet-name>???</text:sheet-name> (<text:title>???</text:title>)</text:p>
     </style:region-left>
     <style:region-right>
-     <text:p><text:date style:data-style-name="N2" text:date-value="2014-06-11">00/00/0000</text:date>, <text:time style:data-style-name="N2" text:time-value="22:32:31.058369670">00:00:00</text:time></text:p>
+     <text:p><text:date style:data-style-name="N2" text:date-value="2014-06-20">00/00/0000</text:date>, <text:time>00:00:00</text:time></text:p>
     </style:region-right>
    </style:header>
    <style:header-left style:display="false"/>
@@ -575,80 +577,80 @@
     <table:table-column table:style-name="co4" table:number-columns-repeated="768" table:default-cell-style-name="Default"/>
     <table:table-row table:style-name="ro1">
      <table:table-cell table:number-columns-repeated="3"/>
-     <table:table-cell table:style-name="Heading" office:value-type="string" calcext:value-type="string" table:number-columns-spanned="3" table:number-rows-spanned="1">
+     <table:table-cell table:style-name="Heading" office:value-type="string" table:number-columns-spanned="3" table:number-rows-spanned="1">
       <text:p>PANIC – Episode One: Quid Pro Quo</text:p>
      </table:table-cell>
      <table:covered-table-cell table:number-columns-repeated="2"/>
      <table:table-cell table:number-columns-repeated="1018"/>
     </table:table-row>
     <table:table-row table:style-name="ro2">
-     <table:table-cell table:style-name="header-sub" office:value-type="string" calcext:value-type="string">
+     <table:table-cell table:style-name="header-sub" office:value-type="string">
       <text:p>Element</text:p>
      </table:table-cell>
-     <table:table-cell table:style-name="header-sub" office:value-type="string" calcext:value-type="string">
+     <table:table-cell table:style-name="header-sub" office:value-type="string">
       <text:p>summary</text:p>
      </table:table-cell>
-     <table:table-cell table:style-name="header-sub" office:value-type="string" calcext:value-type="string">
+     <table:table-cell table:style-name="header-sub" office:value-type="string">
       <text:p>Act One</text:p>
      </table:table-cell>
-     <table:table-cell table:style-name="header-sub" office:value-type="string" calcext:value-type="string">
+     <table:table-cell table:style-name="header-sub" office:value-type="string">
       <text:p>Act Two</text:p>
      </table:table-cell>
-     <table:table-cell table:style-name="header-sub" office:value-type="string" calcext:value-type="string">
+     <table:table-cell table:style-name="header-sub" office:value-type="string">
       <text:p>Act Three</text:p>
      </table:table-cell>
-     <table:table-cell table:style-name="header-sub" office:value-type="string" calcext:value-type="string">
+     <table:table-cell table:style-name="header-sub" office:value-type="string">
       <text:p>Act Four</text:p>
      </table:table-cell>
-     <table:table-cell table:style-name="header-sub" office:value-type="string" calcext:value-type="string">
+     <table:table-cell table:style-name="header-sub" office:value-type="string">
       <text:p>Act Five</text:p>
      </table:table-cell>
      <table:table-cell table:style-name="header-sub" table:number-columns-repeated="1017"/>
     </table:table-row>
     <table:table-row table:style-name="ro3">
      <table:table-cell table:number-columns-repeated="2"/>
-     <table:table-cell office:value-type="string" calcext:value-type="string">
+     <table:table-cell office:value-type="string">
       <text:p>Daisy, Tank &amp; Louis enter into a medical trailer, seeking a calm space. Louis is suffering from the onset of a panic attack. (he&apos;s seen something that set him off)</text:p>
      </table:table-cell>
-     <table:table-cell office:value-type="string" calcext:value-type="string">
+     <table:table-cell office:value-type="string">
       <text:p>Daisy gets upset – they can&apos;t go back yet. Tank promised he&apos;d take her to the funhouse. They made a deal. Quid pro Quo. Despite Louis&apos; nervous situation, he remains relatively calm, while those around him become more and more agitated. </text:p>
      </table:table-cell>
-     <table:table-cell office:value-type="string" calcext:value-type="string">
+     <table:table-cell office:value-type="string">
       <text:p>Daisy escalates. She is adamant about the funhouse. She finds a syringe and injects Tank with it. She tries to run out, but Tank grabs her and wrestles her to the ground. He reacts violently, and accidentally smacks her one in the face.</text:p>
      </table:table-cell>
-     <table:table-cell office:value-type="string" calcext:value-type="string">
+     <table:table-cell office:value-type="string">
       <text:p>EMTs and Tank – what is going on here? -everything is fine. I&apos;ve called the hospital. They&apos;re sending a car. Just need to keep him calm until they arrive. -Him? What about her? -She&apos;s agitated, but she&apos;ll get over it. She&apos;s fine. It&apos;s the guy we should worry about. But I know how to work with him. I know how to calm him (he doesn&apos;t respond well to sedatives [or, not the sedatives they have on hand in the trailer])</text:p>
      </table:table-cell>
-     <table:table-cell office:value-type="string" calcext:value-type="string">
+     <table:table-cell office:value-type="string">
       <text:p>Louis has had it. His temper flares. His vision goes red. “Oh shit, here it comes.” What happens? The same thing that happens every time his vision goes red. Louis blacks out and PEOPLE GET HURT.</text:p>
      </table:table-cell>
      <table:table-cell table:number-columns-repeated="1017"/>
     </table:table-row>
     <table:table-row table:style-name="ro4">
      <table:table-cell table:number-columns-repeated="2"/>
-     <table:table-cell office:value-type="string" calcext:value-type="string">
+     <table:table-cell office:value-type="string">
       <text:p>Daisy rummages through drawers and cabinets while Tank calls for a ride – they need to be picked up now. The person on the other end of the phone: You took him where? Are you crazy? Louis is dangerous.</text:p>
      </table:table-cell>
-     <table:table-cell office:value-type="string" calcext:value-type="string">
+     <table:table-cell office:value-type="string">
       <text:p>Louis doesn&apos;t want to go out there, because he saw something. Something about his teacher, something that started him having these panic episodes in the first place. He doesn&apos;t want to have another episode, and if he goes out there, he&apos;s going to have another episode. You don&apos;t want me to have another episode ...</text:p>
      </table:table-cell>
-     <table:table-cell office:value-type="string" calcext:value-type="string">
+     <table:table-cell office:value-type="string">
       <text:p>Tank: You know how fucking dangerous that is? What the fuck did you hit me with? He&apos;s sweating and a little nauseous and really pumped up. Epinephrine. Adrenaline. Are you stupid?</text:p>
      </table:table-cell>
-     <table:table-cell office:value-type="string" calcext:value-type="string">
+     <table:table-cell office:value-type="string">
       <text:p>While Tank is talking with the EMTs, Daisy messes with Louis, pressing her tits in his face, teasing him, alternating between encouraging him and berating him—trying to convince him to freak out, or to take her to the fun house</text:p>
      </table:table-cell>
      <table:table-cell table:number-columns-repeated="1018"/>
     </table:table-row>
     <table:table-row table:style-name="ro5">
      <table:table-cell table:number-columns-repeated="3"/>
-     <table:table-cell office:value-type="string" calcext:value-type="string">
+     <table:table-cell office:value-type="string">
       <text:p>Tank: I&apos;ll make it up to you, Daisy. I promise. I&apos;ll take you to the fair another time. This is an emergency. We&apos;ve got to get Louis home.</text:p>
      </table:table-cell>
-     <table:table-cell office:value-type="string" calcext:value-type="string">
+     <table:table-cell office:value-type="string">
       <text:p>EMTs come in (it&apos;s their trailer): What the hell is going on here? Tank&apos;s got Daisy pinned in a compromising position. She shouts “Rape!”</text:p>
      </table:table-cell>
-     <table:table-cell office:value-type="string" calcext:value-type="string">
+     <table:table-cell office:value-type="string">
       <text:p>Louis reaches his breaking point. He needs to get outside. He needs to find out what it is, exactly, he saw out there. He needs to find his old teacher. His old teacher would know whats happening to him. He would know what to do. Why did he leave me like this?</text:p>
      </table:table-cell>
      <table:table-cell table:number-columns-repeated="1018"/>
@@ -675,155 +677,149 @@
     <table:table-column table:style-name="co2" table:number-columns-repeated="3" table:default-cell-style-name="Default"/>
     <table:table-column table:style-name="co3" table:number-columns-repeated="249" table:default-cell-style-name="Default"/>
     <table:table-column table:style-name="co4" table:number-columns-repeated="768" table:default-cell-style-name="Default"/>
-    <table:table-row table:style-name="ro1">
+    <table:table-row table:style-name="ro8">
      <table:table-cell table:number-columns-repeated="3"/>
-     <table:table-cell table:style-name="Heading" office:value-type="string" calcext:value-type="string" table:number-columns-spanned="3" table:number-rows-spanned="1">
+     <table:table-cell table:style-name="Heading" office:value-type="string" table:number-columns-spanned="3" table:number-rows-spanned="1">
       <text:p>PANIC – Episode Two: Here is the News</text:p>
      </table:table-cell>
      <table:covered-table-cell table:number-columns-repeated="2"/>
      <table:table-cell table:number-columns-repeated="1018"/>
     </table:table-row>
-    <table:table-row table:style-name="ro8">
-     <table:table-cell table:style-name="header-sub" office:value-type="string" calcext:value-type="string">
+    <table:table-row table:style-name="ro9">
+     <table:table-cell table:style-name="header-sub" office:value-type="string">
       <text:p>Element</text:p>
      </table:table-cell>
-     <table:table-cell table:style-name="header-sub" office:value-type="string" calcext:value-type="string">
+     <table:table-cell table:style-name="header-sub" office:value-type="string">
       <text:p>summary</text:p>
      </table:table-cell>
-     <table:table-cell table:style-name="header-sub" office:value-type="string" calcext:value-type="string">
+     <table:table-cell table:style-name="header-sub" office:value-type="string">
       <text:p>interview subjects</text:p>
      </table:table-cell>
-     <table:table-cell table:style-name="header-sub" office:value-type="string" calcext:value-type="string">
+     <table:table-cell table:style-name="header-sub" office:value-type="string">
       <text:p>relation to the story</text:p>
      </table:table-cell>
-     <table:table-cell table:style-name="header-sub" office:value-type="string" calcext:value-type="string">
+     <table:table-cell table:style-name="header-sub" office:value-type="string">
       <text:p>shit they say</text:p>
      </table:table-cell>
      <table:table-cell table:style-name="header-sub"/>
-     <table:table-cell table:style-name="header-sub" office:value-type="string" calcext:value-type="string">
+     <table:table-cell table:style-name="header-sub" office:value-type="string">
       <text:p>other notes</text:p>
      </table:table-cell>
      <table:table-cell table:style-name="header-sub" table:number-columns-repeated="1017"/>
     </table:table-row>
-    <table:table-row table:style-name="ro9">
+    <table:table-row table:style-name="ro10">
      <table:table-cell table:number-columns-repeated="3"/>
-     <table:table-cell office:value-type="string" calcext:value-type="string">
+     <table:table-cell office:value-type="string">
       <text:p>Louis&apos; Mom&apos;s coworker</text:p>
      </table:table-cell>
      <table:table-cell table:number-columns-repeated="2"/>
-     <table:table-cell office:value-type="string" calcext:value-type="string">
+     <table:table-cell office:value-type="string">
       <text:p>this piece is written by Ivan Campbell – shock journalist with literary aspirations.</text:p>
      </table:table-cell>
      <table:table-cell table:number-columns-repeated="1017"/>
     </table:table-row>
-    <table:table-row table:style-name="ro10">
+    <table:table-row table:style-name="ro11">
      <table:table-cell table:number-columns-repeated="3"/>
-     <table:table-cell office:value-type="string" calcext:value-type="string">
+     <table:table-cell office:value-type="string">
       <text:p>Student / neighborhood kid / friend of Louis</text:p>
      </table:table-cell>
      <table:table-cell table:number-columns-repeated="1020"/>
     </table:table-row>
-    <table:table-row table:style-name="ro11">
+    <table:table-row table:style-name="ro12">
      <table:table-cell table:number-columns-repeated="2"/>
-     <table:table-cell office:value-type="string" calcext:value-type="string">
+     <table:table-cell office:value-type="string">
       <text:p>Martin Shipley and his Fiancee, Lisa Vangellis</text:p>
      </table:table-cell>
-     <table:table-cell office:value-type="string" calcext:value-type="string">
+     <table:table-cell office:value-type="string">
       <text:p>One of the guys that found Louis when he wandered out of the waste They drove out to the scene of the crime and found … only death out there … nothing good.</text:p>
      </table:table-cell>
-     <table:table-cell table:number-columns-repeated="1020"/>
+     <table:table-cell office:value-type="string">
+      <text:p>“He&apos;d been through hell. No doubt about it.”</text:p>
+     </table:table-cell>
+     <table:table-cell table:number-columns-repeated="1019"/>
     </table:table-row>
-    <table:table-row table:style-name="ro9">
+    <table:table-row table:style-name="ro10">
      <table:table-cell table:number-columns-repeated="3"/>
-     <table:table-cell office:value-type="string" calcext:value-type="string">
+     <table:table-cell office:value-type="string">
       <text:p>Cop – a highway patrolman or Ranger that investigated the scene&apos;</text:p>
      </table:table-cell>
      <table:table-cell table:number-columns-repeated="1020"/>
     </table:table-row>
-    <table:table-row table:style-name="ro10">
+    <table:table-row table:style-name="ro11">
      <table:table-cell table:number-columns-repeated="3"/>
-     <table:table-cell office:value-type="string" calcext:value-type="string">
+     <table:table-cell office:value-type="string">
       <text:p>any relatives?</text:p>
      </table:table-cell>
      <table:table-cell table:number-columns-repeated="1020"/>
     </table:table-row>
-    <table:table-row table:style-name="ro10">
+    <table:table-row table:style-name="ro11">
      <table:table-cell table:number-columns-repeated="3"/>
-     <table:table-cell office:value-type="string" calcext:value-type="string">
+     <table:table-cell office:value-type="string">
       <text:p>Homicide detective – Texas Ranger? - Weslaco TX.</text:p>
      </table:table-cell>
      <table:table-cell table:number-columns-repeated="1020"/>
     </table:table-row>
-    <table:table-row table:style-name="ro10">
+    <table:table-row table:style-name="ro11">
      <table:table-cell table:number-columns-repeated="3"/>
-     <table:table-cell office:value-type="string" calcext:value-type="string">
+     <table:table-cell office:value-type="string">
       <text:p>family members of the other victims. </text:p>
      </table:table-cell>
      <table:table-cell table:number-columns-repeated="1020"/>
     </table:table-row>
-    <table:table-row table:style-name="ro11">
+    <table:table-row table:style-name="ro12">
      <table:table-cell table:number-columns-repeated="2"/>
-     <table:table-cell office:value-type="string" calcext:value-type="string">
+     <table:table-cell office:value-type="string">
       <text:p>Antonio Alonso—crime scene investigator </text:p>
      </table:table-cell>
-     <table:table-cell office:value-type="string" calcext:value-type="string">
+     <table:table-cell office:value-type="string">
       <text:p>crime scene investigator</text:p>
      </table:table-cell>
-     <table:table-cell office:value-type="string" calcext:value-type="string">
+     <table:table-cell office:value-type="string">
       <text:p>we see that shit all the time. But it isn&apos;t safe to get in there until a curandero has cleansed the place.</text:p>
      </table:table-cell>
      <table:table-cell table:number-columns-repeated="1019"/>
     </table:table-row>
-    <table:table-row table:style-name="ro10">
+    <table:table-row table:style-name="ro11">
      <table:table-cell table:number-columns-repeated="2"/>
-     <table:table-cell office:value-type="string" calcext:value-type="string">
+     <table:table-cell office:value-type="string">
       <text:p>&apos;Monsieur Faustrodamus&apos;</text:p>
      </table:table-cell>
-     <table:table-cell office:value-type="string" calcext:value-type="string">
+     <table:table-cell office:value-type="string">
       <text:p>“occult specialist”</text:p>
-     </table:table-cell>
-     <table:table-cell table:number-columns-repeated="1020"/>
-    </table:table-row>
-    <table:table-row table:style-name="ro10">
-     <table:table-cell table:number-columns-repeated="2"/>
-     <table:table-cell office:value-type="string" calcext:value-type="string">
-      <text:p>Charlotte Baroque</text:p>
-     </table:table-cell>
-     <table:table-cell office:value-type="string" calcext:value-type="string">
-      <text:p>Faustrodamus&apos; receptionist / assistant</text:p>
-     </table:table-cell>
-     <table:table-cell table:number-columns-repeated="1020"/>
-    </table:table-row>
-    <table:table-row table:style-name="ro10">
-     <table:table-cell table:number-columns-repeated="3"/>
-     <table:table-cell office:value-type="string" calcext:value-type="string">
-      <text:p>Hospital staff</text:p>
      </table:table-cell>
      <table:table-cell table:number-columns-repeated="1020"/>
     </table:table-row>
     <table:table-row table:style-name="ro11">
      <table:table-cell table:number-columns-repeated="2"/>
-     <table:table-cell office:value-type="string" calcext:value-type="string">
+     <table:table-cell office:value-type="string">
+      <text:p>Charlotte Baroque</text:p>
+     </table:table-cell>
+     <table:table-cell office:value-type="string">
+      <text:p>Faustrodamus&apos; receptionist / assistant</text:p>
+     </table:table-cell>
+     <table:table-cell table:number-columns-repeated="1020"/>
+    </table:table-row>
+    <table:table-row table:style-name="ro11">
+     <table:table-cell table:number-columns-repeated="3"/>
+     <table:table-cell office:value-type="string">
+      <text:p>Hospital staff</text:p>
+     </table:table-cell>
+     <table:table-cell table:number-columns-repeated="1020"/>
+    </table:table-row>
+    <table:table-row table:style-name="ro12">
+     <table:table-cell table:number-columns-repeated="2"/>
+     <table:table-cell office:value-type="string">
       <text:p>Chief Doug Douglas</text:p>
      </table:table-cell>
-     <table:table-cell office:value-type="string" calcext:value-type="string">
+     <table:table-cell office:value-type="string">
       <text:p>police chief</text:p>
      </table:table-cell>
-     <table:table-cell office:value-type="string" calcext:value-type="string">
+     <table:table-cell office:value-type="string">
       <text:p>&quot;At this point, we don&apos;t want to release any information that could compromise our investigation in any way,&quot;</text:p>
      </table:table-cell>
      <table:table-cell table:number-columns-repeated="1019"/>
     </table:table-row>
-    <table:table-row table:style-name="ro7" table:number-rows-repeated="11">
-     <table:table-cell table:number-columns-repeated="1024"/>
-    </table:table-row>
-    <table:table-row table:style-name="ro6" table:number-rows-repeated="6">
-     <table:table-cell table:number-columns-repeated="1024"/>
-    </table:table-row>
-    <table:table-row table:style-name="ro7">
-     <table:table-cell table:number-columns-repeated="1024"/>
-    </table:table-row>
-    <table:table-row table:style-name="ro6" table:number-rows-repeated="1048543">
+    <table:table-row table:style-name="ro6" table:number-rows-repeated="1048561">
      <table:table-cell table:number-columns-repeated="1024"/>
     </table:table-row>
     <table:table-row table:style-name="ro6">
@@ -831,6 +827,7 @@
     </table:table-row>
    </table:table>
    <table:table table:name="characters" table:style-name="ta1">
+    <office:forms form:automatic-focus="false" form:apply-design-mode="false"/>
     <table:table-column table:style-name="co6" table:default-cell-style-name="Default"/>
     <table:table-column table:style-name="co7" table:default-cell-style-name="Default"/>
     <table:table-column table:style-name="co8" table:default-cell-style-name="Default"/>
@@ -839,99 +836,98 @@
     <table:table-column table:style-name="co11" table:number-columns-repeated="9" table:default-cell-style-name="Default"/>
     <table:table-column table:style-name="co3" table:number-columns-repeated="242" table:default-cell-style-name="Default"/>
     <table:table-column table:style-name="co4" table:number-columns-repeated="768" table:default-cell-style-name="Default"/>
-    <table:table-row table:style-name="ro1">
+    <table:table-row table:style-name="ro8">
      <table:table-cell table:style-name="Heading"/>
-     <table:table-cell table:style-name="Heading" office:value-type="string" calcext:value-type="string" table:number-columns-spanned="3" table:number-rows-spanned="1">
+     <table:table-cell table:style-name="ce1" office:value-type="string" table:number-columns-spanned="4" table:number-rows-spanned="1">
       <text:p>Characters</text:p>
      </table:table-cell>
-     <table:covered-table-cell table:number-columns-repeated="2" table:style-name="Heading"/>
-     <table:table-cell table:style-name="Heading"/>
-     <table:table-cell table:style-name="ce1" office:value-type="string" calcext:value-type="string" table:number-columns-spanned="9" table:number-rows-spanned="1">
+     <table:covered-table-cell table:number-columns-repeated="3" table:style-name="Heading"/>
+     <table:table-cell table:style-name="ce1" office:value-type="string" table:number-columns-spanned="9" table:number-rows-spanned="1">
       <text:p>appearances</text:p>
      </table:table-cell>
      <table:covered-table-cell table:number-columns-repeated="8" table:style-name="Heading"/>
      <table:table-cell table:style-name="Heading" table:number-columns-repeated="1010"/>
     </table:table-row>
-    <table:table-row table:style-name="ro8">
-     <table:table-cell table:style-name="header-sub" office:value-type="string" calcext:value-type="string">
+    <table:table-row table:style-name="ro9">
+     <table:table-cell table:style-name="header-sub" office:value-type="string">
       <text:p>name</text:p>
      </table:table-cell>
-     <table:table-cell table:style-name="header-sub" office:value-type="string" calcext:value-type="string">
+     <table:table-cell table:style-name="header-sub" office:value-type="string">
       <text:p>notes</text:p>
      </table:table-cell>
-     <table:table-cell table:style-name="header-sub" office:value-type="string" calcext:value-type="string">
+     <table:table-cell table:style-name="header-sub" office:value-type="string">
       <text:p>archetype</text:p>
      </table:table-cell>
-     <table:table-cell table:style-name="header-sub" office:value-type="string" calcext:value-type="string">
+     <table:table-cell table:style-name="header-sub" office:value-type="string">
       <text:p>description</text:p>
      </table:table-cell>
-     <table:table-cell table:style-name="header-sub" office:value-type="string" calcext:value-type="string">
+     <table:table-cell table:style-name="header-sub" office:value-type="string">
       <text:p>arc</text:p>
      </table:table-cell>
-     <table:table-cell table:style-name="header-sub" office:value-type="float" office:value="1" calcext:value-type="float">
+     <table:table-cell table:style-name="header-sub" office:value-type="float" office:value="1">
       <text:p>1</text:p>
      </table:table-cell>
-     <table:table-cell table:style-name="header-sub" office:value-type="float" office:value="2" calcext:value-type="float">
+     <table:table-cell table:style-name="header-sub" office:value-type="float" office:value="2">
       <text:p>2</text:p>
      </table:table-cell>
-     <table:table-cell table:style-name="header-sub" office:value-type="float" office:value="3" calcext:value-type="float">
+     <table:table-cell table:style-name="header-sub" office:value-type="float" office:value="3">
       <text:p>3</text:p>
      </table:table-cell>
-     <table:table-cell table:style-name="header-sub" office:value-type="float" office:value="4" calcext:value-type="float">
+     <table:table-cell table:style-name="header-sub" office:value-type="float" office:value="4">
       <text:p>4</text:p>
      </table:table-cell>
-     <table:table-cell table:style-name="header-sub" office:value-type="float" office:value="5" calcext:value-type="float">
+     <table:table-cell table:style-name="header-sub" office:value-type="float" office:value="5">
       <text:p>5</text:p>
      </table:table-cell>
-     <table:table-cell table:style-name="header-sub" office:value-type="float" office:value="6" calcext:value-type="float">
+     <table:table-cell table:style-name="header-sub" office:value-type="float" office:value="6">
       <text:p>6</text:p>
      </table:table-cell>
-     <table:table-cell table:style-name="header-sub" office:value-type="float" office:value="7" calcext:value-type="float">
+     <table:table-cell table:style-name="header-sub" office:value-type="float" office:value="7">
       <text:p>7</text:p>
      </table:table-cell>
-     <table:table-cell table:style-name="header-sub" office:value-type="float" office:value="8" calcext:value-type="float">
+     <table:table-cell table:style-name="header-sub" office:value-type="float" office:value="8">
       <text:p>8</text:p>
      </table:table-cell>
-     <table:table-cell table:style-name="header-sub" office:value-type="float" office:value="9" calcext:value-type="float">
+     <table:table-cell table:style-name="header-sub" office:value-type="float" office:value="9">
       <text:p>9</text:p>
      </table:table-cell>
      <table:table-cell table:style-name="header-sub" table:number-columns-repeated="1010"/>
     </table:table-row>
-    <table:table-row table:style-name="ro12">
-     <table:table-cell office:value-type="string" calcext:value-type="string">
+    <table:table-row table:style-name="ro13">
+     <table:table-cell office:value-type="string">
       <text:p>Louis Blake (bartok?)</text:p>
      </table:table-cell>
-     <table:table-cell office:value-type="string" calcext:value-type="string">
+     <table:table-cell office:value-type="string">
       <text:p>Louis is a neurotic kid who&apos;s rather gullible and subject to overthinking. He gets pretty severe panic attacks now. He gets headaches and sometimes (maybe) hears voices. When he has a panic attack, he goes berserk. Blacks out. Turns into the incredible hulk, a werewolf, mr. hyde, etc.</text:p>
      </table:table-cell>
      <table:table-cell table:number-columns-repeated="3"/>
-     <table:table-cell office:value-type="string" calcext:value-type="string">
+     <table:table-cell office:value-type="string">
       <text:p>x</text:p>
      </table:table-cell>
      <table:table-cell table:number-columns-repeated="1018"/>
     </table:table-row>
-    <table:table-row table:style-name="ro10">
-     <table:table-cell office:value-type="string" calcext:value-type="string">
+    <table:table-row table:style-name="ro11">
+     <table:table-cell office:value-type="string">
       <text:p>Tank</text:p>
      </table:table-cell>
-     <table:table-cell office:value-type="string" calcext:value-type="string">
+     <table:table-cell office:value-type="string">
       <text:p>Nurse – takes Louis and Daisy to the fair</text:p>
      </table:table-cell>
      <table:table-cell table:number-columns-repeated="3"/>
-     <table:table-cell office:value-type="string" calcext:value-type="string">
+     <table:table-cell office:value-type="string">
       <text:p>x</text:p>
      </table:table-cell>
      <table:table-cell table:number-columns-repeated="1018"/>
     </table:table-row>
     <table:table-row table:style-name="ro10">
-     <table:table-cell office:value-type="string" calcext:value-type="string">
+     <table:table-cell office:value-type="string">
       <text:p>Daisy</text:p>
      </table:table-cell>
-     <table:table-cell office:value-type="string" calcext:value-type="string">
+     <table:table-cell office:value-type="string">
       <text:p>another mental patient. A little slutty. Really wants to go to the funhouse</text:p>
      </table:table-cell>
      <table:table-cell table:number-columns-repeated="3"/>
-     <table:table-cell office:value-type="string" calcext:value-type="string">
+     <table:table-cell office:value-type="string">
       <text:p>x</text:p>
      </table:table-cell>
      <table:table-cell table:number-columns-repeated="1018"/>
@@ -939,15 +935,15 @@
     <table:table-row table:style-name="ro6">
      <table:table-cell table:number-columns-repeated="1024"/>
     </table:table-row>
-    <table:table-row table:style-name="ro9">
-     <table:table-cell office:value-type="string" calcext:value-type="string">
+    <table:table-row table:style-name="ro10">
+     <table:table-cell office:value-type="string">
       <text:p>EMTs</text:p>
      </table:table-cell>
-     <table:table-cell office:value-type="string" calcext:value-type="string">
+     <table:table-cell office:value-type="string">
       <text:p>Jared and Bradley – give Tank the use of their trailer for a bit, to allow Louis a safe place to calm down.</text:p>
      </table:table-cell>
      <table:table-cell table:number-columns-repeated="3"/>
-     <table:table-cell office:value-type="string" calcext:value-type="string">
+     <table:table-cell office:value-type="string">
       <text:p>x</text:p>
      </table:table-cell>
      <table:table-cell table:number-columns-repeated="1018"/>
@@ -956,15 +952,24 @@
      <table:table-cell table:number-columns-repeated="1024"/>
     </table:table-row>
     <table:table-row table:style-name="ro10">
-     <table:table-cell office:value-type="string" calcext:value-type="string">
-      <text:p>The Doctor</text:p>
+     <table:table-cell office:value-type="string">
+      <text:p>The Doctor, Don Oscuro, Oscar Regalo</text:p>
      </table:table-cell>
      <table:table-cell table:number-columns-repeated="1023"/>
     </table:table-row>
-    <table:table-row table:style-name="ro6" table:number-rows-repeated="3">
+    <table:table-row table:style-name="ro10">
+     <table:table-cell office:value-type="string">
+      <text:p>Helen Blake / Anita Blakeley</text:p>
+     </table:table-cell>
+     <table:table-cell office:value-type="string">
+      <text:p>Louis&apos; mother – faked her RN credentials and worked in Arkansas as a nurse under the name Anita Blakeley.</text:p>
+     </table:table-cell>
+     <table:table-cell table:number-columns-repeated="1022"/>
+    </table:table-row>
+    <table:table-row table:style-name="ro6" table:number-rows-repeated="2">
      <table:table-cell table:number-columns-repeated="1024"/>
     </table:table-row>
-    <table:table-row table:style-name="ro13" table:number-rows-repeated="7">
+    <table:table-row table:style-name="ro14" table:number-rows-repeated="7">
      <table:table-cell table:number-columns-repeated="1024"/>
     </table:table-row>
     <table:table-row table:style-name="ro6" table:number-rows-repeated="1048555">
@@ -980,28 +985,28 @@
     <table:table-column table:style-name="co14" table:default-cell-style-name="Default"/>
     <table:table-column table:style-name="co15" table:number-columns-repeated="253" table:default-cell-style-name="Default"/>
     <table:table-column table:style-name="co4" table:number-columns-repeated="768" table:default-cell-style-name="Default"/>
-    <table:table-row table:style-name="ro14">
+    <table:table-row table:style-name="ro15">
      <table:table-cell table:style-name="Heading"/>
-     <table:table-cell table:style-name="Heading" office:value-type="string" calcext:value-type="string" table:number-columns-spanned="2" table:number-rows-spanned="1">
+     <table:table-cell table:style-name="Heading" office:value-type="string" table:number-columns-spanned="2" table:number-rows-spanned="1">
       <text:p>Locations</text:p>
      </table:table-cell>
      <table:covered-table-cell table:style-name="Heading"/>
      <table:table-cell table:style-name="Heading" table:number-columns-repeated="1021"/>
     </table:table-row>
     <table:table-row table:style-name="ro2">
-     <table:table-cell table:style-name="header-sub" office:value-type="string" calcext:value-type="string">
+     <table:table-cell table:style-name="header-sub" office:value-type="string">
       <text:p>location</text:p>
      </table:table-cell>
-     <table:table-cell table:style-name="header-sub" office:value-type="string" calcext:value-type="string">
+     <table:table-cell table:style-name="header-sub" office:value-type="string">
       <text:p>description</text:p>
      </table:table-cell>
-     <table:table-cell table:style-name="header-sub" office:value-type="string" calcext:value-type="string">
+     <table:table-cell table:style-name="header-sub" office:value-type="string">
       <text:p>notes</text:p>
      </table:table-cell>
      <table:table-cell table:style-name="header-sub" table:number-columns-repeated="1021"/>
     </table:table-row>
-    <table:table-row table:style-name="ro10">
-     <table:table-cell office:value-type="string" calcext:value-type="string">
+    <table:table-row table:style-name="ro11">
+     <table:table-cell office:value-type="string">
       <text:p>the medical trailer at the fair</text:p>
      </table:table-cell>
      <table:table-cell table:number-columns-repeated="1023"/>
@@ -1019,22 +1024,22 @@
     <table:table-column table:style-name="co18" table:default-cell-style-name="Default"/>
     <table:table-column table:style-name="co16" table:number-columns-repeated="253" table:default-cell-style-name="Default"/>
     <table:table-column table:style-name="co4" table:number-columns-repeated="768" table:default-cell-style-name="Default"/>
-    <table:table-row table:style-name="ro14">
+    <table:table-row table:style-name="ro15">
      <table:table-cell table:style-name="Heading"/>
-     <table:table-cell table:style-name="ce1" office:value-type="string" calcext:value-type="string" table:number-columns-spanned="2" table:number-rows-spanned="1">
+     <table:table-cell table:style-name="ce1" office:value-type="string" table:number-columns-spanned="2" table:number-rows-spanned="1">
       <text:p>Stuff</text:p>
      </table:table-cell>
      <table:covered-table-cell table:style-name="Heading"/>
      <table:table-cell table:style-name="Heading" table:number-columns-repeated="1021"/>
     </table:table-row>
     <table:table-row table:style-name="ro2">
-     <table:table-cell table:style-name="header-sub" office:value-type="string" calcext:value-type="string">
+     <table:table-cell table:style-name="header-sub" office:value-type="string">
       <text:p>Name</text:p>
      </table:table-cell>
-     <table:table-cell table:style-name="header-sub" office:value-type="string" calcext:value-type="string">
+     <table:table-cell table:style-name="header-sub" office:value-type="string">
       <text:p>description</text:p>
      </table:table-cell>
-     <table:table-cell table:style-name="header-sub" office:value-type="string" calcext:value-type="string">
+     <table:table-cell table:style-name="header-sub" office:value-type="string">
       <text:p>notes</text:p>
      </table:table-cell>
      <table:table-cell table:style-name="header-sub" table:number-columns-repeated="1021"/>
@@ -1050,41 +1055,47 @@
     <table:table-column table:style-name="co19" table:number-columns-repeated="1024" table:default-cell-style-name="Default"/>
     <table:table-row table:style-name="ro1">
      <table:table-cell/>
-     <table:table-cell table:style-name="ce1" office:value-type="string" calcext:value-type="string">
+     <table:table-cell table:style-name="ce1" office:value-type="string">
       <text:p>Episode Ideas</text:p>
      </table:table-cell>
      <table:table-cell/>
      <table:table-cell table:style-name="Heading" table:number-columns-repeated="1021"/>
     </table:table-row>
     <table:table-row table:style-name="ro2">
-     <table:table-cell table:style-name="header-sub" office:value-type="string" calcext:value-type="string">
+     <table:table-cell table:style-name="header-sub" office:value-type="string">
       <text:p>Whatever</text:p>
      </table:table-cell>
-     <table:table-cell table:style-name="header-sub" office:value-type="string" calcext:value-type="string">
+     <table:table-cell table:style-name="header-sub" office:value-type="string">
       <text:p>Maybe</text:p>
      </table:table-cell>
-     <table:table-cell table:style-name="header-sub" office:value-type="string" calcext:value-type="string">
+     <table:table-cell table:style-name="header-sub" office:value-type="string">
       <text:p>Developing</text:p>
      </table:table-cell>
-     <table:table-cell table:style-name="header-sub" office:value-type="string" calcext:value-type="string">
+     <table:table-cell table:style-name="header-sub" office:value-type="string">
       <text:p>Yes!</text:p>
      </table:table-cell>
      <table:table-cell table:style-name="header-sub" table:number-columns-repeated="1020"/>
     </table:table-row>
     <table:table-row table:style-name="ro5">
-     <table:table-cell office:value-type="string" calcext:value-type="string">
+     <table:table-cell office:value-type="string">
       <text:p>Louis comes out of a blackout, and he is working a menial office job. He&apos;s in the middle of a shift, perhaps talking to someone on the phone and all of the sudden, it hits him. What is he doing here? how did he get here? a desk job? that doesn&apos;t make any sense. Louis has always been a vagabond. what is he doing working in this office?</text:p>
      </table:table-cell>
      <table:table-cell table:number-columns-repeated="1023"/>
     </table:table-row>
-    <table:table-row table:style-name="ro15">
-     <table:table-cell office:value-type="string" calcext:value-type="string">
+    <table:table-row table:style-name="ro16">
+     <table:table-cell office:value-type="string">
       <text:p>Louis comes out of a blackout to find himself in the middle of some kind of interview. A job interview? An oral exam? a press thing (is he the interviewer or the interviewee?)? he is in conversation with someone, but doesn&apos;t know the dynamic of the relationship. Tries to figure it out and play the situation to his best interests. Ideally our conception of the power relationship would shift once or twice as the episode progressed (who&apos;s on top? is it louis? yes! wait, no. it&apos;s Tank! whaaat? it isn&apos;t tank, but it&apos;s actually louis. This is tooo much. And of course, it isn&apos;t louis after all. I can see where this is going--oh wait. Louis isn&apos;t handling this very well. He&apos;s losing his cool (not in a violent way, but in an embarassing and over the top way). he does something wildly inapropriate, but not necessarily a tough-guy move. He pees in the corner--just whips it out and pees in a trashcan in front of everybody. And just as everybody is brushing themselves off and nervously laughing about what a weak social misfit Louis is ... he goes berserk.</text:p>
      </table:table-cell>
      <table:table-cell table:number-columns-repeated="1023"/>
     </table:table-row>
-    <table:table-row table:style-name="ro16">
-     <table:table-cell office:value-type="string" calcext:value-type="string"><text:p>combine the berserker with the thriller where we have no payoffs, the constantly discarded checkov&apos;s gun. we set up thriller tropes and don&apos;t live up to them. bait and switch. Wait a minute. This isn&apos;t the way to the airport! Danger ... driver out to get me ... blood rising ... collar. feels. tight. too tight. back of my hands itch terribly. What&apos;s that smell? it&apos;s the driver&apos;s meal from last night, completely described in thorough detail but I&apos;ve ... only ... smelled his flatulence. My sense of smell is getting powerful. Adrenaline surging. Feel strong. Ready for violence. Extreme hunger for ultra-rare meats. Here it comes! ... Oh wait, this actually *is* the way to the airport. I guess I got a little turned around. okay, i&apos;ll be fine. Just breathe for a minute.</text:p><text:p/><text:p>but if that&apos;s the case, the pulp action stuff becomes peripheral, it becomes more about the horror of what he does to people who don&apos;t deserve that kind of treatment ... </text:p><text:p/><text:p>it becomes more of a story about &quot;I must resist the urge to freak the fuck out / I must master my own demons&quot; becomes the central conflict / issue, rather than of the &apos;tough guy whoops bad guy&apos;s ass&apos; paradigm</text:p><text:p/>
+    <table:table-row table:style-name="ro17">
+     <table:table-cell office:value-type="string">
+      <text:p>combine the berserker with the thriller where we have no payoffs, the constantly discarded checkov&apos;s gun. we set up thriller tropes and don&apos;t live up to them. bait and switch. Wait a minute. This isn&apos;t the way to the airport! Danger ... driver out to get me ... blood rising ... collar. feels. tight. too tight. back of my hands itch terribly. What&apos;s that smell? it&apos;s the driver&apos;s meal from last night, completely described in thorough detail but I&apos;ve ... only ... smelled his flatulence. My sense of smell is getting powerful. Adrenaline surging. Feel strong. Ready for violence. Extreme hunger for ultra-rare meats. Here it comes! ... Oh wait, this actually *is* the way to the airport. I guess I got a little turned around. okay, i&apos;ll be fine. Just breathe for a minute.</text:p>
+      <text:p/>
+      <text:p>but if that&apos;s the case, the pulp action stuff becomes peripheral, it becomes more about the horror of what he does to people who don&apos;t deserve that kind of treatment ... </text:p>
+      <text:p/>
+      <text:p>it becomes more of a story about &quot;I must resist the urge to freak the fuck out / I must master my own demons&quot; becomes the central conflict / issue, rather than of the &apos;tough guy whoops bad guy&apos;s ass&apos; paradigm</text:p>
+      <text:p/>
      </table:table-cell>
      <table:table-cell table:number-columns-repeated="1023"/>
     </table:table-row>
