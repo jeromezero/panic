@@ -1,37 +1,41 @@
-revising the structure.
-
-## Louis Blake stumbled out of the brush, more dead than alive.
-
-## Blake is the only survivor of what has been called a drug cartel massacre
-
-## The killings were entirely unrelated to drug cartels, yet official stories remain steadfast
-
-## Shipley and Vangellis did NOT call 911 before visiting the site. They picked up Blake, loaded him into the truck in order to take him to the ER, followed Blake's urging to the crime scene.
-
-according to shipley / vangellis
-
-## The victims were of two sorts: middle class Americans from across the country, lured down to the border by the promise of a cure for something incurable; and these OTHERS, initiates with evidence of ritual scarification.
-
-## the american victims were lured from all across the states, told they were to participate in an advanced healing ceremony held in a place of power on a specially chosen date.
-
-## Don Oscuro, the charming Latin Mystic who gathered them all.
-
-## Once the ceremony got underway, things became dark very quickly.
-
-Louis blake tries to talk about it. He describes arrival at the scene. He is surprised to see how rundown the place is. It is little more than abandoned ruins. Men in dark robes come in from each of the four directions. They take the lid off metal buckets. I thought they were paint buckets at first ... they started to stir them with long sticks. It smelled bad ... they brought out one of the patients, an older lady. She had a big swolen growth on her neck. I don't know what was wrong with her. But they brought her out  ... HE was there. Don Oscuro. He was naked. He took off all her clothes. He had a huge knife, like a machete. He cut her head open while they were holding her. Scooped her brains out into the bucket ... chanting the whole time.
-
-Blake starts hyperventilating. Exhibiting signs of a panic attack. Nurses come and interrupt the conversation. They inject him with something. "A sedative," is the only answer they give.
-
-"He has terrible panic attacks," the attendant ward says.
 
 
-## authorities will not confirm any of this. The official story is Drug Cartel massacre. Louis Blake is a delusional teen, chronically ill and no stranger to asylums. His presence in proximity to the killings is coincidence. An unfortunate coincidence.
+* Vangelis and Shipley's truck obliterated whatever tracks may have been left on the drive.
+* Vangelis and Shipley had run of the place for an undisclosed amount of time. "It could have been an hour," Shipley said. "It felt like *forever*," Vangelis said.
 
-Faustrodamus, Shipley and Vangellis all corroborate Louis' story, more-or-less. This was no cartel killing. This was a carefully planned ceremony. A dark ritual.
+
+
+These were found in the hotel room. I found the car in the parking lot of the cheap hotel. This is how I found the hotel.
+
+Anita Baker and her son rented a room by the week, and had paid in up to the end of the month.
+<!-- TODO: quote from hotel employee / manager -->
+
+Helen had been living under the name Anita Blakeley, but the Hotel he'd been booked under her real name, Helen Blake, 
+
+I was the first to find the car.
+
+It was chance, really. I was driving around in circles, thinking about what Charles had. said. I'd only asked about the car because my editor loved shit like that. Whenever I talked to anybody ... she didn't give a shit about much of what I get out of an interview, so long as I get the make and model of the car they drive. Elizabeth Bishop is one hell of an editor. This bit about the cars--I'd long scoffed at it. But she'd drilled the habit into me. And in this case, it paid off. Big time.
+
+There it was, the car Charles had described to me, parked in the lot of the Apache Motor Lodge. "Weekly rates and free HBO," the sign read.
+
+I lied through my teeth to the hotel manager. Told him I was worried about my cousin. She'd come to town to visit me. Her and her kid. I Hadn't seen them for about a week, and I was worried. I thought maybe they'd been in a car wreck or they left town without saying a word. But that was their car right out in the lot. It looked like they were still around, after all. 
+
+Something prompted me to hold back. i don't know what it was. Dumb luck, maybe, or some voice whispering up from down below . . . but I didn't use any names. I had been about to ask about my cousin, 'Anita,' but I held back. Instead I left out the name. But the front desk clerk conveniently supplied it for me.
+
+I thought I'd lost the trail when he said "Helen," but I couldn't just turn around and walk out of there. Other details fit. She was a nurse, staying there with her son, about 15 or 16 years old. Last name Blake instead of Blakeley. Their rent had been due two days ago. but she'd been staying with them for a while now.  Always been good about paying up front, so they hadn't tried to clear her stuff out yet. 
+
+
+
+
+
+---
+
+
+Faustrodamus, Shipley and Vangelis all corroborate Louis' story, more-or-less. This was no cartel killing. This was a carefully planned ceremony. A dark ritual.
 
 "The real deal" says Faustrodamus. "Somebody messing with some *heavy* **forces**." Who is this Don Oscuro? Why did he gather these fragile, vulnerable people? all these people who were so close to death anyhow--why did he gather them and torture and murder them? to what end? and what had gone wrong?
 
-According to Shipley and Vangellis, the scene looked to be torn apart by animals. The patients were tortured. Burned and cut and whipped and hacked. But the others, the initiated, who--according to Blake--were there to assist in the ritual torture--were torn apart. Shredded limb from limb.
+According to Shipley and Vangelis, the scene looked to be torn apart by animals. The patients were tortured. Burned and cut and whipped and hacked. But the others, the initiated, who--according to Blake--were there to assist in the ritual torture--were torn apart. Shredded limb from limb.
 
 Did Don Oscuro survive?
 there was no sign of his body, but there was so much blood. So much dismemberment.
@@ -40,7 +44,7 @@ there was no sign of his body, but there was so much blood. So much dismembermen
 
 ---
 
-Louis has no identification. He has been home schooled, kept out of public life by his overprotective mother, who travels from place to place ... He has a birth certificate and some records. Homeschool records. Some forms are filed with various school districts. The latest of which, Louis Blake checked into the
+Louis has no identification. He has been home schooled, kept out of public life by his overprotective mother, who travels from place to place ... He has a birth certificate and some records. Home school records. Some forms are filed with various school districts. The latest of which, Louis Blake checked into the
 
 > Texarkana Reformed Baptist Church
 > 1801 S State Line Avenue
@@ -53,4 +57,8 @@ records of admittance to and release from psychiatric hospitals.
 
 ---
 
-Something is different about Louis. None of the treatments work. His mother doesn't trust anyone or anything. they never stay in the same place for long. Something is *different* about louis. He doesn't respond to treatments the way he should. Mother is always on the lookout for new treatments and shit. She tries method after method, but nothing works. She gets more and more obscure in her search. The shit she searches for is more and more outlandish
+Something is different about Louis. None of the treatments work. His mother doesn't trust anyone or anything. they never stay in the same place for long. Something is *different* about Louis. He doesn't respond to treatments the way he should. Mother is always on the lookout for new treatments and shit. She tries method after method, but nothing works. She gets more and more obscure in her search. The shit she searches for is more and more outlandish
+
+
+
+## Don Oscuro, the charming Latin Mystic who gathered them all.
