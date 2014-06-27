@@ -25,11 +25,11 @@ According to Miller, there were two classes of victim: a group of men wearing ro
 
 The Brownsville Police Department vehemently disagrees with statements made by Miller, who, under pressure from the authorities, subsequently retracted her commentary.
 
-"This was Mexican drug traffickers killing Mexican drug traffickers," Douglas insisted. "And Blake is no Mexican drug trafficker." He slapped a photograph onto the surface of his desk. A head shot of Louis Blake--a pale, pudgy teen with a shock of short but unruly brown hair. His cheeks and the bridge of his nose are rosy with dense acne or some sort of rash.
+"This was Mexican drug traffickers killing Mexican drug traffickers," Douglas insisted. "And Blake is no Mexican drug trafficker." He slapped a photograph onto the surface of his desk. A head shot of Louis Blake--a pale, pudgy teen with a shock of short but unruly brown hair. His cheeks and the bridge of his nose were rosy with dense acne or some sort of rash.
 
 "These kids take too much LSD and get lost out in the bush," said Douglas. "It happens all the time. He's lucky he found Masey's instead of the massacre."
 
-Masey's Gun Shop and Shooting Range is a moated fortress on the banks of the Rio Grande. Guests literally fire across the river into Mexico. It's about five miles West of the Gulf of Mexico and about 20 miles East of Brownsville--where the closest E.R. is located.
+Masey's Gun Shop and Shooting Range is a moated fortress on the banks of the Rio Grande. Guests literally fire across the river into Mexico. It's about five miles West of the Gulf and about 20 miles East of Brownsville--where the closest E.R. is located.
 
 <!-- NOTE: setting - Brownsville -->
 
@@ -54,27 +54,25 @@ They wrapped Blake in a foil blanket and hoisted him into the back of their blue
 
 "Lisa was riding in the back with the kid," Shipley said. "And up till now, he'd been pretty quiet. I mean, he hadn't been moving much or anything, but when we got to the turn--Brownsville and the E.R. to the Left, and the Gulf to the right--the kid woke up for real."
 
-"He started screaming and hollering," Vangelis said. "He was banging on the window, trying to get Marty's attention. He made us pull over and he told us about what happened. He said there was some healing thing do be done out by the river, but it wasn't no doctor. It was a killer. 'He killed that lady,' he said. He pointing out toward the gulf, crying for his Mamma. Said she was still out there. Said we had to save her." 
+"He started screaming and hollering," Vangelis said. "He was banging on the window, trying to get Marty's attention. He made us pull over and he told us about what happened. He said he and his momma had gone to see some doctor down on the river, but it wasn't no doctor. It was a killer. 'He killed that lady,' he said. He was pointing down the river, crying for his Momma. Said she was still out there. Said we had to save her." 
 
 "Once he told his story, I knew we couldn't leave his momma out there," Shipley said. "Not if there was a chance she was still alive. We've never been the kind to sit and wait around for the authorities to come along and handle our business for us. If something needed doing, we were the ones to do it."
 
 "If there was some kind of trouble, we were ready," said Vangelis. "Marty just bought me this nice pink shotgun--for our engagement--and I ain't never been scared of trouble. So we headed to the right instead of making left for the E.R. We were gonna save his momma, if we could."
 
-### discovery of the scene
+### The Discovery of the Scene
 
-A couple of miles to the east, a little less than half way to the mouth of the Rio Bravo, Louis led the couple off the main road and on to an overgrown dirt track called Quicksilver Avenue. As they rode toward the abandoned ruins of an old patrol station, Shipley's truck
+A couple of miles to the east, a little less than half way to the mouth of the Rio Grande, Louis led the couple off the main road and on to an overgrown dirt track called Quicksilver Avenue. As they rode toward the abandoned ruins of an old patrol station, Shipley's truck
 <!-- Patriot Blue Pearl 2000 Dodge Ram  -->
-tore up any tracks that may have been used to ID a vehicle that had been up or down that road in the last 24 hours.
+tore up any tracks that might have been used to ID a vehicle that had been up or down that road in the last 24 hours.
 
 Shipley and Vangelis plunged headlong into a scene of death and gore. It was more than they were prepared for.
 
-Vangelis can't talk about it. She breaks down in tears when I push her for details. "It was some kind of Voodoo witchcraft," she says. "There was an altar, with signs drawn on it. Burnt-out candles. A metal bucket on the floor. It had been full of blood, but it was spilled. And in the ... it looked like a heart. Like a brain, or a part of one. Fingers," she struggles to get this much out. Her voice is quavering and she stutters, trying to find the words and the courage to share what she has seen. "Worse," is all she can muster before she turns away.
+Vangelis couldn't talk about it. She broke down in tears when I pushed her for details. "It was some kind of Voodoo witchcraft," she said. "There was an altar, with signs drawn on it. Burnt-out candles. A metal bucket on the floor. It had been full of blood, but it was spilled. And in the ... it looked like a heart. Like a brain, or a part of one. Fingers," she struggled to get this much out. Her voice quavering as she stuttered, trying to find the words and the courage to share what she had seen. "Worse," is all she could muster before she turned away.
 
 Shipley and Vangelis said they had no way of telling how many bodies there were. "There was more blood than I've ever seen," Shipley said. "And I've bled out a six hundred pound Elk." 
 
 There were no intact bodies, only pieces, Shipley said. A hand torn from its joint. A section of spine. Fragments of Skull. Some larger pieces. Unidentifiable, but for occasional clumps of hair and scraps of clothing.
-
-Statements issued by the Brownsville Police department have so far denied the extent of such mutilations or any evidence of witchcraft.
 
 ### A Foreign Perspective
 
@@ -83,11 +81,11 @@ Officers on the other side of the river aren't surprised by Shipley and Vangelis
 
 "There is very little we discover on such scenes," Alonso said, pulling his dusty white cowboy hat lower over his eyes. "It is not safe to search them before they have been cleansed."
 
-The Matamoros Police Department has barely any detectives left, Alonso said. They have been murdered, most of them. Those that are left are to frightened to do their work. 
+The Matamoros Police Department has barely any detectives left, Alonso said. They have been murdered, most of them. Those that are left are to frightened to do their work.
 
 When they come across a crime scene with signs of witchcraft, they wait for a curandero--a kind of blue-collar shaman--to dispel the evil before they enter. Unfortunately, this often means the destruction of evidence ... 
 <!-- TODO: @now [seriously] (2) work this quote -->
-"But it it better to be alive ... and in this life, there are worse things than being dead, even."
+"It is good to stay alive," Alonso said "and in this business, there are worse things than being dead, even."
 
 "Perhaps your Brownsville Police have their own curandero," Alonso said.
 
@@ -113,17 +111,17 @@ According to Blake, his mother found a spiritual healer, Don Oscuro, who promise
 
 <!-- TODO: seven patients with 7 incurable conditions -->
 
+Men in came in wearing robes and carrying metal buckets, Blake said. "I thought they were paint buckets, but when they opened them up, it stank. Real bad. They were stirring them up with these long sticks, and they brought out Mrs. Jenkins--she had some kind of Jacob's Disease, I think. Dementia and all. But then the doctor was there. Don Oscuro. He was naked. He took off all Mrs. Jenkins' clothes."
+
 While Blake spoke, he scratched idly at the back of his hands and wrists, and popped his jaw every so often with a yawn-like motion that produced a soft clicking sound. 
 
-Blake has gaps in his memory. He remembers the beginning of the night, the dilapidated condition of the abandoned station. "It was like a ruin," he said. "The roof was off. but once he ... once he ... started to cut her ... I guess I blacked out. The next thing I remember ... I'm in the woods, and the sun is up. There's this crackling sound of fireworks or gunfire, and I'm running toward it, trying to get there."
+Blake started shaking. He scratched at his wrists and arms with more vigor, but without seeming to notice what he was doing.
 
-Blake remembered being shocked at the condition of the abandoned station. "It was ... not just rundown, it was like ruins--the roof was off," he said. Men in came in wearing robes and carrying metal buckets. "I thought they were paint buckets, but when they opened them up, it stank. Real bad. They were stirring them up with these long sticks, and they brought out Mrs. Jenkins--she had some kind of Jacob's Disease, I think. Dementia and all. But then the doctor was there. Don Oscuro. He was naked. He took off all Mrs. Jenkins' clothes."
+"The guys who had been stirring the buckets helped him," Blake said. "They held her down. They were singing. The Don had a big knife. Like a machete. He cut open her head while they were holding her. He reached in and scooped ... out of her head ... into the bucket." 
 
-Blake started shaking as he spoke. He was scratching at his wrists and arms with more vigor, but without seeming to notice what he was doing.
+"I guess I blacked out," Blake said. "The next thing I remember ... I'm in the woods, and the sun is up. There's this crackling sound of gunfire, and I'm running toward it, trying to get there. Trying to get away from something. Trying to get away from the Doctor."
 
-"The guys who had been stirring the buckets helped him," Blake said. "They held her down. They were singing. The Don had a big knife. Like a machete. He cut open her head while they were holding her. He reached in and scooped ... out of her head ... into the bucket."
-
-Blake was getting quite agitated. He started hyperventilating as he scratched at himself. Not just at his wrists and arms, but all over his chest and at his neck.
+Blake's breathing was rough and ragged. He scratched at himself, drawing blood. Not just at his wrists and arms, but all over his chest and at his neck.
 
 The two attendant wards rushed over and injected Blake with something. "A sedative," one of them said.
 
