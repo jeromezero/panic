@@ -13,15 +13,17 @@
 
 The morning after the River Station Massacre, two miles inland from the abandoned border patrol station where the brutal slayings took place, Louis Blake plunged naked through razor-sharp cordgrass and thickets of mesquite, following the sound of gunfire, praying it might save his life.
 
+<!--more-->
+
 He stumbled out of the humid, South Texas brush onto the delivering end of a recreational shooting range and collapsed out of relief and exhaustion. It was eleven o'clock in the morning, Friday, June 13.
 
 <!-- TODO: is "delivering end of range awkward? I could bring back the Vangelis quote? "He scared the hell out of us, but thank God he came up behind us. At least we didn't shoot him." or some shit like that. -->
 
-According to Brownsville police, Blake's presence and proximity to the massacre is entirely coincidence. "He had nothing to do with the River Station incident," said Desk Sergeant Doug Douglas. "The River Station Incident was Mexican drug traffickers killing Mexican drug traffickers and dropping their bodies on American soil. They think they can get away with anything. They think they've got *protection*." 
+According to Brownsville police, Blake's presence and proximity to the massacre is entirely coincidence. "He had nothing to do with the River Station incident," said Desk Sergeant Doug Douglas. "Sure, he stumbled across the crime scene ... a stoned teenager in the woods discovered some shit that scared and confused him. He was so wasted that he spun out a nonsense yarn about witchcraft and monsters ... but what we have here is Mexican drug dealers killing Mexican drug dealers." 
 
 But recovered evidence doesn't fit the drug cartel pattern, said Cameron County Justice of the Peace (Precinct 1) Paula Miller, who signed the autopsy reports. "This looks like something else. I don't want to speculate, but if pressed, I'd say this was some sort of Satanic rite or ritual killing gone wrong."
 
-According to Miller, there were two classes of victim: a group of men wearing robes and bearing marks of ritual scarification--all of whom have remained unidentified; and a group of eight identified Americans, all of whom had voluntarily ceased receiving treatment for serious medical conditions within the last year. The robed men tortured and mutilated the Americans, until something interrupted them and tore them limb from limb. "I don't know what it was," said Miller. "Maybe it was a bear, maybe it was a demon, maybe it was God's vengeance."
+According to Miller, there were two classes of victim: a group of men wearing robes and bearing marks of ritual scarification--all of whom have remained unidentified; and a group of eight identified Americans, all of whom had voluntarily ceased receiving treatment for serious medical conditions within the last year. The robed men tortured and mutilated the Americans, until something interrupted them and tore them limb from limb. "I don't know what it was," said Miller. "Maybe it was a bear, maybe it was a chupacabra, maybe it was God's vengeance."
 
 The Brownsville Police Department vehemently disagrees with statements made by Miller, who, under pressure from the authorities, subsequently retracted her commentary.
 
