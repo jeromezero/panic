@@ -3,11 +3,7 @@
 
 ## PANIC attacks episode 04
 
-### 01 - Intro
-
-<!-- pre-existing conflict  / exposition -->
-
-<!-- ACT ONE: On the way through the building, Louis encounters another patient, Shannon Ulger, who recognizes some sort of kinship. -->
+<!-- PLOT: On the way through the building, Louis encounters another patient, Shannon Ulger, who recognizes some sort of kinship. -->
 
 Louis sat in the garden. 
 
@@ -27,131 +23,91 @@ Louis had never been particularly fond of retracing his steps, but as soon as he
 
 He hoped someone would come along soon, for it was a bit chilly out in the garden. But at the same time, he hoped no one would come along at all, not ever, for the naked body is an extremely private thing, he thought. Especially his own. Maybe he would feel different about the naked body if his own wasn't so pudgy and pale and awkward, and if he wasn't prone to break out in the nasty red 'butterfly' rashes.
 
-Louis had a hard time dealing with his embarassment. He wasn't used to crowds or strangers or to people in general. He was used to cheap hotel rooms with the blinds drawn. He was used to his mother coming in late from her long days of work or research, from her long days of hunting. She didn't hunt for meat, she hunted for information. She hunted for health. For Louis' health. She hunted hospitals and pharmacies and alternative healing clinics. She hunted for a cure. She hunted for something to stabilize him, for an ongoing treatment to make a 'normal' life possible.
+Louis had a hard time dealing with his embarrassment. He wasn't used to crowds or strangers or to people in general. He was used to cheap hotel rooms with the blinds drawn. He was used to his mother coming in late from her long days of work or research, from her long days of hunting. She didn't hunt for meat, she hunted for information. She hunted for health. For Louis' health. She hunted hospitals and pharmacies and alternative healing clinics. She hunted for a cure. She hunted for something to stabilize him, for an ongoing treatment to make a 'normal' life possible.
 
-Often she came "home" tired, depressed and disillusioned, her hope worn thin and stretched to the limit. But sometimes she came home excited and manic. Ecstatic, even. When she had a new lead, a new treatment to try, an experimental drug or therapy, she was alive, full of energy. They had direction. A new destination, perhaps. A city on the other seaboard. A mountain retreat. A holistic healing center in the hills outside Sacramento. A hot springs in Arkansas with unprecedented healing minerals. A shaman on the Texas-Mexico border ...
+Often she came "home" tired, depressed and disillusioned, her hope worn thin and stretched to the limit. But sometimes she came home excited and manic. Ecstatic, even. When she had a new lead, a new treatment to try, an experimental drug or therapy, she was alive, full of energy. They had direction. A new destination. A city on the other seaboard, perhaps. Or a mountain retreat somewhere in California. A holistic healing center in the hills outside Sacramento. A hot springs in Arkansas with naturally-occurring lithium in the water. A shaman on the Texas-Mexico border ...
 
-And they were off like a rocket. Hotel room emptied out, packed into the little white Ford Fiesta, and on the road by six the next morning, watching the sun rise over the open highway.
+And they were off like a rocket. Hotel room emptied out, packed into the little white Ford Fiesta, and on the road by five the next morning, watching the sun rise over the open highway.
 
 But that was over. 
 
-As long as Louis sat in the garden, worrying about his nakedness, everything would be fine. That problem was big enough. He wouldn't have to think about how he'd come to be here. He wouldn't have to think about what had happened since he and his mother had set out to meet the shaman on the Texas-Mexico border.
+Louis sat in the garden, worrying about his nakedness. That was enough. He didn't want to think about how he'd come to be here. He didn't want to think about what had happened since he and his mother had set out to meet the shaman on the Texas-Mexico border.
 
-He hoped someone would come along soon and bring him a blanket or a coat. Even one of the hospital gowns would be fine. But he hoped no one would come along at all. He didn't want to move on to the next logical step. 
+He hoped someone would come along soon and bring him a blanket or a coat. Even one of the hospital gowns would be fine. But he also hoped no one would ever find him. As long as he sat here, waiting, his nakedness and his aloneness were the only things wrong in the world. That and the chill. And he'd eventually get hungry. Yes, he'd have to eat sooner or later too.
 
-Every time he experienced one of these disorienting time-space lapses, something terrible happened. 
+But as long as he sat here alone, he didn't have to think about any of that. There was no one to worry over him. No one to hound him with those dreaded questions, 'how are you feeling?' or 'where are your clothes?' or 'what happened last night?' 
+
+Something bad happened last night.
+
+Every time he experienced one of these disorienting time-space lapses, something bad happened. 
 
 But it was better not to think of such things. As long as he sat here in the garden, worrying about who might find him, and what they might think, he wouldn't have to think about what might have happened while he was away.
 
 ---
 
-<!-- When someone draped a blanket over him, Louis hoped it was Doctor Durward. She was a woman, but her gender didn't seem to matter. It wasn't that Lois would rather be seen naked by a woman--no, that was a terrifying thought--but Doctor Durward seemed to be beyond sex and gender. She was distant and cool, but kind and protective. Something about her made Louis feel safe and welcome and cared for.  -->
+<!-- PLOT: It is not another dark place, but the same, Ulger says. "You have a window inside you. I have a window too. They are different windows, but they look out onto the same space, onto the same darkness. But ... you don't even know who you are." -->
 
-<!-- But as Louis pulled the blanket tighter around his shoulders, he saw that it was the other doctor. Doctor Bellamy. The stern and judgmental doctor. -->
-
-<!-- Louis looked up, and Doctor Bellamy was standing with his arms folded across his chest, staring down at Louis, a stern and judgmental look on his face. -->
-
-<!-- ACT ONE: It is not another dark place, but the same, Ulger says. "You have a window inside you. I have a window too. They are different windows, but they look out onto the same space, onto the same darkness. But ... you don't even know who you are." -->
-
-A stirring in the hydrangas caught Louis' ear.
+A stirring in the hydrangeas caught Louis' ear.
 
 "Who's there?" he asked, hoping there would be no answer.
 
-An old man in a blue-white bathrobe stepped out onto the path and sat next to Louis on the bench. He crossed his legs and looked Louis in the eye.
+An old man in a blue-white bathrobe stepped out of the mophead brush and sat next to Louis on the bench. He crossed his legs and looked Louis in the eye.
 
-The man wasn't wearing pants or shoes. In fact, he appeared to be naked beneath his bathrobe.
+The man wasn't wearing pants or shoes. In fact, he appeared to be naked beneath his bathrobe. The robe was damp and dirty. There were pine needles and other bits of woodland detritus sticking to it here and there. 
 
-"Lovely morning," Louis said.
+"Good morning," Louis said.
 
 "Is that a \**cough--hack*\* --?" the old man said, his voice catching in his throat. "Excuse me. Hairball. Is that a question?"
 
 Louis blinked at the old man.
 
-"I stayed up to watch the moon set," The old man said. "Did you catch it? She went down right over there." He pointed across the valley to the open west. 
+"I stayed up to watch the moon set," The old man said. "Did you catch it? She went down right over there." He pointed across the valley to the open west. His voice was gravelly, guttural and somehow ... lonely. "Beautiful things ... are often better when shared. If  you are ... if you are going to be staying here for a while," he gestured back toward the east wing.
 
-Seven Oaks was laid out like a horseshoe. The main building to the North, the East wing to the east, and to the south, down the slope, the maximum security Secret Black Wing.
+Louis shied away from the old man. This was the last thing he needed. He was being accosted by a pervert. 
 
-Louis shrugged. He didn't remember it one way or the other. This was the last thing he needed. A pervert stumbling around in the garden. He was cornered. He began to look around, nervously, hoping to see a doctor or one of the wards.
+"You might want to steal a bathrobe or two, and hide them out in the woods," the old man said.
 
-"You nervous, little man?" the old man said. "Don't worry. I've seen it all before. Am I making you ... uncomfortable?"
+Louis looked around nervously, hoping to see a doctor or one of the wards.
 
-Yes! He was making Louis terribly uncomfortable. "No," Louis said. "It's just ... I'm a little ..." Louis could feel the blood rushing into his face, pounding in his ears. 
+The old man followed Louis' gaze to a flowering vine that clung to the brick of the main building. "Ah, yes. The Moonlight Schizophragma. Quite lovely, no? In the moonlight, her flowers were divine! When I first checked myself in--I was doing a lot of cocaine back then--my ex ... she brought be a little ... I don't know if bouquet is the right word for it, exactly ... a bundle, maybe ... of moonlight flowers. She was a botanist or a horticulturist ... I never could figure the difference, you know? But that was her idea of a big joke. Schizo - phragma. I guess it's Latin for 'split septum.' Here. Look at this."
 
-"You aren't used to it yet," the old man said. His voice was gravelly and gutteral, but it somehow reminded Louis of a winsome country ballad. It was ... lonely. "You aren't used to it yet, but you'll get the hang of it, kid. There's tricks ... techniques ... little things you can do. Maybe, if you're going to be living here," he gestured back toward the east wing.
+The old man leaned in close over Louis, who was looking everywhere but at the old man. The old man pulled his nose open with one thumb in each nostril, trying to position himself in Louis' line of sight. "I've got a perforated septum," he said. "It doesn't bother me any more. But it'll never heal. Did you ever see anything like that?"
 
-Oh no! This is it, Louis thought. He's propositioning me. Isn't he? He's going to make me his little bitch? I've seen things like this ... on TV ... in the movies.
+Louis scrambled to the far end of the bench, shying away and making himself as small and inconspicuous as possible.   
+"Don't worry, it won't happen to you," the old man said. "Not if you stay away from the cocaine, anyhow. You don't really look like the railing type, little man. You know what it's like ... to stare into the mirror?" 
 
-"You might want to steal a bathrobe or two, and hide them out in the woods."
+"No," Louis said. He could feel the blood rushing into his face, pounding in his ears. 
 
-The old man's bathrobe looked rather damp and dirty. There were pine needles and other bits of woodland detritus sticking to it here and there.
+"We see the same thing when we stare into the mirror, you and I. You think you are looking at yourself, but it's not you. Not only you. Not only me and not only you, little man. It's more. So much more." The old man inhaled deeply through his nose. "You are frightened ... to look into the mirror. You've hidden it away. You can't hide it away forever, boy!"
 
-"Relax, little fella," the man said, putting his hand--in what he must have thought was a reassuring manner--on Louis' knee. "I'm not gonna bite you. I just ... I'm happy to see you out here."
-
-"I'm sure you are."
-
-"I've been alone for a long time. And you ... you are so young. You don't know what it's like yet, to truly be alone ... but ... You aren't the only one. I can see it when I look at you. You can see it too. Look at me."
-
-Louis was looking everywhere but at the old man. He didn't want to get up and show him his goodies. He didn't want to sprint for cover ... but maybe he should.
-
-"Look at me, little man."
-
-Louis looked at the old man.
-
-"You can see it in me too. Even if you don't realize it. I have it too, little Lupo. I have it too."
-
-"Oh yeah? You have it too? That's nice." Louis had no idea what the old man was talking about.
-
-"That dark window inside of you. I have it too. The same. Well ... the window is different ... but it looks out onto the same place, little man. It looks out onto the same darkness. We are brothers, you and I ... but .... You don't know it, do you? You haven't even looked ... you don't know who you are. My boy--"
-
-"Get away from him, Shannon!"
+"Get away from him, Mister Ulger!"
 
 Louis was relieved to hear Doctor Bellamy's voice calling across the garden. He would have preferred if the facility director, Doctor Durward, had showed up ... she made him feel much safer than Bellamy did ... but he was relieved to hear the voice of anyone at all. Especially an authority figure that was likely to hold sway over this strange old man.
 
 "Listen, boy--" the old man said.
 
-"I said leave him alone," Doctor Bellamy wrapped a blanket around Louis shoulders and sent away the strange old man named Shannon.
+"I said leave him alone, Shannon" Doctor Bellamy wrapped a blanket around Louis shoulders and sent away the strange old man named Shannon Ulger.
 
+<!-- PLOT: Bellamy pushes Louis to open up. Louis refuses. He doesn't want to talk about anything. -->
 
-<!-- ACT TWO Bellamy pushes Louis to open up. Louis refuses. He doesn't want to talk about anything. -->
+Doctor Bellamy gave Louis a hospital gown and sat him down across from his oversized desk. "The police are going to want to speak with you," Bellamy said.
 
-Doctor Bellamy gave Louis a 
+"I'm fine," Louis said. "Thanks for asking."
 
-### 02 – Complication / Conceit 
+"Are you?" the Doctor said. "Are you *really* ... fine?"
 
-<!-- encounter pre-existing conflict - Crossing The First Threshold -->
+Louis was uncomfortable. He was embarrassed and this whole thing was awkward. It was beyond awkward. He didn't know how to admit it, but he was frightened too. No. He musn't allow his thoughts to go there. He mustn't acknowledge the fear and worry and the pain. His mother had taught him to push down those feelings, to lock them away in the cave in the woods inside his mind.
 
-<!-- ACT TWO:  Bellamy: "If you can master yourself, you will find comfort here." (an interdiction to be violated) -->
+It was better if he focused on something small, something in front of him now. His feet were cold. He was embarrassed to have been found in the garden without any clothes on. 
 
-<!-- ACT TWO: Doctor Bellamy: "The path has to be walked every day, Louis. If you want to get better, you need to apply yourself. This is no easy thing here. You can't rely on your mother's teat any longer. If you don't set some goals and work toward them, your life here will be miserable. -->
+"I'm fine," Louis said again.
 
-<!-- ACT TWO: you are different, special. this is a place for people like you. you will be safe here. our residents will welcome you. Louis lets his guard down.
--->
+"What does that mean, Louis? Maybe you could describe to me ... what it feels like. To be ... fine."
 
+"My feet are cold, I guess. I wish I had some proper clothes."
 
-### 03 – Climax / Turning Point 	
+"We were all very worried about you, Louis. You know ... it's quite all right for you to be upset. It's quite normal, really. You've been through a lot, you know. It often does a lot of good to ... you know ... express yourself. You are safe here. I know you are still getting used to it, Louis, but ... I want you to know that it is okay to talk about your feelings. Even if they aren't what you normally think of as 'good' feelings. At this point, where you are ... all feelings are good, Louis. It's perfectly natural to feel sad or angry or guilty ... or even joy, or a sense of freedom. It's normal to experience these ... positive ... kinds of feelings to. You don't have to feel guilty for them. Are you happy, Louis?"
 
-<!-- Approach the Inmost Cave -->
+"No." Louis said. 
 
-<!-- ACT THREE: Bellamy pushes Louis closer to the darkness within him. Closer than he wants to go. He bullies him toward it. When Louis approaches it, there is something different about it. Something unusual and frightening. He hears a voice whispering in the darkness - he can't make out the words, but he hears cries of rage and anguish. Claws scratching at the door. -->
-
-<!-- ACT THREE: Long ago, Louis boarded up the dark place in the woods of his mind. A cave ... He boarded it up, sealed it and let the path get overgrown. Bellamy pushes Louis on a guided meditation. They walk down the path together, clearing away the brush that has grown over it. Louis is reminded of his flight through the woods, his flight from the terrible ordeal in which he lost his mother. -->
-
-<!-- ACT THREE: Louis is disturbed, frightened. Wants to stop. Bellamy pushes him onward. They arrive at the cave, and the boards have been broken. The bricks he carefully laid have been knocked in. -->
-
-<!-- ACT THREE: This is good, Bellamy says. "You can't keep your inner life locked away. You must confront it. It may be difficult, especially if you do not feel ready, but you must confront it." But no ... nothing broke *out* of the cave. Something forced its way *in*. Louis can hear it down there ... growling in pain and anger. -->
-
-<!-- ACT THREE: Louis turns away in fear. He breaks from the meditation. "I can't ..." he says. -->
-
-
-### 04 – Falling Action / Suspense / Reversal / Spiral / Escalation		
-
-<!-- Reward	- The Ultimate Boon -->
-
-<!-- ACT FOUR: Back in the dorms, Louis is not welcomed. Other patients or 'guests' rattle their doors, smash their plates and scream at Louis. They sense something inside him. Something lurking inside of Louis' dark place. Shannon Ulger is to be Louis' roommate, but he rails against Louis. At first he is hopeful. They have something in common. "I don't meet many of our kind," he says. But ... "There is something in you ... something terrible," he says. "Get it away. Get away." He attacks Louis, who fears for his life. He is being beaten to a pulp when the wards come into the room and stop the fight. they haul Louis away and lock him in solitary confinement.  -->
-
-
-###05 – Catastrophe / conclusion / resolution / denouement
-
-<!-- Resurrection - Master of Two Worlds -->
-
-<!-- ACT FIVE:  Louis: Why am I locked up? Why am I being punished? I was attacked without reason ... Bellamy: Louis ... You had better pray that Shannon survives. You nearly killed him. If you don't get a hold of your rage ... if you don't apply yourself, there is little we can do for you here. -->
+Louis didn't want to be inside any more. He didn't want to express himself. He wanted to wall off that dark place inside him that echoed with emotion. He'd been taught his whole life to shut out anything that made him feel. It was dangerous for him to feel. 
