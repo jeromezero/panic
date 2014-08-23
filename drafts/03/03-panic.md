@@ -34,7 +34,7 @@ He didn't talk to his mother about it, because she would be angry. She taught hi
 
 She slapped Louis' cheek and held his face in her hands, forcing him to look her in the eyes.
 
-"*You* don't understand," she said. "I don't have the mirror inside of me, but I've seen it ... I watched it eat your father alive. He thought he could control it. He thought he could live with it. And he was a strong man, Louis. Your father was a strong man, and that mirror swallowed him up. You ... you are a sick little boy. You are not strong like your Dad, Louis. You are weak and he ... he was strong. He fought it, but it killed him. It would destroy you. You'd be like a blade of grass fighting a hurricane. I won't lose you the same way I lost your father."
+*"You* don't understand," she said. "I don't have the mirror inside of me, but I've seen it ... I watched it eat your father alive. He thought he could control it. He thought he could live with it. And he was a strong man, Louis. Your father was a strong man, and that mirror swallowed him up. You ... you are a sick little boy. You are not strong like your Dad, Louis. You are weak and he ... he was strong. He fought it, but it killed him. It would destroy you. You'd be like a blade of grass fighting a hurricane. I won't lose you the same way I lost your father."
 
 She taught Louis to control his thoughts. To build up a wall. To keep that place isolated inside of him. She taught him to stay away from the mirror.
 
@@ -44,7 +44,7 @@ But his mother didn't want to hear about it. "You stay away from that place," sh
 
 Louis remembered. 
 
-He took a deep breath, and then another. He backed away from the dark place. He backed away from whatever it was that was making him upset, that was making him feel something.
+He took a deep breath, and then another. He backed away from that place. He backed away from whatever it was that was making him upset, that was making him feel something.
 
 He went somewhere he could be alone. Outside was best (which was hard in the daytime, because the Lupus made it hard to be outside. The sunlight hurt his eyes and burned his skin and made his bright rosy rashes much worse), but anywhere with space was okay. He lied down on his back and stretched out his arms and legs and closed his eyes and imagined he was floating on the surface of a perfect, peaceful lake, looking up at the moon. He pushed away whatever was making him upset. He pushed it down and away and he took deep breaths, concentrating on what it felt like to be floating on the surface of the water.
 

@@ -74,6 +74,7 @@ The old man followed Louis' gaze to a flowering vine that clung to the brick of 
 The old man leaned in close over Louis, who was looking everywhere but at the old man. The old man pulled his nose open with one thumb in each nostril, trying to position himself in Louis' line of sight. "I've got a perforated septum," he said. "It doesn't bother me any more. But it'll never heal. Did you ever see anything like that?"
 
 Louis scrambled to the far end of the bench, shying away and making himself as small and inconspicuous as possible.   
+
 "Don't worry, it won't happen to you," the old man said. "Not if you stay away from the cocaine, anyhow. You don't really look like the railing type, little man. You know what it's like ... to stare into the mirror?" 
 
 "No," Louis said. He could feel the blood rushing into his face, pounding in his ears. 
@@ -111,3 +112,22 @@ It was better if he focused on something small, something in front of him now. H
 "No." Louis said. 
 
 Louis didn't want to be inside any more. He didn't want to express himself. He wanted to wall off that dark place inside him that echoed with emotion. He'd been taught his whole life to shut out anything that made him feel. It was dangerous for him to feel. 
+
+<hr />
+<div class="center">
+
+<p><a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by-sa/4.0/80x15.png" /></a>
+</br>
+<span xmlns:dct="http://purl.org/dc/terms/" property="dct:title">PANIC attacks</span> by <a xmlns:cc="http://creativecommons.org/ns#" href="http://www.caligopress.com/search/label/panic" property="cc:attributionName" rel="cc:attributionURL">Jerome Steegmans</a>
+</br>
+is licensed under a 
+</br>
+<a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/">Creative Commons Attribution-ShareAlike 4.0 International License</a>.
+</p>
+
+<p>
+<a href="http://feeds.feedburner.com/caligopress/PANIC" target="_blank"><img src="https://googledrive.com/host/0B8EQKh2UPI-YbUlWNmNtbkVXaU0/graphics/feed-icon-16x16-gray.gif"> subscribe</a>
+<br />
+<a href="http://www.caligopress.com/2014/07/panic-attacks-episode-03.html">previous episode</a>
+</p>
+</div>
