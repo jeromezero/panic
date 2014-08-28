@@ -3,11 +3,8 @@
 
 ## The Dark Mirror of the Soul
 
-### One
 
-<!-- pre-existing conflict  / exposition -->
-
-<!-- ACT ONE: Louis' relationship to the dark place inside of him. Louis suppresses a wash of emotion and sensation that flows out of the dark place, threatening to overwhelm him - tricks his mother taught him -->
+<!-- PLOT: Louis' relationship to the dark place inside of him. Louis suppresses a wash of emotion and sensation that flows out of the dark place, threatening to overwhelm him - tricks his mother taught him -->
 
 <!-- TODO: tie this flashback to a current emotional disturbance - Louis is trying to find his way back from the fairgrounds incident. Talking himself down as he approaches the relatively safe haven of the asylum -->
 
@@ -17,9 +14,9 @@ She said it was like a mirror because it reflected back whatever Louis was feeli
 
 She was sort of right, but she was sort of wrong too. She didn't know. Not really. 
 
-She said Louis' father had it too, that place inside of him, but Louis' father had been gone for a long time. 
-
 <!--more-->
+
+She said Louis' father had it, and she knew about it because of him, but Louis' father had been gone for a long time. 
 
 Louis didn't remember his father. Not more than a few vague impressions. Wiry hair and hard angles. A bristling beard over a clenched jaw. 
 
@@ -27,9 +24,9 @@ Louis couldn't explain to his mother how it was different from what she said. He
 
 That was the main thing about that place inside of him: words disappeared there. First, they lost their meaning. They became strange lumpy shapes. Abstract, confusing curiosities floating in the darkness. Then, they drifted away, turning end over end until they dissolved into nothingness.
 
-It wasn't a mirror, because you couldn't see into it. There weren't pictures. When he stood in front of it, it was like standing in front of an open cellar door, or in front of the setting sun. Something came out of that place and washed over him in waves. Something like the color of the sky, something like damp basement air. He could feel it, but he couldn't describe it.
+It wasn't a mirror, because you couldn't see into it. There weren't pictures. When he stood in front of it, it was like standing in front of an open cellar door, or in front of the setting sun. Something came out of that place and washed over him. Something like the color of the sky, something like damp basement air. He could feel it, but he couldn't describe it.
 
-It was different every time, depending on what he was feeling. If he was happy, it was a warm breath on his face. If he was lonely, it was the bite of a freezing wind. It was like the smell of banana bread, or of rotting fish. It was pure color, it was musical harmony or dissonance. It was pleasant or repugnant, depending on his moods.
+It was different every time, depending on what he was feeling. If he was happy, it was a warm breath on his face. If he was lonely, it was the bite of a freezing wind. It was like the smell of banana bread, or of rotting fish. It was pure color, it was musical harmony or it was dissonance. It was pleasant or repugnant, depending on his moods.
 
 He didn't talk to his mother about it, because she would be angry. She taught him to stay away from that place. In that place was madness, she told him. If he wasn't careful, it would swallow him. He would lose himself in that place. 
 
@@ -37,7 +34,7 @@ He didn't talk to his mother about it, because she would be angry. She taught hi
 
 She slapped Louis' cheek and held his face in her hands, forcing him to look her in the eyes.
 
-"*You* don't understand," she said. "I don't have the mirror inside of me, but I've seen it ... I watched it eat your father alive. He thought he could control it. He thought he could live with it. And he was a strong man, Louis. Your father was a strong man, and that mirror swallowed him up. You ... you are a sick little boy. You are not strong like your Dad, Louis. You are weak and he ... he was strong. He faught it, but it killed him. It would destroy you. A blade of grass fighting a hurricane. I won't lose you the same way I lost your father."
+*"You* don't understand," she said. "I don't have the mirror inside of me, but I've seen it ... I watched it eat your father alive. He thought he could control it. He thought he could live with it. And he was a strong man, Louis. Your father was a strong man, and that mirror swallowed him up. You ... you are a sick little boy. You are not strong like your Dad, Louis. You are weak and he ... he was strong. He fought it, but it killed him. It would destroy you. You'd be like a blade of grass fighting a hurricane. I won't lose you the same way I lost your father."
 
 She taught Louis to control his thoughts. To build up a wall. To keep that place isolated inside of him. She taught him to stay away from the mirror.
 
@@ -47,7 +44,7 @@ But his mother didn't want to hear about it. "You stay away from that place," sh
 
 Louis remembered. 
 
-He took a deep breath, and then another. He backed away from the dark place. He backed away from whatever it was that was making him upset, that was making him feel something.
+He took a deep breath, and then another. He backed away from that place. He backed away from whatever it was that was making him upset, that was making him feel something.
 
 He went somewhere he could be alone. Outside was best (which was hard in the daytime, because the Lupus made it hard to be outside. The sunlight hurt his eyes and burned his skin and made his bright rosy rashes much worse), but anywhere with space was okay. He lied down on his back and stretched out his arms and legs and closed his eyes and imagined he was floating on the surface of a perfect, peaceful lake, looking up at the moon. He pushed away whatever was making him upset. He pushed it down and away and he took deep breaths, concentrating on what it felt like to be floating on the surface of the water.
 
@@ -61,6 +58,8 @@ Louis should have been devastated by his mother's death, but he didn't feel anyt
 
 <!-- CHARACTER: Doctor Bellamy -->
 
+---
+
 Doctor Bellamy pushed him, encouraged him to "open up," to express himself and share his feelings.
 
 "It's perfectly all right to feel sad or angry or guilty, Louis," Doctor Bellamy said. "Many survivors of violent incidents carry significant amounts of guilt, actually. It is natural to question the loss. Why did you survive where so many others have died? Others who may have deserved life more than you, no?"
@@ -70,6 +69,8 @@ Doctor Bellamy pushed him, encouraged him to "open up," to express himself and s
 Louis didn't want to be inside any more. He didn't want to express himself. He wanted to wall off that dark place inside him that echoed with emotion. He'd been taught his whole life to shut out anything that made him feel. It was dangerous for him to feel. He wasn't like other people. If he became upset or excited, the dark place inside him would grow. It would swallow him up.
 
 ---
+
+<!-- PLOT: Louis' father had the dark place too, but he didn't suppress it all the time. He believed it to be not only a part of his nature, but a source of strength. But Louis' mother does not pass this perspective on to Louis -->
 
 Louis' father had understood the importance of listening to the silence, of looking deeply into that *dark mirror of the soul.* When the time was right, the dark corner of his mind could be a great source of strength, he told Louis' mother. 
 
@@ -81,11 +82,7 @@ Louis' mother never told him about this. She never told him how his father had a
 
 ---
 
-### Two
-
-<!-- encounter pre-existing conflict -->
-
-<!-- ACT TWO: Louis recognizes something different in his darkness, something crawling around in there. Doctor Durward (head doc @ Seven Oaks) welcomes Louis to the asylum, recognizes Louis' dark place. Louis is soothed by Durward. "you are different, special. this is a place for people like you. you will be safe here. our residents will welcome you." Louis lets his guard down. Durward is skeptical, cold: would perhaps rather not be stuck with Louis? set up Durward as a petty tyrant. she describes the scene as more of a challenge than a comfort. "If you can master yourself, you will find comfort here." (an interdiction to be violated) -->
+<!-- PLOT: Louis remembers the fair - he couldn't breathe. He was upset by something ... he blacked out. -->
 
 Louis remembered the fair. The first part of the day there, at least. He normally would have avoided such an outing, but ... something was different in him. His symptoms had subsided since the incident at the Patrol station.
 
@@ -113,22 +110,11 @@ Louis said nothing. He hated it when people treated him like a child. But this .
 
 ---
 
+<!-- PLOT: Louis' Mother hoped Don Oscuro could heal Louis. He is a powerful spiritual healer, she said. Maybe he can help you. -->
+
 "This one is different," Louis' mother had said. "He's a doctor, but ... he doesn't work in a hospital. People come from all over the world to see him. To ask his advice or to seek protections. He sees things that other people don't see. He feels things that other people don't feel. He works miracles. Cures incurable diseases. Gives sight to the blind. He's a miracle worker, Louis. A real miracle worker."
 
 "Maybe he can help with ... the darkness ... maybe he can help with that too?" Louis said. He wanted to be normal above all things. To have a normal life. He wanted to run in the sunlight. He wanted to have friends. He didn't want to be pudgy and rash-riddled. He didn't want to live in fear of himself any more.
 
 "I think so, Louis. I believe he can."
 
-<!-- Approach the Inmost Cave -->
-
-<!-- ACT THREE: Louis recognizes something similar to the dark place within him in another resident. That resident reacts to the thing crawling around in Louis' dark place. says "there is something inside of you." other residents do not welcome Louis, they instead spit at him and rally against him. the other resident and Louis fight, Louis is overcome with fear/panic. flees -->
-
-
-<!-- The Ultimate Boon -->
-
-<!-- ACT FOUR:  Oscuro's lady lurking outside the property, trying to scoop up Louis. Electric fence. Keeps things out. Keeps Louis in. -->
-
-
-<!-- Resurrection -->
-
-<!-- ACT FIVE: Confrontation with Durward. Solitary confinement. It is not safe to have Louis with the other residents. He will stay in the lockup until a better solution can be reached. -->
