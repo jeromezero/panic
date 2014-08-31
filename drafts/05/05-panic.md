@@ -7,9 +7,15 @@
 
 <!-- pre-existing conflict  / exposition -->
 
+"Everyone keeps asking me how I feel. I'm sick of it. Stop treating me like a sick child! It's like you *want* me to be sick. Like you want me to suffer. I am fine, okay? I am fine. Stop trying to make me feel sick all the time. Can't you just leave me alone?"  
+
+"But you *are* sick, Louis. You have lupus. It may be in remission now ... and with proper treatment and care, you *can* lead a full life, but you can't ignore the fact that you are sick. You can't just pretend there is nothing wrong with you. There is *no cure,* Louis. None. You will carry this for the rest of your life. If you behave now as if there is nothing wrong with you, you will pay for it later ..."
+
 ### 02 – Complication / Conceit 
 
 <!-- encounter pre-existing conflict - Crossing The First Threshold -->
+
+<!-- ACT TWO: Long ago, Louis boarded up the dark place in the woods of his mind. A cave ... He boarded it up, sealed it and let the path get overgrown. -->
 
 <!-- ACT TWO:  Bellamy: "If you can master yourself, you will find comfort here." (an interdiction to be violated) -->
 
@@ -25,7 +31,7 @@
 
 <!-- ACT THREE: Bellamy pushes Louis closer to the darkness within him. Closer than he wants to go. He bullies him toward it. When Louis approaches it, there is something different about it. Something unusual and frightening. He hears a voice whispering in the darkness - he can't make out the words, but he hears cries of rage and anguish. Claws scratching at the door. -->
 
-<!-- ACT THREE: Long ago, Louis boarded up the dark place in the woods of his mind. A cave ... He boarded it up, sealed it and let the path get overgrown. Bellamy pushes Louis on a guided meditation. They walk down the path together, clearing away the brush that has grown over it. Louis is reminded of his flight through the woods, his flight from the terrible ordeal in which he lost his mother. -->
+<!-- ACT THREE:  Bellamy pushes Louis on a guided meditation. They walk down the path together, clearing away the brush that has grown over it. Louis is reminded of his flight through the woods, his flight from the terrible ordeal in which he lost his mother. -->
 
 <!-- ACT THREE: Louis is disturbed, frightened. Wants to stop. Bellamy pushes him onward. They arrive at the cave, and the boards have been broken. The bricks he carefully laid have been knocked in. -->
 
