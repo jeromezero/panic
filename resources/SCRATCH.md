@@ -22,18 +22,23 @@ Flowering vines climbed the gnarled old trees. Moonlight Shizophragma. Of course
 
 "Many people, when they visit an inner refuge, like your garden, they often find little ... manifestations, or representations of things that have been on their minds ... or otherwise in their lives."
 
-"No. Not here. This place ... I'm not sure, exactly--not objectively--but this garden ... is the place where my mother and my father ... she told me about it. I never saw it, but it's always been the way she described it."
+"No. Not here. This place ... I'm not sure, exactly--not objectively--but this garden ... is the place where my mother and my father ... she told me about it. I never saw it, but it's always been the way she described it. The way I pictured it. The way I've imagined. But something is different."
 
-"Did our garden here have a strong impact on you? How do you feel, when you see things have changed here, in your own garden? Do you 
+"Did our garden here have a strong impact on you? How do you feel, when you see things have changed here, in your own garden? Do you feel threatened? Invaded? Encroached upon?"
 
+"I don't know. I shouldn't be doing this."
 
-=======
+"Relax, Louis. Take a few deep breaths. Settle into the tranquility of the garden. Let the calm, let the peace of it wash over--"
 
+"Please. Stop that. I don't need you to guide me through this. You wanted me to show you how I do this. You wanted me to share my relaxation techniques with you. To show you the dark mirror. To show you where I've locked it away. I can show you, but you shouldn't be here. It will be much easier for me if you don't talk at me, if you don't try to guide me through anything. Just listen, please."
 
-What is wrong with me? I cannot say. There is something eating away at my confidence, at my focus. My powers of concentration are eroding. 
+> I've never done this before. I am not used to an outside presence. And now ... everything is different here. Not everything, but things. There are some things. Some changes have crept in. The oak trees, the flowering Moonlight vines. There is a stillness to the place. 
+The birds ... the insects ...
 
-I hear voices. They speak at the edge of my awareness. They are moving in and out of each other, talking under and over each other, sparkling with good cheer and conflict, together. They laugh like old friends grinding axes under their words, seeking out soft spots, seeking leverage.
+> The air is still. The sweet scent ... flowers or ... decay ... is heavy. It is not humid. It is not dry. But there is something ... some weight pressing in on me. I cannot see the sun. The sky is grey, featureless. There are no shadows. The light comes from ... not everywhere, but not ... it comes from nowhere. It is heavy, like the air. It presses in, presses down on my skin. I can feel its weight on my face, pressing my eyelids down.
 
-I imagine this is no encounter that can be won. This is an ongoing war. There is a constant give and take that has been played out time and time again. It will be played out on into the future. It is the foundation of their friendship. 
+> I am walking now, between the oak trees. Following the narrow dirt path. It winds out of the garden, toward the mountain. Grasses give way to shrubs and evergreens. Stones. It enters a gully. There are still no shadows, but the air is even thicker, more difficult to penetrate. I have been here before, but I don't recognize anything. That isn't right, exactly. I recognize something ... but I can't quite pinpoint what it is. There is something oddly familiar about the place, yet it is alien. A murmuring simmer of dejas-vu in the back of my skull buzzes like the insects that I should be hearing. The conspicuously absent insects.
 
-Perhaps one day, it will change. Perhaps, one day, when they are old, one of them will lose the knife edge of mental clarity, and won't be able to keep up the fight. Dementia will take the fight out of their friendship, and what then will be left? 
+> I have been this way before. It used to be familiar to me, but now it is overgrown. It is overgrown, but something has been here, recently. It has smashed through the years of growth. The years of growth, I would expect. But someone or something has been along this path. Has been using it. A tree, fallen across the path, has been torn apart. Splinters of freshly-exposed wood are scattered and strewn about.
+
+> I am nearing the entrance to the cave. It was hidden. Years before, I hid it, piled rocks one by one. The obscuring rocks have been scattered and smashed. Fresh rock-dust coats the leaves of sage brush. I had nailed boards across the entrance, years before ...
