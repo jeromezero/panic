@@ -42,3 +42,9 @@ The birds ... the insects ...
 > I have been this way before. It used to be familiar to me, but now it is overgrown. It is overgrown, but something has been here, recently. It has smashed through the years of growth. The years of growth, I would expect. But someone or something has been along this path. Has been using it. A tree, fallen across the path, has been torn apart. Splinters of freshly-exposed wood are scattered and strewn about.
 
 > I am nearing the entrance to the cave. It was hidden. Years before, I hid it, piled rocks one by one. The obscuring rocks have been scattered and smashed. Fresh rock-dust coats the leaves of sage brush. I had nailed boards across the entrance, years before ...
+
+> I had sealed the mirror inside. Locked it away. I nailed boards to the old support beams. I piled rocks in front of the boards. I poured dirt and earth over the rocks so that the entrance disappeared into the hillside. But now ... the earth and dirt are gone. Eroded. Washed away by the years. The stones are scattered, the pile reduced to nothing. The boards are smashed. Broken and splintered like the tree fallen across the path.
+
+"Smashed outward? Has something escaped?" the doctor's voice betrays concern.
+
+"No," Louis says. "The boards have been smashed *in.* Something has broken *in."*
