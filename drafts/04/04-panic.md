@@ -128,6 +128,6 @@ is licensed under a
 <p>
 <a href="http://feeds.feedburner.com/caligopress/PANIC" target="_blank"><img src="https://googledrive.com/host/0B8EQKh2UPI-YbUlWNmNtbkVXaU0/graphics/feed-icon-16x16-gray.gif"> subscribe</a>
 <br />
-<a href="http://www.caligopress.com/2014/07/panic-attacks-episode-03.html">previous episode</a>
+<a href="http://www.caligopress.com/2014/07/panic-attacks-episode-03.html">previous episode</a> | <a href="http://www.caligopress.com/2014/09/panic-attacks-episode-05.html">next episode</a>
 </p>
 </div>
