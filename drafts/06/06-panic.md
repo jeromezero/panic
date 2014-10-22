@@ -29,32 +29,44 @@ wrong with you, you will pay for it later ..."
 
 "Huh," grunted Cook, livting a giant coffee carafe onto its stand.
 
+Cook was a roundish and hard man. He reminded Louis of a ball of India rubber, with the shape of something gentle and soft, but surprisingly hard beneath his white uniform. He joked every now and again, slapping his hands on his apron, as if dusting them of flour, but Louis had a hard time telling when Cook was being serious and when he was being otherwise.
+
+"The coffee's really good," Louis said. "Thanks."
+
+"It's the egshells," Cook said. "Why don't you get over to the dining hall. Shannon is sorting donations. Sure he could use a hand." 
+
 
 ### 02 - Complication / Conceit
 
 <!-- encounter pre-existing conflict - Crossing The First Threshold -->
 
-<!-- ACT TWO: Long ago, Louis boarded up the dark place in the woods of his
-mind.  A cave ...  He boarded it up, sealed it and let the path get
-overgrown.  -->
+Doctor Bellamy had said "You've got to make yourself useful, Louis. This is no free lunch. The path has to be walked every day. If you want to get better, you have to apply yourself. The days of you suckling at your mother's teat are over. You need goals, son. If you don't have goals, you are setting yourself up for misery. You don't want to be miserable do you? You'll be fine, Louis. Just as long as you apply yourself. Remember, son: No Free Lunch."
 
-<!-- ACT TWO:  Bellamy: "If you can master yourself, you will find comfort
-here." (an interdiction to be violated) -->
+So Louis went to work in the kitchen, helping to prepare a daily free lunch for the downtrodden.    
 
-<!-- ACT TWO: Doctor Bellamy: "The path has to be walked every day, Louis.
-If you want to get better, you need to apply yourself.  This is no easy
-thing here.  You can't rely on your mother's teat any longer.  If you don't
-set some goals and work toward them, your life here will be miserable.  -->
 
 <!-- ACT TWO: you are different, special. this is a place for people like
 you.  you will be safe here.  our residents will welcome you.  Louis lets
 his guard down.
 -->
 
+"You're different, Louis. You are special. My special little man." Louis could still hear his mother's voice. When he pulled the raspy covers up to his chin, untucking the sheets at the bottom of the cot to give himself a little more slack, he heard her voice, just barely burried by the rustling covers.
+
+"What's that, Mom?" he said once, before realizing his mistake.
+
+The silent room echoed back at him. The other patients, in their own cots, were silently stiffling their snickers. Laughing themselves to sleep over his fragile vulnerability. 
 
 ### 03 - Climax / Turning Point
 
 <!-- Approach the Inmost Cave -->
+
+When he sleeps, he hears claws scratching at the door. He hears whispers in the halls. He can't make out the words, but it sounds like someone is in pain out there, somewhere.
+
+He can't tell if he is awake or asleep. The night goes by slowly, and it feels like he's been listening to the sounds of the old building forever, but when the lights go up, he thinks he can't have been there for more than an hour or two.
+
+"Morning already?" Louis says. "How did that happen?" he asks no one in particular. 
+
+"Like this, Kid," Shannon Unger says, sitting on the edge of Louis' cot. He looks Louis in the eye and starts opening his hand, counting out the digits one at a time, "Eleven ... Twelve ... One ... Two ... Three ... and so on." Shannon drops his count, laces up his shoes and shuffles out into the hall.
 
 <!-- ACT THREE: Bellamy pushes Louis closer to the darkness within him.
 Closer than he wants to go.  He bullies him toward it.  When Louis
