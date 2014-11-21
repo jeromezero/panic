@@ -15,7 +15,7 @@ tests," he says.  "Something terrible will happen.
 
 As the moon rises, Durward locks a stray dog in the cell with Louis.
 
-The voices in Louis' head: "look away. You aren't ready for this."
+The voices in Louis' head: "Look away. You aren't ready for this."
 
 ---
 
@@ -81,25 +81,21 @@ The door to Bellamy's office crashes open. Enter DURWARD and ZITA.
 
 Doctor Durward has a stern, stony look on her face. 
 
-"I've been trying to get you on the phone for hours ... 
+"I've been trying to get you on the phone for hours," she says. 
+
+Bellamy pushes a stack of papers out of the way so he can see his phone: an old desktop rotary-dialer. He takes the handset off the cradle and puts it to his ear. He pushes the hang-up toggle a few times.
+
+"The line's dead," he says.
+
+"Convenient," says Durward. "This is Louis Blake's Aunt, Millicent Zita. She's here to collect her nephew."
+
+Bellamy returns the phone to its cradle, a look of exasperation and surprise on his face. "I wasn't aware of any living relatives," he says. 
+
+"I do not care what you were or were not previously aware of. You are aware of it now."
+
+"Nope. Here it is." Bellamy points to an open file. 
 
 
-@@
-<!-- Approach the Inmost Cave -->
-
-<!-- ACT THREE:  -->
-
-
-
-<!-- Reward	- The Ultimate Boon -->
-
-<!-- ACT FOUR:  -->
-
-
-
-<!-- Resurrection - Master of Two Worlds -->
-
-<!-- ACT FIVE:  -->
 
 
 ---
