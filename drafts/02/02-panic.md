@@ -235,6 +235,7 @@ This is the gentleman with the dog," Charlotte said, sounding rather unsure of h
 Faustrodamus looked me in the eye. "You don't look like a rich faggot with a ponce poodle to me," he said.
 
 
+
 <hr />
 <div class="center">
 
