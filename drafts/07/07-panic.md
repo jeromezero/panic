@@ -1,57 +1,13 @@
 % PANIC attacks episode 07
 % Jerome Steegmans
 
-<!-- ### SUMMARY -->
-
-<!-- shit gets worse. Durward locks Louis in the secret wing. Tortures and Tests.  -->
-<!-- Shannon is no stranger to the tests.  He senses an affinity to Louis, maybe -->
-<!-- a kinship, but there is something frightening about Louis, something beyond -->
-<!-- Shannon's understanding. -->
-
-<!-- days go by. Louis gets weaker and weaker. he is ill and confused. -->
-
-<!-- Shannon appears as a Lapdog to the management. "Don't put Louis through the -->
-<!-- tests," he says.  "Something terrible will happen. -->
-
-<!-- As the moon rises, Durward locks a stray dog in the cell with Louis. -->
-
-<!-- The voices in Louis' head: "Look away. You aren't ready for this." -->
-
-<!-- Above, in the offices, Millie Z requests Louis be released into her custody.  -->
-<!-- She is his aunt, she says -->
-
-<!-- ### 01 - Intro -->
-
-<!-- pre-existing conflict  / exposition -->
-
-
-<!-- PLOT: Louis has a showdown with Shannon Ulger --> 
-
-<!-- PLOT: Louis and Shannon go out of their heads.  Like two territorial creatures forced into a too-small cage --> 
-
-<!-- PLOT: They fight.  Break things.  Louis smashes through a window and disappears out into the night -->
-
-<!-- more --> 
-
-<!-- encounter pre-existing conflict - Crossing The First Threshold -->
-
-<!-- CHARACTER: Millie Zita (millicent Z) - Oscuro's priestess and bride -->
-
-<!-- PLOT: Millicent Zita shows up at the Asylum, claiming custody of Louis
-Blake -->
-
-<!-- PLOT: Showdown between Doctors Bellamy and Durward and Millie Z --> 
-
-
----
-
 ### INT. BELLAMY'S OFFICE - DAY
 
-Rain pounds against the windows. Doctor Bellamy sits at his desk, sorting
-through files and shifting stacks of paper around.  Shannon Ulger sits
-across from Bellamy, wringing his hands.
+Rain pounds against the windows of Doctor Bellamy's office. Doctor Bellamy sits at his desk, sorting through files and shifting stacks of paper from left to right.  Shannon Ulger sits across from Bellamy, wringing his hands.
 
-"I don't think you should go forward with the kid," he says.
+"I don't think you should go forward with the kid," Ulger says.
+
+<!-- more -->
 
 "I know, Shannon," says the doc. "You've said. A few times now."
 
@@ -60,14 +16,12 @@ across from Bellamy, wringing his hands.
 "I know what I'm doing, Shannon. Do you think you were much better off when
 we found you?"
 
-"No, but ... there's something different about this kid. Something's not
-right."
+"No, but it's different. There's something different about this kid, Doc. I'm telling you. Something's not right."
 
-"I know, Shannon. You might not remember, but we went through the same thing
-with you, back when we--"
+"I know, Shannon. You keep telling me. But remember, we went through the same thing with you, back when we--"
 
 "No. It isn't the same. It's something *else.* He's like me, yes. But he's
-different too. There's something *extra.*
+different too. There's something wrong with him. There's something *extra* running around inside his head.
 
 The door to Bellamy's office crashes open. Enter DURWARD and ZITA.
 
@@ -79,7 +33,7 @@ Bellamy pushes a stack of papers out of the way so he can see his phone: an old 
 
 "The line's dead," he says.
 
-"Convenient," says Durward. "This is Louis Blake's Aunt, Millicent Zita. She's here to collect her nephew."
+"Convenient," says Durward. "This is Louis Blake's Aunt, Millicent Zita. She's here to ... collect her nephew."
 
 Bellamy returns the phone to its cradle. "I wasn't aware of any living relatives," he says. 
 
@@ -87,9 +41,9 @@ Bellamy returns the phone to its cradle. "I wasn't aware of any living relatives
 
 "Nope. Here it is." Bellamy pulls Louis' file from one of the stacks on his desk and examines its contents. "No next of kin. See? He's an orphan. a Ward of the State."
 
-Durward steps forward and glides across the floor until she is looming over Bellamy's paper-strewn desk. The crisp lines of her suit are a stark contrast to the chaos and the blurred boundaries of Bellamy's world, where one stack of papers bleeds into the next without rhythm or reason. "Are you referring to the paperwork and ignoring 'the reality that stands before your eyes'? How very ... unusual of you." 
+Durward steps forward, gliding across the floor until she looms over Bellamy's paper-strewn desk. The crisp lines of her suit are a stark contrast to the chaos and the blurred boundaries of Bellamy's world, where one stack of papers bleeds into the next without rhythm or reason. "Are you referring to the paperwork and ignoring 'the reality that stands before your eyes'? How very ... unusual of you." 
 
-Millicent Zita looks uncomfortable. She says "I'll just wait in the other room." She backs out of Bellamy's office, into the adjacent library, through which she had intially approached.
+Millicent Zita looks uncomfortable. She says "I'll just wait in the other room." She backs out of Bellamy's office, into the adjacent library.
 
 Shannon slips out of the room after her. He does not lift his eyes from the floor. His shoulders are hunched.
 
@@ -99,11 +53,11 @@ BELLAMY:
 
 DURWARD:
 
-> Stop this childishness. She is the boy's family. And ... don't ... ever question me ... again.
+> She has every claim. She is family. And ... don't ... ever question me ... again.
 
 BELLAMY:
 
-> The kid needs help. We can help him. It was a miracle he fell into our hands. You can't just send him away. He's doomed out there. 
+> The kid needs help. No one else can help him like we can. It was a miracle he fell into our hands. You can't just send him away. He's doomed out there. 
 
 DURWARD:
 
@@ -113,7 +67,9 @@ DURWARD:
 
 Louis Blake is in the dark. 
 
-He doesn't see the light for days. He clutches his knees to his chest and he rocks back and forth in the darkness. The voice inside him isn't a voice. It is a sound. It is a texture. It is desire. It slowly builds and threatens to overwhelm him. It manifests in fits of giggling. He sits in the dark, scratching at his skin until it bleeds and he clutches his knees to his raw and bloodied chest and he collapses into fits of terrible giggling.
+He doesn't see the light for days. He clutches his knees to his chest and he rocks back and forth. 
+
+The voice inside him isn't a voice. It is a sound. It is a texture. It is desire. It slowly builds and threatens to overwhelm him. It manifests in fits of giggling. He sits in the dark, scratching at his skin until it bleeds and he clutches his knees to his raw and bloodied chest and he collapses into fits of terrible giggling.
 
 Nothing is funny. He knows this. He doesn't laugh out of humor. He doesn't
 really laugh at all. He convulses. He shakes and he retches, but it all comes out as laughter. He doesn't laugh, he tells himself, but he knows that he does.
@@ -159,3 +115,37 @@ his mouth, tries to cover it, but the fingers find their way inside and he
 digs at his gums and pulls at his cheeks and he gnaws at his fingers and he
 laughs and howls and laughs.
            
+<!-- ### Next time in PANIC attacks -->
+
+
+<!-- Shannon appears as a Lapdog to the management. "Don't put Louis through the tests," he says.  "Something terrible will happen. -->
+
+<!-- As the moon rises, Durward locks a stray dog in the cell with Louis. -->
+
+<!-- The voices in Louis' head: "Look away. You aren't ready for this." -->
+
+<!-- PLOT: Louis has a showdown with Shannon Ulger --> 
+
+<!-- PLOT: Louis and Shannon go out of their heads.  Like two territorial creatures forced into a too-small cage --> 
+
+<!-- PLOT: They fight.  Break things.  Louis smashes through a window and disappears out into the night -->
+
+
+<hr />
+<div class="center">
+
+<p><a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by-sa/4.0/80x15.png" /></a>
+</br>
+<span xmlns:dct="http://purl.org/dc/terms/" property="dct:title">PANIC attacks</span> by <a xmlns:cc="http://creativecommons.org/ns#" href="http://www.caligopress.com/search/label/panic" property="cc:attributionName" rel="cc:attributionURL">Jerome Steegmans</a>
+</br>
+is licensed under a 
+</br>
+<a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/">Creative Commons Attribution-ShareAlike 4.0 International License</a>.
+</p>
+
+<p>
+<a href="http://feeds.feedburner.com/caligopress/PANIC" target="_blank"><img src="https://googledrive.com/host/0B8EQKh2UPI-YbUlWNmNtbkVXaU0/graphics/feed-icon-16x16-gray.gif"> subscribe</a>
+<br />
+<a href="http://www.caligopress.com/2014/10/panic-attacks-episode-06.html">previous episode</a>
+</p>
+</div>
