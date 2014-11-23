@@ -3,7 +3,13 @@
 
 ### INT. BELLAMY'S OFFICE - DAY
 
-Rain pounds against the windows of Doctor Bellamy's office. Doctor Bellamy sits at his desk, sorting through files and shifting stacks of paper from left to right.  Shannon Ulger sits across from Bellamy, wringing his hands.
+Rain pounds against the windows of Doctor Bellamy's office. Doctor Bellamy
+sits at his desk, sorting through files and shifting stacks of paper from
+left to right.  Shannon Ulger sits across from Bellamy, wringing his hands.
+
+One of his eyes is swollen shut, bisected by a deep, angry welt. Large gauze
+bandages taped to the side of his neck show parallel streaks of soaked-in
+blood, now drying to a rusty haze.
 
 "I don't think you should go forward with the kid," Ulger says.
 
@@ -27,11 +33,16 @@ The door to Bellamy's office crashes open. Enter DURWARD and ZITA.
 
 Doctor Durward has a stern, stony look on her face. 
 
-"I've been trying to get you on the phone," she says. 
+"I've been trying to get you on the phone," she says. "Jesus, what's wrong
+with his face?"
+
+Shannon tucks his head down between his shoulders and says "Dog came at me
+... in the garden." 
 
 Bellamy pushes a stack of papers out of the way so he can see his phone: an old desktop rotary-dialer. He takes the handset off the cradle and puts it to his ear. He pushes the hang-up toggle a few times.
 
-"The line's dead," he says.
+"The line's dead," he says. "And we've handled it. The dog's been put down.
+Goddamned dog-fighting neighbors--" 
 
 "Convenient," says Durward. "This is Louis Blake's Aunt, Millicent Zita. She's here to ... collect her nephew."
 
