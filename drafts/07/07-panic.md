@@ -1,6 +1,9 @@
 % PANIC attacks episode 07
 % Jerome Steegmans
 
+
+\pagebreak
+
 ### INT. BELLAMY'S OFFICE - DAY
 
 Rain pounds against the windows of Doctor Bellamy's office. Doctor Bellamy
