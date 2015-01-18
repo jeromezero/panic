@@ -15,49 +15,43 @@ Louis Blake feels great.
 
 For the first time, he tries to open the door of his room. But the door is locked.
 
-There are no windows, but he imagines he can feel the sun setting out over the hills to the west and the moon rising in the east.
+There are no windows, but he imagines he can feel the sun setting over the hills to the west and the moon rising in the east.
 
-He spreads his arms wide and opens his palms, reaching east to west. He
-feels himself to be an axis, a fulcrum, a center point, pulled in opposite
+He spreads his arms wide and opens his palms. He
+feels himself to be an axis, a fulcrum, a center point pulled in opposite
 directions by the heavenly bodies of sun and moon. 
 
-He is overcome by giddy vertigo. For a moment, he can feel the turning of
-the earth. Everything is spinning around him, turning and pulling
-and twisting, and only he is still, unmoving, at the center of it all.
+He is overcome by a giddy vertigo. He can feel the turning of
+the earth. Everything is spinning and pulling and twisting around him, and he is still, unmoving at the center of it all.
 
-He laughs and pivots his body at the waist, forcing the sun to set and the moon to rise. He moves back the other way, causing time to move backward, feeling the tension as the
-forces of the universe give and take and pull at his fingertips.
-
+He laughs and pivots his body at the waist, pushing down his hand in the west, forcing the sun to set, and lifting his hand in the east, causing the moon to rise. He slows, and time slows. He pushes them back the other way, lifting the sun over the rim of the horizon, and pushing the moon back down.
 
 He makes airplane noises, flapping his lips together as he banks back and
 forth, imagining himself to be up in the sky now, looking down on the Seven
 Oaks compound. He laughs again as he dives down over the trees, coming in
 for a low pass. He buzzes the garden. Other patients stammer and stare up at
-him, some of them fall to the ground as he passes overhead, overwhelmed by
+him. Some of them fall to the ground as he passes overhead, overwhelmed by
 the weight of his proximity.
 
 "I didn't mean to frighten you," Louis says to the whimpering black puppy in
 the corner of the room.     
 
 "Don't feel bad, little guy," Louis says. He picks the puppy up out of the
-puddle of urine and holds it in his lap, oblivious to its cold, wet
-feet. He strokes the puppy's fur back and forth. This soothes the dog not at
-all. It only shakes harder, whimpering.
- 
+puddle of urine and holds it close to his chest, oblivious to its cold, wet
+feet. He strokes the puppy's fur back and forth. 
+The whimpering puppy shakes harder.
+
 "Shh," Louis says, wrapping his hand around the dog's snout and forcing it
-to look him in the eye.  "One day, the sun will run out of hydrogen and its
-core will collapse upon itself.  What do you think about that?  But that's
-not how it ends.  The collapsing will cause what's left of the sun to burn
-hotter.  The core will collapse, but the outer layers will expand.  The sun
-will turn red as blood and swell to one hundred times its current size,
-engulfing the earth and much of the solar system in the process."
+to look him in the eye.  "Calm yourself. One day, the sun will run out of hydrogen and its core will collapse upon itself.  What do you think about that?  But that's not how it ends.  The collapsing will cause what's left of the sun to burn hotter.  The core will collapse, but the outer layers will expand.  The sun will turn red as blood and swell to a hundred times its current size, engulfing the earth and much of the solar system in the process."
 
 Louis hears a voice whispering softly in his ear: "Look away. Look away,
 Louis. You aren't ready for this."
 
 He feels, but doesn't feel, the small animal's spine crack under the pressure of his twisting grip.
 
-He hears, but doesn't hear, the whimper of fear overrun by the yelp of pain dissolve into silence.
+He hears, but doesn't hear, the whimper of fear overrun by a yelp of pain.
+
+Louis dissolves into silence.
 
 ---
 
@@ -70,34 +64,6 @@ blood-crusted bandage over his neck. "You're making a mistake," he says.
 
 ---
 
-Louis is covered in blood. 
-
-He feels amazing. Like, really good amazing. He doesn't
-feel sick at all.  He doesn't feel hurt.  But his hands are all sticky.  His
-face is sticky.  There is fur caught between his teeth.  He gags and coughs
-up a wad of fur. 
-
-
-It's been a while since he felt like this. It's been ... but Louis doesn't
-want to think about how long it's been.  He doesn't want to think about
-much.
-
-
-Where did the puppy go? he wonders. Who cares? 
-
-"You should care," a voice whispers in his ear.
-
-Louis looks at his hands. His sticky, red hands. There is a carcass by the
-locked and bolted door. Broken spine, small canine skull, bits of still-warm
-flesh.
-
-But Louis can't bring himself to feel remorse or shame or anything negative
-at all.  He is full of energy.
-
-Louis laughs. He laughs and stops suddenly, looking at his hands in shame and disgust.
-
-
----
 
 DISEMBODIED VOICE:
 
@@ -140,8 +106,7 @@ But she didn't want to admit it. Did she? She thought she could cure you, to cle
 Louis stands up and shakes the voices from his head. He paces back and forth across the locked room.
 
 He's been looking at it all wrong. There's no difference. Nothing matters. The whole of the world ... all the people in it ... it's all just the same
-organic matter smashing into itself, with or without Louis.  Anxiety and emotion are just little made-up things that people tell themselves when they are looking out at all the lifeless dust of it all. Lies. There is nothing but dust. Dust colliding with dust.  Life is nothing but a chance slime of algae
-in the vast emptiness of space.  The infinite, unknowable universe, and
+organic matter smashing into itself, with or without Louis.  Anxiety and emotion are just little made-up things that people tell themselves when they are looking out at all the lifeless dust of it all. Lies. There is nothing but dust. Dust colliding with dust.  Life is nothing but a chance slime of algae in the vast emptiness of space.  The infinite, unknowable universe, and
 everything Louis ever loved or feared or was or will be is here and now in
 this irreconcilable strain of nothingness.
 
@@ -153,11 +118,37 @@ And if there is someone watching, what does it matter?
 
 ---
 
-Louis' skin is clear. Clearer than it has ever been. His vision is better. His hearing acute. Everything smells so strong and clear and delicious. He is hungry. Louis wants to eat. 
+Louis is covered in blood. 
+
+He feels amazing. Like, really good amazing. He doesn't
+feel sick at all.  He doesn't feel hurt. His hands are sticky.  His
+face is sticky.  But it doesn't bother him. 
+
+He can't remember the last time he felt so good. It's been ... but Louis doesn't
+want to think about how long it's been.  He doesn't want to think about
+much.
+
+Where did the puppy go? Louis wonders. Who cares? 
+
+"You care," a voice whispers in his ear.
+
+Louis looks at his hands. His sticky, red hands. There is a carcass by the
+locked and bolted door. Broken spine, small canine skull, bits of still-warm
+flesh.
+
+But Louis can't bring himself to feel remorse or shame or anything negative
+at all.  He is full of energy.
+
+Louis laughs. He laughs and stops suddenly, looking at his hands.
+
+
+---
+
+<!-- Louis' skin is clear. Clearer than it has ever been. His vision is better. His hearing acute. Everything smells so strong and clear and delicious. He is hungry. Louis wants to eat.  -->
 
 He wants to move around. How long has he been in this little room? He can't remember. He wants to get outside. The sun has set, hasn't it? The moon is up, isn't it? Louis wants to look up into the sky and to see it with his eyes. He wants to feel the air on his face.
 
-For the first time, Louis tries the door. But the door is locked. His muscles are itching to move. He's tired of these four walls.  
+For the first time, Louis tries the door to the room. But the door is locked. Louis' muscles are itching to move. He's tired of these four walls.  
 
 There is nothing. There is only silence and a locked door. Cold stone. He
 begins to feel frustration and guilt and shame creeping in at the edges of
@@ -167,16 +158,10 @@ can't get outside.  The door is locked.
 
 There is no door that can hold me, he thinks. Not when I feel like this.
 
-But still ... he is unable to get out. His feelings belie him, or lead him
-astray.  He doesn't want to face the consequences of the blood on his hands,
-of the fur in his teeth.  He wants to get out and let the fury of strenuous
-activity wash him clean.  He wants to bathe.  In the showers, in the open
-air.  Under the light of the silvery moon.
+He charges at the door, ramming it with his shoulder. But the door hardly shakes. A deep thud is all that rewards his effort. Again and again he smashes his body into the door, but the door remains closed.
 
-His mood begins to sour. He can't help it. The feeling of invulnerability
-and purity begins to fade and the silence of the place replaces the roaring
-of blood in his ears.  The joyful roaring of blood is replaced by the
-mournful, accusatory, accusative silence.
+Louis' mood sours. The feeling of invulnerability and purity begins to fade.
+The joyful roaring of blood in his ears is replaced by mournful, accusatory silence.
 
 ---
 
@@ -191,24 +176,15 @@ VOICE:
 
 LOUIS: 
 
-> So I should kill others, instead of dealing with what I've been
-through?  
+> So I should condone murder, instead of dealing with what I've been through? 
 
-VOICE:
-
-> No ... This is *how* you deal with what you've been through. This is the way out. The way toward health, to healing. You *can* be well.
-
-LOUIS:
-
-> Who are you?  
-
-Louis overturns the cot and sniffs the air. He searches for the source of the voice. He had been convinced the voice had been speaking from within his head, but now he isn't so sure.
+Louis roars and overturns the cot and sniffs the air. He searches for the source of the voice. He had been convinced the voice had been speaking from within his head, but now he isn't so sure.
 
 "Who are you?" Louis shouts.  
 
 "You aren't alone," the voice continues. "There is another here like you.  He knows what it is like, what you are going through."
 
-The feeling of disconnected euphoria is fading. Louis feels decidedly less invincible and apart from mundane existence.
+Louis recognizes the voice.
 
 "Doctor?" Louis says. "Doctor ... Bellamy?"
 
@@ -234,7 +210,7 @@ him.  He's ready for you."
 "Of course there's something wrong with him. That's why he's here. You can
 help him through this.  It's a miracle we've found him, Shannon.  Doesn't it
 feel good to know you aren't alone?  This is our last chance, Shannon. 
-Durward will be back to take him soon.  I can't keep her at bay for long."
+Durward will be back to take him away soon.  I can't keep her at bay for long."
 
 "Let her take him, then."
 
