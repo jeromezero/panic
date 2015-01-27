@@ -5,6 +5,20 @@
 
 \pagebreak
 
+<div class="center">
+<audio controls="">
+<source src="http://jeromesteegmans.org/audio/panic/panic_ep.08.mp3" type="audio/mpeg"></source>
+</audio> 
+<br />
+<a href="http://jeromesteegmans.org/audio/panic/panic_ep.08.mp3">download mp3</a>
+</div>
+
+
+
+
+<a href="https://googledrive.com/host/0B8EQKh2UPI-YbUlWNmNtbkVXaU0/graphics/cover_panic-ep.08.png" imageanchor="1" ><img class="shell" style="float: left; margin-right: 20px; max-width: 200px;" src="https://googledrive.com/host/0B8EQKh2UPI-YbUlWNmNtbkVXaU0/graphics/cover_panic-ep.08.png" /></a>
+
+
 <!-- As the moon rises, Durward locks a stray dog in the cell with Louis. -->
 
 <!-- The voices in Louis' head: "Look away. You aren't ready for this." -->
@@ -16,6 +30,8 @@ Louis Blake feels great.
 For the first time, he tries to open the door of his room. But the door is locked.
 
 There are no windows, but he imagines he can feel, through the walls, the sun setting over the hills to the west and the moon rising in the east.
+
+<!-- more -->
 
 He spreads his arms wide and opens his palms. He
 feels himself to be an axis, a fulcrum, a center point, pulled in opposite
