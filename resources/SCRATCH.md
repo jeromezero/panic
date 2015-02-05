@@ -1,68 +1,277 @@
-I'd love to be consumed by something worthwhile. To have an ounce of brilliance fall from the tip of my bleeding pen.
+<!-- STATUS: outline -->
 
-Such is life, this desperate life.
+
+Louis is out on his own now. He's in his teens, starting to lose the babyfat that has been with him up until the last weeks / months of his life. After he lost his family and shit got weird, that's when he started to lose the weight and all that.
+
+He's pursued by Shannon, who is somewhat sympathetic to Louis, and a great deal frightened of him as well. Left on his own, Shannon would steer far clear of louis and never let himself be troubled by thoughts of the kid again. 
+
+But ...  
+
+Shannon is driven after Louis by Doctor Bellamy.
+
+Doctor Bellamy is fascinated by, and wants to study Louis. He also believes there is no other hope for Louis. He is doomed to a very short life and a violent death if he does not accept his nature and allow Bellamy to help him, as he helped Shannon.
+
+Shannon came to him at a very different time in his life. He is older, and found his own coping mechanisms--though many of these turned out to be 'unhealthy' in the greater scheme of things. He is struggling to recover from substance abuse problems and his habit of running away instead of emotionally engaging with his situation and surroundings has left him disconnected and lonely, to say the least. He is beholden to Doctor Bellamy in ways beyond what is apparent on the surface.
+
+Doctor Bellamy is in turn pursued by the Asylum Director, Doctor Durward. Durward is furious that Louis has been allowed to disappear. She had been ready to hand the kid off to an alleged family member ...
+
+Shannon doesn't believe for a minute that the woman who claims to be Louis' Aunt is any blood relation. 
+
+Bellamy reminds Shannon that his theories and beliefs are held in very low regard.
+
+"If there were blood between them, I'd smell it," Shannon says.
+
+Bellamy scoffs. "Some wolf. What good is a hound without a sense of smell?" Shannon destroyed his nose with cocaine and crystal. "You've burned out your nose. You're not a wolf. You're barely even a dog. A dog scared of his shadow. A dog thats been beat too many times ..."
 
 ---
 
-If only one would wander into the next. If only I could force myself to produce something logical and cohesive and wonderful.
+<!-- 2015-01-26 | 21:36:03 -->
 
-But my efforts are lackluster
 
-I spent four hundred twenty one point five six hours on writing projects in 2014.
+Bellamy and Shannon, driving through the night, tired and running out of rope, but unable to give up the pursuit, as they are hounded by Durward.
 
-What do I have to show for it?
+They ask some questions about Louis, following up on a lead. At a farm. Reports of animal attacks. Losing sheep. They follow railway corridors. Little avenues of greenway through the countryside.
 
-Many draft pages. Some more wisdom? Deeper debt. 
+Bellamy tries a tact as honest as he can: we heard about you losing a sheep to a wolf or a wildcat or something ... The sheriff sent us over.
 
-Yes yes yes. A wider understanding of workflows and available technologies that can be bent to the task at hand. What is this 'task at hand'? I speak of?
+yep, that's right. We never had a problem with wild animal attacks before, but about a week and a half ago ...
 
-Is it vainglorious masturbation?
+And have you seen this kid, by any chance?
 
-Perhaps.
+What? Why's that?
 
-What is it to be 'vainglorious?'
+Well ... he's a good enough kid, but he might be more trouble than he's worth. He was up at the Seven Oaks. Lost his Ma recently, and well ... he gets these panic attacks sometimes ... lot of fury, lot of violence in that kid, he sometimes directs it in bad ways ... We brought a little dog in to see him. Sometimes kids need comfort, you know ... Dogs can be wonderful therapy for troubled folks ... and ... Louis hasn't hurt anybody. Not any people. But we are worried. Look at this picture. We left him unsupervised with the puppy. Thought if they spent a night together ... but ... he did this with his bare hands. He gets these overwhelming panic attacks. Can't control his anger. Guy's been through a lot. Can hardly blame him, but ... he needs help. We're afraid he might hurt someone. Afraid he might hurt himself.
 
-It is essentially to be vain, isn't it?
+You think he might have mauled our sheep?
 
-The Merriam-Webster online calls it:
+It's a long-shot. But a possibility.
 
-> having or showing too much pride in your abilities or achievements 
+No. We ain't seen him.
 
-on to the dog and pony show.
+---
 
-> The term was originally used in the United States in the late-19th and early-20th centuries to refer to small traveling circuses that toured through small towns and rural areas. The name derives from the common use of performing dogs and ponies as the main attractions of the events.[2] Performances were generally held in open-air arenas, such as race tracks or public spaces in localities that were too small or remote to attract larger, more elaborate performers or performances. The most notorious was “Prof. Gentry's Famous Dog & Pony Show,” started when teenager Henry Gentry and his brothers started touring in 1886 with their act, originally entitled “Gentry’s Equine and Canine Paradox.” It started small, but evolved into a full circus show.[3] Other early dog and pony shows included Morris’ Equine and Canine Paradoxes (1883) and Hurlburt’s Dog and Pony Show (late 1880s).
+honey ... you think louis could have done that? To the sheep? to that puppy?
 
-> By the latter part of the 20th century, the original meaning of the term had been largely lost.
+I don't think so. But even if ... with the puppy ... that thing wasn't gored in the same way. Teeth. Claws. Cuts and tears ...
 
-Thus spake Wikipedia. 
+---
 
-That last line is rather sad, isn't it?
+<!-- 2015-01-30 | 21:52:05 -->
 
-But I do roather like the "Equine and Canine Paradox." That has a certain post-victorian charm to it, I think.
 
-Well, whether you are in agreement or dis, it is time to depart this scenario.
+How many patients? There were seven in all. Seven hounds on Oscuro's trail.
 
-On to the Equine and Canine Paradox, gentlemen. We must away.
+Seven sins, seven offences. Seven wrathful deities chasing Oscuro to the ends of the earth. 
 
---- 
+He made a bargain with forces of the outer worlds. They gave him great power and vision, but when time came to pay the price, he skipped out. He preyed on the weak, as he always did. He lured the sick and the desperate out to a shack on the border and he called down the hunters. He had a trick up his sleeve and he planned to play it. 
 
-Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
-tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
-quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo
-consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse
-cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non
-proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+Oscuro walked into the wind with a gun and a grin. 
 
-Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
-tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
-quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo
-consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse
-cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non
-proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+He shouted to the heavens and he prayed for salvation. He whipped himself across the back with his fronds or wands or scraps of hazel or whatever wood was suitable for the whipping.
 
-Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
-tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
-quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo
-consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse
-cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non
-proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+<!-- TODO: suitable switch for flagellation. something for Oscuro to smack himself with in ritual - what wood? what material? -->
+
+Oscuro went to some bordertown clubs in Matamoros. He picked up a young american guy, a guy looking to party. To have a good time. To get fucked up. 
+
+Oscuro promised him drugs, girls, a better party. An underground party, where all the sexy people would be. 
+
+The kid couldn't resist. The way Oscuro painted the picture, the way he described it ... he was salavating at the mouth. This was what he was looking for--to be initiated into the elite.
+
+They drove into a warehouse district.
+
+"This is where the party is," Oscuro said. "Where nobody can be bothered ... where the sound ... doesn't bother ... anybody."
+
+"I don't hear any music," said the kid.
+
+Oscuro pushed him into an empty industrial building and slipped zap-straps around his wrists. He secured him to exposed pipes.
+
+The kid started to struggle, but not hard enough. 
+
+"You never believe the end will come, do you? Always you think, in a moment, this will pass. You think 'this too will pass,'  but this is not the case. This will not pass.  This moment will not end. 
+
+<!-- 2015-01-30 | 23:11:34 -->
+
+
+---
+
+Oscuro bought time by sacrificing some kid. Some kid with a family that cared about him, but ... that's another story for another time. 
+
+He worked up protection for smugglers and dealers ... for runners and "Venue" controllers. 
+
+<!-- TODO: what's the name for a controlled smuggling market? an avenue? a realm? a ... what? there's a name for it, I know. can't think of it at the moment. -->
+
+---
+
+<!-- 2015-02-01 | 00:27:04 -->
+
+Let's think about this episode from two different angles: 
+
+* bellamy and Unger go looking for Louis. Canvassing rural neighborhoods.
+* Don Oscuro is on the run, desperate for reprieve. He calls on his girl, Millicent (Milly) to arrange a ceremony for him. He'll blow their minds, he tells her. This is the thing that's going to make him. It's really going to make him. He'll be head and shoulders above any of the competition. No one will be able to challenge Don Oscuro! he says. Not after this! I will be supreme ...
+
+---
+
+<!-- 2015-02-02 | 21:39:06 -->
+
+What are you looking for? Shannon asks
+
+Goddamned gas station doesn't have a phone booth. No phone booth.
+
+You don't get out much, do you?
+
+Durward wanted updates, to be informed as the information formed into lumps and slid in from the peripheries. As the coagulations slid toward the heart.
+
+Why don't you use my phone? It's a piece of shit, but it works.
+
+Shannon holds out a flip-phone to the doctor.
+
+Where'd you get this?
+
+Whaddya mean, where did I get this? The more pertinent question is why you don't have one--
+
+But the doctor isn't listening any more, he's got the phone wedged between his face and his shoulder and he pulls the cap off a ballpoint pen with his teeth, letting it fall into his lap while he tries to maneuver a notepad into position against the steering wheel. The phone keeps slipping down his face and he 
+
+Apparently, to stave off some massive lawsuit, that's what we're doing here, Bellamy tells Shannon. Kid's family is furious he's disappeared. Holding the Oaks liable and Durward's holding me liable, and I don't know if we can just hand the kid over to her, but we certainly can't just let him go. He's a danger. But I don't need to tell you that.
+
+You don't know the half of it, Doc. The kid's got issues. 
+
+That's why you're here.
+
+Kid's got issues beyond what I've got. Beyond what I can help with. Kid's ...
+
+---
+
+All right. Bellamy says into the phone. Yes, I've got the address. Rural Route twenty six.
+
+Who you talking to?
+
+Doesn't matter. Livestock maulings been reported up on--
+
+Route Twenty Six, I heard.
+
+---
+
+Oscuro's body itches with excitement. Is this what fear feels like? He can't remember, try as he might.
+
+<!-- 2015-02-03 | 20:25:43 -->
+
+He remembers what it was like to be hungry. To *desire.* To want more. Oscuro remembers what it was like to want. This is something he knew very well. But did he know fear? Did he ever know fear?
+
+He can't remember.
+
+He listens to the wind.
+
+*They are **coming** for you, Don,* the wind says.
+
+Don Oscuro laughs. "They will not like what they find," he says.
+
+"What's that?" Kevin says.
+
+"This way, Carl. The girls are this way," Oscuro says in soothing tones.
+
+"It's Kevin," Kevin says.
+
+"Hmm? Oh yes, fine," Oscuro says. "Very fine."
+
+"Seems like a strange place to have a party," Kevin says.
+
+"There are no neighbors to bother."
+
+"Yeah. I guess so."
+
+...
+
+"But ... where is everybody? I mean ... no neighbors to bother, sure. But what's to bother them? I don't hear any music or voices. There's no cars out here. There's no lights on, even. I mean, come on, man. Where are you taking me?"
+
+"No party here. Here, we pick up the drogas, then ... the party ... and the girls."
+
+"Oh yeah, man ... I can dig that. The *dro*gas. We pick up the *dro*gas! ***Drogas!***
+
+
+---
+
+
+/now doesn't work in this context, but that's alright. there are other
+/things to replace it.
+
+Kevin's parents didn't understand him. Really? that's what he wants to lead
+with?
+
+No. He doesn't want to lead with that. They have a good relationship,
+really. They love and support him. Only maybe a little too much is the only
+thing that ever could bother Kevin. His life is too boring. He hasn't had to
+struggle all too much ... It's not that he's from a rich family. 
+
+He isn't spoiled. He's had to work. He didn't have big family bucks behind
+him to pay for an Ivy league or an A-list school. He earned some
+scholarships, took out a few loans, blah blah blah. They weren't rich enough
+so that he'd get into the really good schools, or have a really nice car, or
+anything like that. But they weren't poor enough to give him any good
+stories or challenges or struggles growing up. His life was as bland as bland
+could be. Kevin Milquetoast from Milquetoast Wisconsin. His upbringing was
+waspish, suburban and blank. He wasn't good looking enough to be stunning,
+he wasn't ugly enough to have to be interesting. He never developed a
+self-deprecating wit or bloodthirsty charisma.
+
+His life so far was a leisurely stroll down the middle of the road. Not much
+to see, not much to do, just a wide open avenue that didn't really go
+anywhere.
+
+He was tired of being understood, of being boring. He wanted adenture. So
+this Spring Break, he set out to find it. He wanted to pile into his Toyota
+Camry with a group of rowdy college friends and head across the border to
+cut loose. He wanted to meet girls and stay up all night. He wanted to have
+a story to tell when the guys were standing around the keg, telling tall
+tales and waving their plastic cups at the girls.
+
+But Kevin didn't have a group of rowdy college friends. He had friends that
+studied together and played video games together and ate pizza pockets and
+sometimes stayed up late playing boardgames.
+
+And they all looked at him like he'd lost his mind when he talked about
+heading down to Matamoros for Spring Break.
+
+Wouldn't it be great, guys?
+
+Sure, Kevin. It'd be something else.
+
+But they didn't believe he'd actually do it. They never thought he'd cross
+the border, and even if he did ... he wouldn't head to any Mexican
+Nightclubs or Strip Bars.
+
+And maybe he never would have gone, if it wasn't for the way they laughed at
+him. For the way they dismissed him. Nobody took him seriously. But they
+didn't call him a liar or dare him to do it or even raise an eyebrow. Sure,
+Kevin, likely scenario. They, the people who knew him best, thought him
+incapable of taking a simple holiday roadtrip to get wasted in another
+country.
+
+It's dangerous, man.
+
+Precisely!
+
+Why bother?
+
+For the adventure. Don't you ever just want to ... I don't know ... *do*
+something?
+
+I guess. You want to throw a pizza pocket into the science oven for me? 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+---
