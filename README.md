@@ -1,5 +1,7 @@
 # PANIC attacks
 
+<!-- TODO: rewrite the readme to reflect not the synopsis, but instead a behind-the-scenes welcome. a bit of methodology and intent maybe -->
+
 Louis lost his mother when she walked into a ritual murder, believing it to be a healing ceremony for her Lupus-afflicted son.
 Now he is a ward of the state, confined to an asylum for the infirm and insane. 
 His disease has gone into an inexplicable remission, but something else is taking its place. 
