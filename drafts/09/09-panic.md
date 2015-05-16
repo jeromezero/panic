@@ -2,31 +2,46 @@
 % Jerome Steegmans
 
 <!-- EPISODE 09 - asana task #24691402714053 -->
+
 \pagebreak
 
-<!-- STATUS: outline -->
+## intro
 
-Louis is out on his own now. He's in his teens, starting to lose the babyfat that has been with him up until the last weeks / months of his life. After he lost his family and shit got weird, that's when he started to lose the weight and all that.
+<!-- TODO: turn intro section into dialogue between Bellamy and Ulger- night driving, in the car, chasing leads  -->
 
-He's pursued by Shannon, who is somewhat sympathetic to Louis, and a great deal frightened of him as well. Left on his own, Shannon would steer far clear of louis and never let himself be troubled by thoughts of the kid again. 
+<!-- Louis is out on his own now. He's in his teens, starting to lose the baby fat that has been with him up until the last weeks / months of his life. After he lost his family and shit got weird, that's when he started to lose the weight and all that. -->
 
-But ...  
+<!-- He's pursued by Shannon, who is somewhat sympathetic to Louis, and a great deal frightened of him as well. Left on his own, Shannon would steer far clear of Louis and never let himself be troubled by thoughts of the kid again.  -->
 
-Shannon is driven after Louis by Doctor Bellamy.
+"Why do we have to do this?" Shannon says. "Why do we have to run him down like a dog?"
 
-Doctor Bellamy is fascinated by, and wants to study Louis. He also believes there is no other hope for Louis. He is doomed to a very short life and a violent death if he does not accept his nature and allow Bellamy to help him, as he helped Shannon.
+Shannon and Doctor Bellamy watch the hood of Bellamy's Volvo devour the road in pulsing flashes of painted lines.
 
-Shannon came to him at a very different time in his life. He is older, and found his own coping mechanisms--though many of these turned out to be 'unhealthy' in the greater scheme of things. He is struggling to recover from substance abuse problems and his habit of running away instead of emotionally engaging with his situation and surroundings has left him disconnected and lonely, to say the least. He is beholden to Doctor Bellamy in ways beyond what is apparent on the surface.
+"You know why."
 
-Doctor Bellamy is in turn pursued by the Asylum Director, Doctor Durward. Durward is furious that Louis has been allowed to disappear. She had been ready to hand the kid off to an alleged family member ...
+"I guess ... but I feel sorry for him."
 
-Shannon doesn't believe for a minute that the woman who claims to be Louis' Aunt is any blood relation. 
+"You're scared of him."
 
-Bellamy reminds Shannon that his theories and beliefs are held in very low regard.
+"You can't help him, Doctor B."
 
-"If there were blood between them, I'd smell it," Shannon says.
+"But we can study him. And if we don't try ... he'll live a short life and die a violent death. I helped you. I've got to try and help him too."
 
-Bellamy scoffs. "Some wolf. What good is a hound without a sense of smell?" Shannon destroyed his nose with cocaine and crystal. "You've burned out your nose. You're not a wolf. You're barely even a dog. A dog scared of his shadow. A dog thats been beat too many times ..."
+<!-- TODO: edit passage -->
+Shannon wants to say that he came to the doctor at a very different time in his life. He is older, and had his own coping mechanisms--unhealthy though they may have been. He is struggling to recover from substance abuse problems and his habit of running away instead of emotionally engaging with his situation and surroundings has left him disconnected and lonely, to say the least. He is beholden to Doctor Bellamy in ways beyond what is apparent on the surface.
+
+"The director is furious. The kid disappeared the same night his aunt came to pick him up."
+
+"That woman is no relation to the kid."
+
+"Your opinion matters very little here, Shannon."
+
+"If there were blood between them, I'd smell it." 
+
+Bellamy scoffs. "Some wolf. What good is a hound without a sense of smell?" Shannon destroyed his nose with cocaine and crystal. "You've burned out your nose. You're not a wolf. You're barely even a dog. A dog scared of his shadow. A dog that's been beat too many times ..."
+
+<!-- TODO: insert: if she's family, leave the kid to her. Let her track him down. Police'd be on her side. -Durward's having a fit. No police, no protective services. Besides, no one can help him like we can, Shannon. -->
+
 
 ---
 
@@ -54,7 +69,7 @@ No. We ain't seen him.
 
 ---
 
-honey ... you think louis could have done that? To the sheep? to that puppy?
+Honey ... you think Louis could have done that? To the sheep? to that puppy?
 
 I don't think so. But even if ... with the puppy ... that thing wasn't gored in the same way. Teeth. Claws. Cuts and tears ...
 
@@ -65,21 +80,19 @@ I don't think so. But even if ... with the puppy ... that thing wasn't gored in 
 
 How many patients? There were seven in all. Seven hounds on Oscuro's trail.
 
-Seven sins, seven offences. Seven wrathful deities chasing Oscuro to the ends of the earth. 
+Seven sins, seven offenses. Seven wrathful deities chasing Oscuro to the ends of the earth. 
 
 He made a bargain with forces of the outer worlds. They gave him great power and vision, but when time came to pay the price, he skipped out. He preyed on the weak, as he always did. He lured the sick and the desperate out to a shack on the border and he called down the hunters. He had a trick up his sleeve and he planned to play it. 
 
 Oscuro walked into the wind with a gun and a grin. 
 
-He shouted to the heavens and he prayed for salvation. He whipped himself across the back with his fronds or wands or scraps of hazel or whatever wood was suitable for the whipping.
+He shouted to the heavens and he prayed for salvation. He whipped himself across the back with a splayed rope of dyed and braided hemp.
 
-<!-- TODO: suitable switch for flagellation. something for Oscuro to smack himself with in ritual - what wood? what material? -->
-
-Oscuro went to some bordertown clubs in Matamoros. He picked up a young american guy, a guy looking to party. To have a good time. To get fucked up. 
+Oscuro went to some bordertown clubs in Matamoros. He picked up a young American guy, a guy looking to party. To have a good time. To get fucked up. 
 
 Oscuro promised him drugs, girls, a better party. An underground party, where all the sexy people would be. 
 
-The kid couldn't resist. The way Oscuro painted the picture, the way he described it ... he was salavating at the mouth. This was what he was looking for--to be initiated into the elite.
+The kid couldn't resist. The way Oscuro painted the picture, the way he described it ... he was salivating at the mouth. This was what he was looking for--to be initiated into the elite.
 
 They drove into a warehouse district.
 
@@ -99,9 +112,9 @@ The kid started to struggle, but not hard enough.
 
 Oscuro bought time by sacrificing some kid. Some kid with a family that cared about him, but ... that's another story for another time. 
 
-He worked up protection for smugglers and dealers ... for runners and "Venue" controllers. 
+He worked up protection for smugglers and dealers ... for runners and "plaza" controllers. 
 
-<!-- TODO: what's the name for a controlled smuggling market? an avenue? a realm? a ... what? there's a name for it, I know. can't think of it at the moment. -->
+<!-- DONE: what's the name for a controlled smuggling market? A "Plaza." -->
 
 ---
 
@@ -207,7 +220,7 @@ His life so far was a leisurely stroll down the middle of the road. Not much
 to see, not much to do, just a wide open avenue that didn't really go
 anywhere.
 
-He was tired of being understood, of being boring. He wanted adenture. So
+He was tired of being understood, of being boring. He wanted adventure. So
 this Spring Break, he set out to find it. He wanted to pile into his Toyota
 Camry with a group of rowdy college friends and head across the border to
 cut loose. He wanted to meet girls and stay up all night. He wanted to have
@@ -216,7 +229,7 @@ tales and waving their plastic cups at the girls.
 
 But Kevin didn't have a group of rowdy college friends. He had friends that
 studied together and played video games together and ate pizza pockets and
-sometimes stayed up late playing boardgames.
+sometimes stayed up late playing board games.
 
 And they all looked at him like he'd lost his mind when he talked about
 heading down to Matamoros for Spring Break.
@@ -233,7 +246,7 @@ And maybe he never would have gone, if it wasn't for the way they laughed at
 him. For the way they dismissed him. Nobody took him seriously. But they
 didn't call him a liar or dare him to do it or even raise an eyebrow. Sure,
 Kevin, likely scenario. They, the people who knew him best, thought him
-incapable of taking a simple holiday roadtrip to get wasted in another
+incapable of taking a simple holiday road-trip to get wasted in another
 country.
 
 It's dangerous, man.
@@ -300,7 +313,7 @@ What Louis felt now was different.
 
 This thing inside him didn't speak the same language. 
 
-Language was a tough metaphor to use in this case, because the other, the first thing that he had inside him didn't really speak the language either. But it didn't matter. Because it *was him,* on some level. There were miscommunications and confusions. Difficulty in getting his point across when his analytical, linguistic consciousness didn't see eye to eye with his visceral, lymbic, emotional being. It was tough. It was good old wrestling with your feelings tough. But they were his feelings. Conflict arose when he tried to explain to the part of himself that didn't care about reasoning or logic why he shouldn't be feeling a particular emotion or sensation. It was frustrating and difficult at times, but he had tricks and techniques, and when it came right down to it, he was feeling the same things. He had access to both sides of the discussion, in a manner of speaking. He knew what was going on down there, even if he didn't have the common language to talk it down or disarm the situation.
+Language was a tough metaphor to use in this case, because the other, the first thing that he had inside him didn't really speak the language either. But it didn't matter. Because it *was him,* on some level. There were miscommunications and confusions. Difficulty in getting his point across when his analytic, linguistic consciousness didn't see eye to eye with his visceral, lymbic, emotional being. It was tough. It was good old wrestling with your feelings tough. But they were his feelings. Conflict arose when he tried to explain to the part of himself that didn't care about reasoning or logic why he shouldn't be feeling a particular emotion or sensation. It was frustrating and difficult at times, but he had tricks and techniques, and when it came right down to it, he was feeling the same things. He had access to both sides of the discussion, in a manner of speaking. He knew what was going on down there, even if he didn't have the common language to talk it down or disarm the situation.
 
 This new thing didn't have any of the common ground. Louis had no idea what he was feeling any more. He'd catch a scent of something in the air, or see some flicker of movement out of the corner of his eye ... and next thing he knew, he'd be up on a table with his dick in his hand, pissing all over everything.
 
@@ -343,8 +356,8 @@ waved a pair of pajama pants out the window, watching them flap and snap in
 the hot highway air. They were moving again, but not an unwelcome,
 oppressive move. Louis was too young to understand that there was something
 *wrong* with him. They had such a good time, the two of them. Mother was
-filled with hope and optimism.  They were headed off to something new,
-something exciting. But then ...  the pajama pants slipped out of his
+filled with hope and optimism.  They were headed off to something *new*,
+something *exciting.* But then ...  the pajama pants slipped out of his
 grasp and fluttered out behind them, flying through the air before falling
 into the ditch on the side of the highway.  "Ma, stop the car," Louis
 called, but the car kept on speeding.  Something blotted out the sun and the
@@ -367,33 +380,37 @@ What just happened? Louis asks himself.
 impressively-tailored shirt, rolled up at the sleeves. "You'll like it."
 
 "I was thinking maybe something that I can't get at home without a
-perscription, like Percocet or I dunno, maybe Aderol?" Kevin's voice is
+prescription, like Percocet or I dunno, maybe Aderol?" Kevin's voice is
 small, fading away into nothing. 
 
 The Mexican hands him a silver straw and gestures to the mirrored surface of
-the coffee table across which <!-- TODO: what color is Ketamine? --> cut lines of
-greenish-white powder trace out arcane forms. "Like this," he says, closing
+the coffee table across which cut lines of
+glittering white powder trace out arcane forms. "Like this," he says, closing
 one of his nostrils with his thumb and tracing an invisible line across the
-center of the room with his nose as it hisses with a steady intake of breath
+center of the room with his nose. It hisses with a steady intake of breath
 that fills Kevin's ears with white noise. The breath goes on forever. The
 Mexican's lungs fill and keep filling and Kevin feels himself being pulled
 forward with a rush of air that comes in under the door,
 through cracked windows, through gaps in the decaying siding of this
 never-insulated warehouse.
 
-The powder burns the sensitive membrane inside Kevin's nose. A rush of
-adrenaline surges through him and his head snaps back and his eyes stretch
-wider and wider and the colors of everything around him begin to saturate
-and bleed.
+The powder burns the inside of Kevin's nose. 
+He drops the silver straw and leans back. The metal tube bounces and clatters on the glass, sending flashing waves of light up into the rafters. 
+The waves of light knock loose cobwebs from the far high corners. 
+The cobwebs fall like lines of code, sparkling as they descend like digital rain.
 
-The other men laugh.
+"Is that music?" Kevin says, pointing to the swarms of base-jumping spiders. 
+
+He sits down on the floor with a thump. The world is large and spinning.
+
+The men laugh.
 
 How many of them are there? Kevin couldn't tell. He hadn't thought to count.
 Maybe three or four? No more than ten.
 
 "This one will make me safe, when I cross the border, yes?"
 
-"Completely invisible," Don Oscuro says. He takes off his shirt and draws a
+"Safe," Don Oscuro says. He takes off his shirt and draws a
 a machete from a leather sheath with a ringing scrape of steel. "Take his
 hands. Tie them down."
 
@@ -401,11 +418,15 @@ Men remove the mirror from the makeshift table. The splintering surface of
 the wood chafes Kevin and punctures his soft skin as the men lift him into
 place, stretching him out on his back.
 
-Kevin can't bring himself to move. It isn't the men holding him down. He
-just can't convince his body to carry out his will.
+Kevin watches from above. 
 
-"See the fear in his eyes? This is good. He will give strong magic for
-you. You will be unstoppable."
+"There is no God," a voice whispers into his ear. 
+"There is no Heaven. No Hell. No punishment. No reward."
+
+"Look to the fear in his eyes," Oscuro says. 
+"This is good. This rich American boy, he is good. 
+He will give *strong* magic for you. 
+Better than some cholo naco. You will be unstoppable."
 
       	
 
